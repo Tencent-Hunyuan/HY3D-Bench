@@ -96,6 +96,14 @@ Scalable AIGC-driven synthetic data covering rare and diverse categories.
 ## 📥 Download
 [🤗 Hugging Face](https://huggingface.co/datasets/tencent/HY3D-Bench)
 
+```
+# Download entire dataset
+hf download tencent/HY3D-Bench --repo-type dataset --local-dir "your/local/path"
+
+# Download specific subset, e.g. full. 
+hf download tencent/HY3D-Bench --repo-type dataset --include "full/**" --local-dir "your/local/path"
+```
+
 | Dataset | Objects | Size |
 |---------|---------|------|
 | **Full-level** | 252K+ | ~11 TB | 
