@@ -1,0 +1,167 @@
+name: "Mesh VAE: 4096 token length; Camera VAE: 1024 channel; ImageSize: 518"
+
+training:
+  steps: 80_0000
+  use_amp: true
+  amp_type: "32"
+  base_lr: 1.e-5
+  every_n_train_steps: &freq 10000
+  val_check_interval: 9999
+  limit_val_batches: 16
+
+dataset:
+  target: baselines.core.data.dit_dataset.MultiAlignedShapeLatentModule
+  params:
+    batch_size: 2
+
+    num_workers: 4
+    val_num_workers: 1
+    buffer_size: 4000
+
+    surface_sampling: true
+    pc_size: &pc_size 81920 # 81920 for 4096 latents; 40960 for 2048 latents; 10240 for 512 latents
+    pc_sharpedge_size: &pc_sharpedge_size 0 # 
+    sharpedge_label: &sharpedge_label true
+    return_normal: true
+
+    use_high_elev_view: true
+    high_elev_prob: 0.15 # 
+    use_fill_hole: false
+    fill_hole_prob: 0.1 # 这个有效的，但是fill hole不开
+    fov_range: [10, 70]
+
+    cond_stage_key: "image"
+    image_size: &image_size 512
+    mean: &mean [0.5, 0.5, 0.5]
+    std: &std [0.5, 0.5, 0.5]
+    random_crop: false
+    padding: true
+    blur: true
+    blur_prob: 0.1
+    contour: true
+    contour_prob: 0.1
+    contour_thickness_range: [2,6]
+    img_rotation: false
+    img_rotation_prob: 0.1
+    img_rotation_angle: [-30, 30]
+    imgdict_path: path/to/imgdict.json
+
+    meta_info:
+      obj_clean:
+        tar_folder: path/to/obj_clean
+
+model:
+  target: baselines.core.models.diffusion.flow_matching_sit.Diffuser
+  params:
+    ckpt_path: /path/to/2048token/ckpt
+    first_stage_key: "surface"
+    cond_stage_key: "image"
+    scale_by_std: false
+    z_scale_factor: &z_scale_factor 1.0039506158752403
+    torch_compile: false
+
+    # ema_config:
+    #   ema_model: LitEma
+    #   ema_decay: 0.999
+    #   ema_inference: false
+
+    first_stage_config:
+      target: baselines.core.models.autoencoders.ShapeVAE
+      #Ensure same with the dataset setting
+      params: 
+        ckpt_path: path/to/vae/model
+        num_latents: 4096
+        embed_dim: 64
+        num_freqs: 8
+        include_pi: false
+        heads: 16
+        width: 1024
+        num_encoder_layers: 8
+        num_decoder_layers: 16
+        qkv_bias: false
+        qk_norm: true
+        scale_factor: *z_scale_factor
+        geo_decoder_mlp_expand_ratio: 4
+        geo_decoder_downsample_ratio: 1
+        geo_decoder_ln_post: true
+        point_feats: 4
+        pc_size: *pc_size
+        pc_sharpedge_size: *pc_sharpedge_size
+
+    cond_stage_config:
+      target: baselines.core.models.conditioner.SingleImageEncoder
+      params:
+        drop_ratio: 0.1
+        main_image_encoder:
+          type: DinoImageEncoder 
+          kwargs:
+            version: 'facebook/dinov2-large'
+            image_size: 518
+            use_cls_token: true
+
+    denoiser_cfg:
+      target: baselines.core.models.denoisers.hunyuan3d_v21.hunyuandit.HunYuanDiTPlain_skipconnection_ablation
+      params:
+        input_size: 4096  # use_pos_emb=True时才有用
+        in_channels: 64
+        hidden_size: 1536
+        context_dim: 1024
+        depth: 21
+        num_heads: 16
+        qk_norm: true
+        text_len: 1370
+        with_decoupled_ca: false
+        use_attention_pooling: false
+        qk_norm_type: 'rms'
+        qkv_bias: false
+        use_pos_emb: false
+        num_moe_layers: 0
+        num_experts: 8
+        moe_top_k: 2
+        
+    scheduler_cfg:
+      transport:
+        target: baselines.core.models.diffusion.transport.create_transport
+        params:
+          path_type: Linear
+          prediction: velocity
+          train_sample_type: logit_normal #for better diffusion performance, remember to turn it off after dinog is converging
+          mean: 0 
+          std: 1.0
+          shift_scale: 0.125 
+      sampler:
+        target: baselines.core.models.diffusion.transport.Sampler
+        params: {}
+        ode_params:
+          sampling_method: euler # dopri5 ...
+          num_steps: &num_steps 50
+
+    optimizer_cfg:
+      optimizer:
+        target: torch.optim.AdamW
+        params:
+          betas: [0.9, 0.99]
+          eps: 1.e-6
+          weight_decay: 1.e-2
+
+    pipeline_cfg:
+      target: baselines.core.pipelines.Hunyuan3DDiTFlowMatchingPipeline
+
+    image_processor_cfg:
+      target: baselines.core.preprocessors.ImageProcessorV2
+      params: {}
+
+callbacks:
+  logger:
+    target: baselines.core.utils.trainings.mesh_log_callback.ImageConditionalASLDiffuserLogger
+    params:
+      step_frequency: *freq # 10000
+      additional_steps: [500, 1000]
+      num_samples: 1
+      sample_times: 1
+      mean: *mean
+      std: *std
+      bounds: [-1.01, -1.01, -1.01, 1.01, 1.01, 1.01]
+      octree_depth: 8
+      num_chunks: 50000
+      mc_level: 0.0
