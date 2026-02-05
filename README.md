@@ -146,6 +146,16 @@ If you found this repository helpful, please cite our reports:
 
 ```bibtex
 
+@misc{hunyuan3d2026hy3dbenchgeneration3dassets,
+      title={HY3D-Bench: Generation of 3D Assets}, 
+      author={Team Hunyuan3D and : and Bowen Zhang and Chunchao Guo and Dongyuan Guo and Haolin Liu and Hongyu Yan and Huiwen Shi and Jiaao Yu and Jiachen Xu and Jingwei Huang and Kunhong Li and Lifu Wang and Linus and Penghao Wang and Qingxiang Lin and Ruining Tang and Xianghui Yang and Yang Li and Yirui Guan and Yunfei Zhao and Yunhan Yang and Zeqiang Lai and Zhihao Liang and Zibo Zhao},
+      year={2026},
+      eprint={2602.03907},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.03907}, 
+}
+
 @article{ma2025p3sam,
   title={P3-sam: Native 3d part segmentation},
   author={Ma, Changfeng and Li, Yang and Yan, Xinhao and Xu, Jiachen and Yang, Yunhan and Wang, Chunshi and Zhao, Zibo and Guo, Yanwen and Chen, Zhuo and Guo, Chunchao},
