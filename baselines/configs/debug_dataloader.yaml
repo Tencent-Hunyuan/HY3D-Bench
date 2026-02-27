@@ -1,0 +1,73 @@
+name: "Mesh VAE: 4096 token length; Camera VAE: 1024 channel; ImageSize: 518"
+
+training:
+  steps: 10_0000_0000
+  use_amp: true
+  amp_type: "32"
+  base_lr: 1.e-4
+  every_n_train_steps: &freq 10000
+  val_check_interval: 9999
+  limit_val_batches: 16
+
+dataset:
+  target: baselines.core.data.dit_dataset.MultiAlignedShapeLatentModule
+  params:
+    batch_size: 16
+
+    num_workers: 4
+    val_num_workers: 1
+    buffer_size: 4000
+
+    surface_sampling: true
+    pc_size: &pc_size 10240 
+    pc_sharpedge_size: &pc_sharpedge_size 0 # 
+    sharpedge_label: &sharpedge_label true
+    return_normal: true
+
+    use_high_elev_view: true
+    high_elev_prob: 0.15 # 这个prob暂时无效
+    use_fill_hole: false
+    fill_hole_prob: 0.1 # 这个有效的，但是fill hole不开
+    fov_range: [10, 70]
+
+    cond_stage_key: "image"
+    image_size: &image_size 512
+    mean: &mean [0.5, 0.5, 0.5]
+    std: &std [0.5, 0.5, 0.5]
+    random_crop: false
+    padding: true
+    blur: true
+    blur_prob: 0.1
+    contour: true
+    contour_prob: 0.1
+    contour_thickness_range: [2,6]
+    img_rotation: false
+    img_rotation_prob: 0.1
+    img_rotation_angle: [-30, 30]
+    imgdict_path: /path/to/your/images_dict.json
+
+    meta_info:
+      obj_clean:
+        tar_folder: /path/to/your/data
+
+first_stage_config:
+  target: baselines.core.models.autoencoders.ShapeVAE
+  params: 
+    # ckpt_path: 'path/to/your/ckpt'
+    num_latents: 512
+    embed_dim: 64
+    num_freqs: 8
+    include_pi: false
+    heads: 16
+    width: 1024
+    num_encoder_layers: 8
+    num_decoder_layers: 16
+    qkv_bias: false
+    qk_norm: true
+    scale_factor: 1.0039506158752403
+    geo_decoder_mlp_expand_ratio: 4
+    geo_decoder_downsample_ratio: 1
+    geo_decoder_ln_post: true
+    point_feats: 4
+    pc_size: *pc_size
+    pc_sharpedge_size: *pc_sharpedge_size

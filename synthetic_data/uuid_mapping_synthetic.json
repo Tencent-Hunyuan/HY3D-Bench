@@ -1,0 +1,5010 @@
+{
+    "be97a9bcba084d149c10f6ff5343b7c6": [
+        "服饰内衣--服饰配件--防辐射眼镜",
+        "Apparel_and_Underwear--Clothing_Accessories--Anti_Radiation_Glasses"
+    ],
+    "eb5283dd1ea44593be160961c0015cc6": [
+        "服饰内衣--服饰配件--棒球帽",
+        "Apparel_and_Underwear--Clothing_Accessories--Baseball_Caps"
+    ],
+    "a8d7dd66f7d34a569996b340bad13576": [
+        "服饰内衣--服饰配件--贝雷帽",
+        "Apparel_and_Underwear--Clothing_Accessories--Berets"
+    ],
+    "9fd5cc209a9646b58089c3fa12af2020": [
+        "服饰内衣--服饰配件--领结",
+        "Apparel_and_Underwear--Clothing_Accessories--Bow_Ties"
+    ],
+    "b3afd3c22e3348b3898ab8f25345278d": [
+        "服饰内衣--服饰配件--袖扣",
+        "Apparel_and_Underwear--Clothing_Accessories--Cufflinks"
+    ],
+    "cb26ea4cd7984755a08be42cef448ba9": [
+        "服饰内衣--服饰配件--鸭舌帽",
+        "Apparel_and_Underwear--Clothing_Accessories--Duck_Tongue_Caps"
+    ],
+    "99fdc5c6790d4b5aab4cf379499a0ced": [
+        "服饰内衣--服饰配件--耳包",
+        "Apparel_and_Underwear--Clothing_Accessories--Ear_Warmers"
+    ],
+    "891ad5e6e1d54ea78cc42059d5c436a6": [
+        "服饰内衣--服饰配件--耳罩",
+        "Apparel_and_Underwear--Clothing_Accessories--Earmuffs"
+    ],
+    "5cb2bb2615df489ab994522ab093fb6b": [
+        "服饰内衣--服饰配件--布面料",
+        "Apparel_and_Underwear--Clothing_Accessories--Fabric"
+    ],
+    "0002632d13784c8ca63a4928e1e0ecfb": [
+        "服饰内衣--服饰配件--口罩",
+        "Apparel_and_Underwear--Clothing_Accessories--Face_Masks"
+    ],
+    "a59c9392c0fc40caa16a28d1085d13c8": [
+        "服饰内衣--服饰配件--假领",
+        "Apparel_and_Underwear--Clothing_Accessories--False_Collars"
+    ],
+    "14165824966b4643998931fa5d4c154f": [
+        "服饰内衣--服饰配件--装饰眼镜",
+        "Apparel_and_Underwear--Clothing_Accessories--Fashion_Glasses"
+    ],
+    "d8261f1d87c7480e95cdeb5d5715bfdb": [
+        "服饰内衣--服饰配件--礼帽",
+        "Apparel_and_Underwear--Clothing_Accessories--Fedoras"
+    ],
+    "17a2d28ffd984a97bb83ba5806321f10": [
+        "服饰内衣--服饰配件--手套",
+        "Apparel_and_Underwear--Clothing_Accessories--Gloves"
+    ],
+    "26daa0171e5e42d8a4971915f6f210d4": [
+        "服饰内衣--服饰配件--帽子套装",
+        "Apparel_and_Underwear--Clothing_Accessories--Hat_Sets"
+    ],
+    "f96dc5b6c0f24da497243784a6b9b4fc": [
+        "服饰内衣--服饰配件--钥匙扣",
+        "Apparel_and_Underwear--Clothing_Accessories--Keychains"
+    ],
+    "048251cb8d014121b4dc30a7f245287d": [
+        "服饰内衣--服饰配件--毛线手套",
+        "Apparel_and_Underwear--Clothing_Accessories--Knit_Gloves"
+    ],
+    "45eed40d8aa74ae595e901dc2eff0369": [
+        "服饰内衣--服饰配件--毛线帽",
+        "Apparel_and_Underwear--Clothing_Accessories--Knit_Hats"
+    ],
+    "d99dfacbc7d8405690b51c5897646600": [
+        "服饰内衣--服饰配件--真皮手套",
+        "Apparel_and_Underwear--Clothing_Accessories--Leather_Gloves"
+    ],
+    "75b0fa3e0f524f619de8505a1f4e947c": [
+        "服饰内衣--服饰配件--男士围巾",
+        "Apparel_and_Underwear--Clothing_Accessories--Mens_Scarves"
+    ],
+    "74d043e5cc9a45958870545c958bce6f": [
+        "服饰内衣--服饰配件--男士丝巾",
+        "Apparel_and_Underwear--Clothing_Accessories--Mens_Silk_Scarves"
+    ],
+    "4478d3a6113e4697b35abdf804b7589a": [
+        "服饰内衣--服饰配件--领带",
+        "Apparel_and_Underwear--Clothing_Accessories--Neckties"
+    ],
+    "9e3818cf5f034389b1015b64b9cfd8e2": [
+        "服饰内衣--服饰配件--非皮质腰带",
+        "Apparel_and_Underwear--Clothing_Accessories--Non_Leather_Belts"
+    ],
+    "ff5a6610913f4140a733a36f185acf89": [
+        "服饰内衣--服饰配件--光学镜架",
+        "Apparel_and_Underwear--Clothing_Accessories--Optical_Frames"
+    ],
+    "b883aa7ea707411fb67896e30a3cb3e3": [
+        "服饰内衣--服饰配件--光学镜片",
+        "Apparel_and_Underwear--Clothing_Accessories--Optical_Lenses"
+    ],
+    "cfd4e97985b34fc784599b8e42c4557b": [
+        "服饰内衣--服饰配件--老花镜",
+        "Apparel_and_Underwear--Clothing_Accessories--Reading_Glasses"
+    ],
+    "6c1a8f2630ee48578398568f39ecb6c9": [
+        "服饰内衣--服饰配件--围巾",
+        "Apparel_and_Underwear--Clothing_Accessories--Scarves"
+    ],
+    "3fedd26bcead4c828420295fa7f7e97a": [
+        "服饰内衣--服饰配件--遮阳帽",
+        "Apparel_and_Underwear--Clothing_Accessories--Sun_Hats"
+    ],
+    "278b0e56a6cf4ef8bc23d590f674ca1d": [
+        "服饰内衣--服饰配件--防晒手套",
+        "Apparel_and_Underwear--Clothing_Accessories--Sun_Protection_Gloves"
+    ],
+    "c96a0b0adccb47fe811a8e5f78c2d40f": [
+        "服饰内衣--服饰配件--遮阳伞",
+        "Apparel_and_Underwear--Clothing_Accessories--Sun_Umbrellas"
+    ],
+    "e803c3c9659a4e2080feed519c44e198": [
+        "服饰内衣--服饰配件--太阳镜",
+        "Apparel_and_Underwear--Clothing_Accessories--Sunglasses"
+    ],
+    "d52eb7b98c4241c2964455c46d00f684": [
+        "服饰内衣--服饰配件--游泳镜",
+        "Apparel_and_Underwear--Clothing_Accessories--Swimming_Goggles"
+    ],
+    "24daee1f6d354820b7e72eb1d26d1a07": [
+        "服饰内衣--服饰配件--领带夹",
+        "Apparel_and_Underwear--Clothing_Accessories--Tie_Clips"
+    ],
+    "8870a6f84a0b49d9879faf4f9bd63e75": [
+        "服饰内衣--服饰配件--雨伞",
+        "Apparel_and_Underwear--Clothing_Accessories--Umbrellas"
+    ],
+    "b170a1ffa0074e93966ed57bfff9b112": [
+        "服饰内衣--服饰配件--女士围巾",
+        "Apparel_and_Underwear--Clothing_Accessories--Womens_Scarves"
+    ],
+    "367537fd60ea44f19b4a790495924b7f": [
+        "服饰内衣--服饰配件--女士披肩",
+        "Apparel_and_Underwear--Clothing_Accessories--Womens_Shawls"
+    ],
+    "3b43f35e8e3040edb9b2fef6c337bc48": [
+        "服饰内衣--服饰配件--女士丝巾",
+        "Apparel_and_Underwear--Clothing_Accessories--Womens_Silk_Scarves"
+    ],
+    "79eda64da23c4b3cbc30ec3cb8b837cf": [
+        "服饰内衣--服饰配件--毛线",
+        "Apparel_and_Underwear--Clothing_Accessories--Yarn"
+    ],
+    "cad96c8fc0c440a3963e4daa090081c1": [
+        "服饰内衣--男装--羊绒衫",
+        "Apparel_and_Underwear--Mens_Clothing--Cashmere_Sweaters"
+    ],
+    "e166c3eea53b48ea85efe08cb8da1225": [
+        "服饰内衣--男装--休闲裤",
+        "Apparel_and_Underwear--Mens_Clothing--Casual_Pants"
+    ],
+    "423e9d6dbaa142de9df2048144db044e": [
+        "服饰内衣--男装--棉服",
+        "Apparel_and_Underwear--Mens_Clothing--Cotton-padded_Clothes"
+    ],
+    "a24520ec675d47299a840d5410b52e2c": [
+        "服饰内衣--男装--设计师",
+        "Apparel_and_Underwear--Mens_Clothing--Designer"
+    ],
+    "0c8fc6d79f2b4034b1641edf6680af7a": [
+        "服饰内衣--男装--羽绒服",
+        "Apparel_and_Underwear--Mens_Clothing--Down_Jackets"
+    ],
+    "80386b6f7b574187bd10931ae33e3c9c": [
+        "服饰内衣--男装--西裤",
+        "Apparel_and_Underwear--Mens_Clothing--Dress_Trousers"
+    ],
+    "1f178a1249b945e6823c1774012f31a2": [
+        "服饰内衣--男装--仿皮皮衣",
+        "Apparel_and_Underwear--Mens_Clothing--Faux_Leather_Jackets"
+    ],
+    "76cb38dfef1345959167f3f2a718a0b0": [
+        "服饰内衣--男装--加绒裤",
+        "Apparel_and_Underwear--Mens_Clothing--Fleece_Lined_Pants"
+    ],
+    "d60eee257e0948248c6f1a30247fd05e": [
+        "服饰内衣--男装--真皮皮衣",
+        "Apparel_and_Underwear--Mens_Clothing--Genuine_Leather_Jackets"
+    ],
+    "bbcaab3d1add4f3db1661bc62df61ff4": [
+        "服饰内衣--男装--汉服",
+        "Apparel_and_Underwear--Mens_Clothing--Hanfu"
+    ],
+    "a7fa20577cbf42779ff0a4c9959db206": [
+        "服饰内衣--男装--卫衣",
+        "Apparel_and_Underwear--Mens_Clothing--Hoodies"
+    ],
+    "78d13a6fe21f494bae46d19dfc1a8896": [
+        "服饰内衣--男装--夹克",
+        "Apparel_and_Underwear--Mens_Clothing--Jackets"
+    ],
+    "6b62055be787486e89c3f28323917be5": [
+        "服饰内衣--男装--牛仔裤",
+        "Apparel_and_Underwear--Mens_Clothing--Jeans"
+    ],
+    "7b4e5734ea08464bb7605829fd10bf41": [
+        "服饰内衣--男装--针织衫",
+        "Apparel_and_Underwear--Mens_Clothing--Knit_Tops"
+    ],
+    "c1aa1ac44c0c44c884ec00ca131390ba": [
+        "服饰内衣--男装--男装套装",
+        "Apparel_and_Underwear--Mens_Clothing--Mens_Suits"
+    ],
+    "a63e2d12658e4d148ac3b7861fdb382d": [
+        "服饰内衣--男装--中老年男装",
+        "Apparel_and_Underwear--Mens_Clothing--Middle_Aged_Mens_Clothing"
+    ],
+    "78a7e8e3ee144e2cb798dd54d1a3cf50": [
+        "服饰内衣--男装--大码男装",
+        "Apparel_and_Underwear--Mens_Clothing--Plus_Size_Mens_Clothing"
+    ],
+    "79c5e398e1534c7e8f077f2d90b49965": [
+        "服饰内衣--男装--POLO衫",
+        "Apparel_and_Underwear--Mens_Clothing--Polo_Shirts"
+    ],
+    "9a92c00cc1ff4f74a9780a71c2698bf1": [
+        "服饰内衣--男装--衬衫",
+        "Apparel_and_Underwear--Mens_Clothing--Shirts"
+    ],
+    "5a5c60b906d74f86955f65d491d2776e": [
+        "服饰内衣--男装--短裤",
+        "Apparel_and_Underwear--Mens_Clothing--Shorts"
+    ],
+    "e31549fac13d40fe92e436566835380f": [
+        "服饰内衣--男装--运动裤",
+        "Apparel_and_Underwear--Mens_Clothing--Sports_Pants"
+    ],
+    "5d6ec7ec27824779aa313e60c0f604d4": [
+        "服饰内衣--男装--潮牌",
+        "Apparel_and_Underwear--Mens_Clothing--Streetwear"
+    ],
+    "c648c629aac64be78bbecd881a7d7614": [
+        "服饰内衣--男装--西服套装",
+        "Apparel_and_Underwear--Mens_Clothing--Suit_Sets"
+    ],
+    "b0a6c94c37724be5a36bd8a04d7e55ad": [
+        "服饰内衣--男装--西服",
+        "Apparel_and_Underwear--Mens_Clothing--Suits"
+    ],
+    "307decc62e36429f88a93c8b3ce64144": [
+        "服饰内衣--男装--卫裤",
+        "Apparel_and_Underwear--Mens_Clothing--Sweatpants"
+    ],
+    "4b052eb557ca46f68db032db27847690": [
+        "服饰内衣--男装--T恤",
+        "Apparel_and_Underwear--Mens_Clothing--T-shirts"
+    ],
+    "8dc28f141e4a461e885f39c82dbbbc24": [
+        "服饰内衣--男装--唐装",
+        "Apparel_and_Underwear--Mens_Clothing--Tang_Suits"
+    ],
+    "92fd6dda506a4c4684a58f3eb9b8a69b": [
+        "服饰内衣--男装--背心",
+        "Apparel_and_Underwear--Mens_Clothing--Tank_Tops"
+    ],
+    "89a2a6b6fe4347d3a304ebe1f7ec6a55": [
+        "服饰内衣--男装--风衣",
+        "Apparel_and_Underwear--Mens_Clothing--Trench_Coats"
+    ],
+    "993a035861494d08b0fff2ffebdef670": [
+        "服饰内衣--男装--马甲",
+        "Apparel_and_Underwear--Mens_Clothing--Vests"
+    ],
+    "ead007249c1749d3903d60ceeec8e394": [
+        "服饰内衣--男装--毛呢大衣",
+        "Apparel_and_Underwear--Mens_Clothing--Wool_Coats"
+    ],
+    "3cffdba7b47942e2bf1c71930b4635bc": [
+        "服饰内衣--男装--羊毛衫",
+        "Apparel_and_Underwear--Mens_Clothing--Wool_Sweaters"
+    ],
+    "d6fc6404846b464b9c7cec1d46dee14a": [
+        "服饰内衣--男装--工装",
+        "Apparel_and_Underwear--Mens_Clothing--Workwear"
+    ],
+    "9d480e13e1dd49759b50cd9006af53a4": [
+        "服饰内衣--内衣--打底衫",
+        "Apparel_and_Underwear--Underwear--Base_Layers"
+    ],
+    "8a6bbf7769e4410a85abcdbb6a32306a": [
+        "服饰内衣--内衣--文胸套装",
+        "Apparel_and_Underwear--Underwear--Bra_Sets"
+    ],
+    "a6e3cf95a39a4d9c93ca263e3582d204": [
+        "服饰内衣--内衣--文胸",
+        "Apparel_and_Underwear--Underwear--Bras"
+    ],
+    "6a0218ee93f44e98887aa7012c995490": [
+        "服饰内衣--内衣--吊带",
+        "Apparel_and_Underwear--Underwear--Camisoles"
+    ],
+    "7c83641e26f3484c805f5e2ebd6e08a2": [
+        "服饰内衣--内衣--休闲棉袜",
+        "Apparel_and_Underwear--Underwear--Casual_Cotton_Socks"
+    ],
+    "f1f07f510cc9400cac88bc469e325e6a": [
+        "服饰内衣--内衣--情侣睡衣",
+        "Apparel_and_Underwear--Underwear--Couples_Pajamas"
+    ],
+    "8e67b476c2aa4a79af7d8ca177f367de": [
+        "服饰内衣--内衣--美腿袜",
+        "Apparel_and_Underwear--Underwear--Leg_Stockings"
+    ],
+    "fac7fe092fc24522b7d7f73657eb890f": [
+        "服饰内衣--内衣--打底裤袜",
+        "Apparel_and_Underwear--Underwear--Legging_Stockings"
+    ],
+    "1217534dfae24268a1d110567a174ad0": [
+        "服饰内衣--内衣--秋衣秋裤",
+        "Apparel_and_Underwear--Underwear--Long_Johns"
+    ],
+    "90fdb15aa3374f68bc315befb5851fe8": [
+        "服饰内衣--内衣--家居服",
+        "Apparel_and_Underwear--Underwear--Loungewear"
+    ],
+    "250f9455f83b4c6187b8d3e3322e5908": [
+        "服饰内衣--内衣--商务男袜",
+        "Apparel_and_Underwear--Underwear--Mens_Dress_Socks"
+    ],
+    "3ee94e6a01cf4969bb87db7ff5e12a01": [
+        "服饰内衣--内衣--男式内裤",
+        "Apparel_and_Underwear--Underwear--Mens_Underwear"
+    ],
+    "27575b25c65043b88dad80d4e9da591f": [
+        "服饰内衣--内衣--睡衣",
+        "Apparel_and_Underwear--Underwear--Pajamas"
+    ],
+    "48807b0e05a0476f8bf0152082787ea5": [
+        "服饰内衣--内衣--连裤袜",
+        "Apparel_and_Underwear--Underwear--Pantyhose"
+    ],
+    "e29930edbdd04409b22b85764e99f1ca": [
+        "服饰内衣--内衣--大码内衣",
+        "Apparel_and_Underwear--Underwear--Plus_Size_Underwear"
+    ],
+    "370921b6caab4fd9bddfe4f61abe5f09": [
+        "服饰内衣--内衣--塑身美体",
+        "Apparel_and_Underwear--Underwear--Shapewear"
+    ],
+    "ce6b9c4451bc4c48815f2bc8d58b7ede": [
+        "服饰内衣--内衣--丝袜",
+        "Apparel_and_Underwear--Underwear--Stockings"
+    ],
+    "5d3c3e81ca28412faf3846694b81e098": [
+        "服饰内衣--内衣--泳衣",
+        "Apparel_and_Underwear--Underwear--Swimwear"
+    ],
+    "007858de5a6241a29ca9c741847af9ea": [
+        "服饰内衣--内衣--背心",
+        "Apparel_and_Underwear--Underwear--Tank_Tops"
+    ],
+    "3fdd1af846e14f28a35262c79da58e91": [
+        "服饰内衣--内衣--少女文胸",
+        "Apparel_and_Underwear--Underwear--Teen_Bras"
+    ],
+    "631cdbacd94b4049b4eb1612e64ef043": [
+        "服饰内衣--内衣--保暖内衣",
+        "Apparel_and_Underwear--Underwear--Thermal_Underwear"
+    ],
+    "23265694041347f69884d8df4ca32e9e": [
+        "服饰内衣--内衣--抹胸",
+        "Apparel_and_Underwear--Underwear--Tube_Tops"
+    ],
+    "abf28c6525e445b19abdff515f296ec0": [
+        "服饰内衣--内衣--内衣配件",
+        "Apparel_and_Underwear--Underwear--Underwear_Accessories"
+    ],
+    "1e88a5f690194430b5c84ab247e0b2f9": [
+        "服饰内衣--内衣--女式内裤",
+        "Apparel_and_Underwear--Underwear--Womens_Underwear"
+    ],
+    "88e18ed4e74743069e4e6302bf3df9d1": [
+        "服饰内衣--女装--打底衫",
+        "Apparel_and_Underwear--Womens_Clothing--Base_Layers"
+    ],
+    "161b7141ddb84495a90c2d4358a2833b": [
+        "服饰内衣--女装--小西装",
+        "Apparel_and_Underwear--Womens_Clothing--Blazers"
+    ],
+    "5d829a449dc74249b9813ef47df83d7e": [
+        "服饰内衣--女装--吊带",
+        "Apparel_and_Underwear--Womens_Clothing--Camisoles"
+    ],
+    "17addcbcff214b1f919717c53296be11": [
+        "服饰内衣--女装--羊绒衫",
+        "Apparel_and_Underwear--Womens_Clothing--Cashmere_Sweaters"
+    ],
+    "d44ae45475894e1580c788b503623a5a": [
+        "服饰内衣--女装--休闲裤",
+        "Apparel_and_Underwear--Womens_Clothing--Casual_Pants"
+    ],
+    "5688e7c5192340c4981f3819744447cd": [
+        "服饰内衣--女装--雪纺衫",
+        "Apparel_and_Underwear--Womens_Clothing--Chiffon_Tops"
+    ],
+    "20b24e1f83db4ea485893feb16d2e655": [
+        "服饰内衣--女装--棉服",
+        "Apparel_and_Underwear--Womens_Clothing--Cotton-padded_Clothes"
+    ],
+    "e81a1c3da7d244bcad637834ceaceed8": [
+        "服饰内衣--女装--设计师",
+        "Apparel_and_Underwear--Womens_Clothing--Designer"
+    ],
+    "49950cc58e1f4356ab0a32dd75c18e9b": [
+        "服饰内衣--女装--羽绒服",
+        "Apparel_and_Underwear--Womens_Clothing--Down_Jackets"
+    ],
+    "4544cd2d6f60488fb93e16244057a3b0": [
+        "服饰内衣--女装--正装裤",
+        "Apparel_and_Underwear--Womens_Clothing--Dress_Pants"
+    ],
+    "f023fb4975f8431da071bce4ff948d91": [
+        "服饰内衣--女装--连衣裙",
+        "Apparel_and_Underwear--Womens_Clothing--Dresses"
+    ],
+    "24f84838e9794b77a71067ed651c90ff": [
+        "服饰内衣--女装--礼服",
+        "Apparel_and_Underwear--Womens_Clothing--Evening_Dresses"
+    ],
+    "9d6b73cc6f24464e8da7ff7327daff60": [
+        "服饰内衣--女装--仿皮皮衣",
+        "Apparel_and_Underwear--Womens_Clothing--Faux_Leather_Jackets"
+    ],
+    "326a324b31e44aef895968806e2924ae": [
+        "服饰内衣--女装--加绒裤",
+        "Apparel_and_Underwear--Womens_Clothing--Fleece_Lined_Pants"
+    ],
+    "7488fa208b3f42da987c5a88b3ff4181": [
+        "服饰内衣--女装--皮草",
+        "Apparel_and_Underwear--Womens_Clothing--Fur_Coats"
+    ],
+    "054279f293d74fab9b10604bd57d6dc9": [
+        "服饰内衣--女装--真皮皮衣",
+        "Apparel_and_Underwear--Womens_Clothing--Genuine_Leather_Jackets"
+    ],
+    "f01ab01c999e4b9f843eb57e7c5d0fa8": [
+        "服饰内衣--女装--汉服",
+        "Apparel_and_Underwear--Womens_Clothing--Hanfu"
+    ],
+    "c80f527aba1a4607b23c8c875614dac2": [
+        "服饰内衣--女装--卫衣",
+        "Apparel_and_Underwear--Womens_Clothing--Hoodies"
+    ],
+    "b9425f89f34d4515959a4b04712410cb": [
+        "服饰内衣--女装--牛仔裤",
+        "Apparel_and_Underwear--Womens_Clothing--Jeans"
+    ],
+    "b1cfa06ceefc4c7fb45461cae3e6c265": [
+        "服饰内衣--女装--针织衫",
+        "Apparel_and_Underwear--Womens_Clothing--Knit_Tops"
+    ],
+    "a49b77a4deb24b74b5f0bfe00cd137dc": [
+        "服饰内衣--女装--打底裤",
+        "Apparel_and_Underwear--Womens_Clothing--Leggings"
+    ],
+    "6ed49f05caee4750b1b33073d93ce9ee": [
+        "服饰内衣--女装--中老年女装",
+        "Apparel_and_Underwear--Womens_Clothing--Middle_Aged_Womens_Clothing"
+    ],
+    "0a3f7401311b44e2b9a7430f997e9bbe": [
+        "服饰内衣--女装--大码女装",
+        "Apparel_and_Underwear--Womens_Clothing--Plus_Size_Womens_Clothing"
+    ],
+    "29bd06f9515141248cced492dd4a0221": [
+        "服饰内衣--女装--旗袍",
+        "Apparel_and_Underwear--Womens_Clothing--Qipao"
+    ],
+    "106d8864464949b59218913a96666a0d": [
+        "服饰内衣--女装--衬衫",
+        "Apparel_and_Underwear--Womens_Clothing--Shirts"
+    ],
+    "6e9a4457c0da4016af73ea25c7af26aa": [
+        "服饰内衣--女装--短外套",
+        "Apparel_and_Underwear--Womens_Clothing--Short_Jackets"
+    ],
+    "addec38f9efa4dd2936cad4cbbc5ef3a": [
+        "服饰内衣--女装--短裤",
+        "Apparel_and_Underwear--Womens_Clothing--Shorts"
+    ],
+    "0b69623a942a4e4098be3d582114aa8a": [
+        "服饰内衣--女装--半身裙",
+        "Apparel_and_Underwear--Womens_Clothing--Skirts"
+    ],
+    "fa8799d8403a48eeac913a343540e3f4": [
+        "服饰内衣--女装--潮牌",
+        "Apparel_and_Underwear--Womens_Clothing--Streetwear"
+    ],
+    "35b45a3dae904409b0141f9217a756ed": [
+        "服饰内衣--女装--毛衣",
+        "Apparel_and_Underwear--Womens_Clothing--Sweaters"
+    ],
+    "8afdddee85bf44759c3e2be04003489a": [
+        "服饰内衣--女装--T恤",
+        "Apparel_and_Underwear--Womens_Clothing--T-shirts"
+    ],
+    "1a8eb458a5014e19b08f4aecf04a97b9": [
+        "服饰内衣--女装--背心",
+        "Apparel_and_Underwear--Womens_Clothing--Tank_Tops"
+    ],
+    "a0eb295461394deba5c0a27e674cf9b6": [
+        "服饰内衣--女装--风衣",
+        "Apparel_and_Underwear--Womens_Clothing--Trench_Coats"
+    ],
+    "e1b21ae66b2641e38941a29aac16427d": [
+        "服饰内衣--女装--马甲",
+        "Apparel_and_Underwear--Womens_Clothing--Vests"
+    ],
+    "6f52b5dca2604e05a539edab403d282a": [
+        "服饰内衣--女装--婚纱",
+        "Apparel_and_Underwear--Womens_Clothing--Wedding_Dresses"
+    ],
+    "2eb78a3bc9564ef4946059ac10e805f0": [
+        "服饰内衣--女装--女装套装",
+        "Apparel_and_Underwear--Womens_Clothing--Womens_Suits"
+    ],
+    "812572e8df4a44669f6ae0fbf8ba7dbf": [
+        "服饰内衣--女装--毛呢大衣",
+        "Apparel_and_Underwear--Womens_Clothing--Wool_Coats"
+    ],
+    "21015cba0da6445fa99584db366379f1": [
+        "汽车用品--美容清洗--车掸",
+        "Automotive_Supplies--Beauty_and_Cleaning--Car_Dusters"
+    ],
+    "a25b3623f4d14c51874a54b886aabb25": [
+        "汽车用品--美容清洗--车拖",
+        "Automotive_Supplies--Beauty_and_Cleaning--Car_Towels"
+    ],
+    "81d73b98945a418193cf5c42b0689398": [
+        "汽车用品--美容清洗--洗车液",
+        "Automotive_Supplies--Beauty_and_Cleaning--Car_Wash_Liquid"
+    ],
+    "d82e153c51e24b52936d8d0a24c304ed": [
+        "汽车用品--美容清洗--洗车工具",
+        "Automotive_Supplies--Beauty_and_Cleaning--Car_Washing_Tools"
+    ],
+    "314070a2b1e741a3bd4a7423e8d0b49b": [
+        "汽车用品--美容清洗--玻璃清洁",
+        "Automotive_Supplies--Beauty_and_Cleaning--Glass_Cleaning"
+    ],
+    "424f1f7b33e440a29e9a9c1bcd0e8b20": [
+        "汽车用品--美容清洗--车内清洁",
+        "Automotive_Supplies--Beauty_and_Cleaning--Interior_Cleaning"
+    ],
+    "9606f9907ee74c09b83835fc8111a956": [
+        "汽车用品--美容清洗--轮胎清洁",
+        "Automotive_Supplies--Beauty_and_Cleaning--Tire_Cleaning"
+    ],
+    "2066c2c36e314f5d91e3c75f581f429b": [
+        "汽车用品--美容清洗--补漆笔",
+        "Automotive_Supplies--Beauty_and_Cleaning--Touch-up_Pens"
+    ],
+    "c1940b0c54804152845d70f07120697f": [
+        "汽车用品--美容清洗--轮毂清洁",
+        "Automotive_Supplies--Beauty_and_Cleaning--Wheel_Cleaning"
+    ],
+    "15c8324942094e64842c864086d0f139": [
+        "汽车用品--汽车装饰--空气净化",
+        "Automotive_Supplies--Car_Decoration--Air_Purification"
+    ],
+    "9c844bf640ac43ef8cc34b37ee356cd7": [
+        "汽车用品--汽车装饰--车身装饰件",
+        "Automotive_Supplies--Car_Decoration--Body_Decorations"
+    ],
+    "450faac259ad404eb7dc7d3b2cfe6321": [
+        "汽车用品--汽车装饰--车衣",
+        "Automotive_Supplies--Car_Decoration--Car_Covers"
+    ],
+    "7d62b11ba7844a5eba28f40b4b6ad0dd": [
+        "汽车用品--汽车装饰--挂件摆件",
+        "Automotive_Supplies--Car_Decoration--Car_Ornaments"
+    ],
+    "62e726a0435c42a792a31f4ba6ae4754": [
+        "汽车用品--汽车装饰--香水",
+        "Automotive_Supplies--Car_Decoration--Car_Perfumes"
+    ],
+    "779500edf14e40349ea1b4b7654b2247": [
+        "汽车用品--汽车装饰--脚垫",
+        "Automotive_Supplies--Car_Decoration--Floor_Mats"
+    ],
+    "7f95197ab9de4899b5551cbff43af2cf": [
+        "汽车用品--汽车装饰--功能小件",
+        "Automotive_Supplies--Car_Decoration--Functional_Accessories"
+    ],
+    "c5009b57c9bc4c688c74c1c33784abd7": [
+        "汽车用品--汽车装饰--座套",
+        "Automotive_Supplies--Car_Decoration--Seat_Covers"
+    ],
+    "d45f4736bef741b6a882ccdf44c68df8": [
+        "汽车用品--汽车装饰--座垫",
+        "Automotive_Supplies--Car_Decoration--Seat_Cushions"
+    ],
+    "1187ae9a469b4bcdae22bbb30827cbb3": [
+        "汽车用品--汽车装饰--方向盘套",
+        "Automotive_Supplies--Car_Decoration--Steering_Wheel_Covers"
+    ],
+    "250518ed9e534af1b8004641bcc651eb": [
+        "汽车用品--汽车装饰--后备箱垫",
+        "Automotive_Supplies--Car_Decoration--Trunk_Mats"
+    ],
+    "6f422cf63f8f42048c1f03108e096483": [
+        "汽车用品--车载电器--充气泵",
+        "Automotive_Supplies--Car_Electronics--Air_Pumps"
+    ],
+    "f9395065928e43dbbb1548dbb8167acb": [
+        "汽车用品--车载电器--蓝牙设备",
+        "Automotive_Supplies--Car_Electronics--Bluetooth_Devices"
+    ],
+    "1d452b4865c94e09858f1cbfa08031be": [
+        "汽车用品--车载电器--车载净化器",
+        "Automotive_Supplies--Car_Electronics--Car_Air_Purifiers"
+    ],
+    "602c7161fbb94b12b4bd74f6186113fc": [
+        "汽车用品--车载电器--车载充电器",
+        "Automotive_Supplies--Car_Electronics--Car_Chargers"
+    ],
+    "09f258f071834d41bd612368d042c183": [
+        "汽车用品--车载电器--车载冰箱",
+        "Automotive_Supplies--Car_Electronics--Car_Refrigerators"
+    ],
+    "ec195b11e26641a2b1e683e0295d5e04": [
+        "汽车用品--车载电器--车载吸尘器",
+        "Automotive_Supplies--Car_Electronics--Car_Vacuum_Cleaners"
+    ],
+    "b1d55a1ae23341438b7248b652bf02a8": [
+        "汽车用品--车载电器--安全预警仪",
+        "Automotive_Supplies--Car_Electronics--Safety_Warning_Devices"
+    ],
+    "5a6bc894d8d440ad9a745fbbffa4c107": [
+        "汽车用品--车载电器--胎压监测",
+        "Automotive_Supplies--Car_Electronics--Tire_Pressure_Monitoring"
+    ],
+    "0ec2ec8f35e14493a5b17919cbfbb2b5": [
+        "汽车用品--骑行装备--平衡车",
+        "Automotive_Supplies--Cycling_Equipment--Balance_Bikes"
+    ],
+    "02a6a2cb4acc432fb209c786e8e3408d": [
+        "汽车用品--骑行装备--自行车",
+        "Automotive_Supplies--Cycling_Equipment--Bicycles"
+    ],
+    "5bbdf469f900431486aede9ba55efb18": [
+        "汽车用品--骑行装备--骑行配件",
+        "Automotive_Supplies--Cycling_Equipment--Cycling_Accessories"
+    ],
+    "e2b2ee4883524873a08bf14b378160d7": [
+        "汽车用品--骑行装备--骑行服",
+        "Automotive_Supplies--Cycling_Equipment--Cycling_Apparel"
+    ],
+    "8fd58f3f6326423c8b3d7cbdea891c33": [
+        "汽车用品--骑行装备--骑行装备",
+        "Automotive_Supplies--Cycling_Equipment--Cycling_Equipment"
+    ],
+    "60fd08e940c0420191f729adeb765eaf": [
+        "汽车用品--骑行装备--其他整车",
+        "Automotive_Supplies--Cycling_Equipment--Other_Complete_Bikes"
+    ],
+    "796b3dca220c4a47a01c0291797444bf": [
+        "汽车用品--维修保养--添加剂",
+        "Automotive_Supplies--Maintenance_and_Repair--Additives"
+    ],
+    "2d5ef14f09074b83ab0a1f835a93b944": [
+        "汽车用品--维修保养--防冻液",
+        "Automotive_Supplies--Maintenance_and_Repair--Antifreeze"
+    ],
+    "2574d09324c948a2ad10d4c97da8bd7d": [
+        "汽车用品--维修保养--制动液",
+        "Automotive_Supplies--Maintenance_and_Repair--Brake_Fluid"
+    ],
+    "7693889f8efe4f6494f22d71ae508582": [
+        "汽车用品--维修保养--汽车养护",
+        "Automotive_Supplies--Maintenance_and_Repair--Car_Care"
+    ],
+    "abf8a32471774849a1c9d635f3473597": [
+        "汽车用品--维修保养--汽车喷漆",
+        "Automotive_Supplies--Maintenance_and_Repair--Car_Painting"
+    ],
+    "a387eb231aa447afaf903398a6c03c46": [
+        "汽车用品--维修保养--打蜡",
+        "Automotive_Supplies--Maintenance_and_Repair--Car_Waxing"
+    ],
+    "e163c081bf1e403d9f6035abd293bbb0": [
+        "汽车用品--维修保养--车身贴膜",
+        "Automotive_Supplies--Maintenance_and_Repair--Car_Wrapping"
+    ],
+    "a39dd0d33b1546548b702bb5485575a7": [
+        "汽车用品--维修保养--底盘护板",
+        "Automotive_Supplies--Maintenance_and_Repair--Chassis_Guards"
+    ],
+    "6982b1847d7d48d0852c2bf8a02dc9a0": [
+        "汽车用品--维修保养--润滑油",
+        "Automotive_Supplies--Maintenance_and_Repair--Lubricating_Oil"
+    ],
+    "34955ebd29b84eda9e247d77379a783f": [
+        "汽车用品--维修保养--补漆",
+        "Automotive_Supplies--Maintenance_and_Repair--Touch-up_Paint"
+    ],
+    "fc46321a9d1c44c088fca948515e294e": [
+        "汽车用品--维修保养--底盘装甲",
+        "Automotive_Supplies--Maintenance_and_Repair--Undercoating"
+    ],
+    "374e6748acb24751a661417e9b97f521": [
+        "汽车用品--维修保养--玻璃水",
+        "Automotive_Supplies--Maintenance_and_Repair--Windshield_Washer_Fluid"
+    ],
+    "bfb27e21ce424136810ee5f52132f1e0": [
+        "汽车用品--摩托车装备--摩托车配件",
+        "Automotive_Supplies--Motorcycle_Gear--Motorcycle_Accessories"
+    ],
+    "2bacba681a5848199d710f7e9fc4837e": [
+        "汽车用品--摩托车装备--摩托车装备",
+        "Automotive_Supplies--Motorcycle_Gear--Motorcycle_Gear"
+    ],
+    "45228d00d4434f80954c244fc64528f8": [
+        "汽车用品--摩托车装备--摩托车",
+        "Automotive_Supplies--Motorcycle_Gear--Motorcycles"
+    ],
+    "dfcce4a111a04e3ba16813bca6ea77bc": [
+        "汽车用品--安全自驾--防盗设备",
+        "Automotive_Supplies--Safety_and_Self-Driving--Anti-theft_Devices"
+    ],
+    "b71691a955bb4fad85fecff4bb95ab14": [
+        "汽车用品--安全自驾--安全座椅",
+        "Automotive_Supplies--Safety_and_Self-Driving--Car_Seats"
+    ],
+    "0deba089c3694faab2ea74c5a0654165": [
+        "汽车用品--安全自驾--保温箱",
+        "Automotive_Supplies--Safety_and_Self-Driving--Cooler_Boxes"
+    ],
+    "afa99386f4cd463793981c8838d8069d": [
+        "汽车用品--安全自驾--行车记录仪",
+        "Automotive_Supplies--Safety_and_Self-Driving--Dash_Cams"
+    ],
+    "65858987530e40a78070296ae73d0f4d": [
+        "汽车用品--安全自驾--应急救援",
+        "Automotive_Supplies--Safety_and_Self-Driving--Emergency_Rescue"
+    ],
+    "801ba5bf30d1455792a99416b28c75d0": [
+        "汽车用品--安全自驾--导航仪",
+        "Automotive_Supplies--Safety_and_Self-Driving--GPS_Navigators"
+    ],
+    "1aeea2440e6845838f5a55e77e78e22b": [
+        "汽车用品--安全自驾--电子狗",
+        "Automotive_Supplies--Safety_and_Self-Driving--Radar_Detectors"
+    ],
+    "5f8e9f056742467598853f1896b08f7d": [
+        "汽车用品--安全自驾--胎压充气",
+        "Automotive_Supplies--Safety_and_Self-Driving--Tire_Inflation"
+    ],
+    "2b7de3dcae144000a3067a2316a99d0a": [
+        "个护化妆--面部护肤--眼霜",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Eye_Creams"
+    ],
+    "73a47077a53643fbb6afa44e043b59c4": [
+        "个护化妆--面部护肤--眼膜",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Eye_Masks"
+    ],
+    "86f4cb71640a4b329ef3ac178833679b": [
+        "个护化妆--面部护肤--眼部精华",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Eye_Serums"
+    ],
+    "1066c0196c2c4ba2857783e903dfa6eb": [
+        "个护化妆--面部护肤--面霜",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Face_Creams"
+    ],
+    "1813e929b23d4d10b08036d635c241c0": [
+        "个护化妆--面部护肤--面膜",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Face_Masks"
+    ],
+    "dcc8f6aef740469f9f20bb96ad7cec0f": [
+        "个护化妆--面部护肤--洁面",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Facial_Cleansers"
+    ],
+    "35db04d5f2454bfb8941ded6842a733c": [
+        "个护化妆--面部护肤--面部精华",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Facial_Serums"
+    ],
+    "d4ee926f34e84d2fb6aa7a239b97f087": [
+        "个护化妆--面部护肤--化妆水",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Facial_Water"
+    ],
+    "2326b5ed9f124e48b963bffeb902aa5f": [
+        "个护化妆--面部护肤--礼盒",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Gift_Sets"
+    ],
+    "54e2fab0ee6e448bba2742a29f9a54cd": [
+        "个护化妆--面部护肤--润唇膏",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Lip_Balms"
+    ],
+    "3294db5855a84e2c9d2583ece5a14313": [
+        "个护化妆--面部护肤--唇膜",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Lip_Masks"
+    ],
+    "7426703e53624611a7b65e734d59718e": [
+        "个护化妆--面部护肤--唇部精华",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Lip_Serums"
+    ],
+    "08777a70cdc740028cfc9d64aa2e10b1": [
+        "个护化妆--面部护肤--乳液",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Lotions"
+    ],
+    "b56d3214595b4d089ff606a3cfba2333": [
+        "个护化妆--面部护肤--卸妆",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Makeup_Removers"
+    ],
+    "91130e2988fe4e7f957abc4b352a3ef7": [
+        "个护化妆--面部护肤--其它面部护肤",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Other_Facial_Skincare"
+    ],
+    "b61a5a01baa645099cfff5e2ace557e3": [
+        "个护化妆--面部护肤--套装",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Sets"
+    ],
+    "ac360b10f0fd4868ae8c4303c716598a": [
+        "个护化妆--面部护肤--防晒",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Sunscreen"
+    ],
+    "d0098e61c65648ca9c747a1824072e58": [
+        "个护化妆--面部护肤--T区护理",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--T_Zone_Care"
+    ],
+    "f9cf4b2631e84bdc859f082e5732c098": [
+        "个护化妆--面部护肤--爽肤水",
+        "Beauty_and_Personal_Care--Facial_Skin_Care--Toners"
+    ],
+    "608f74afbbc54debb700a8c34a1340f8": [
+        "个护化妆--香水彩妆--BB霜",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--BB_Cream"
+    ],
+    "1cd4fe58316d4f34a697fd3e3155f1ef": [
+        "个护化妆--香水彩妆--腮红",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Blush"
+    ],
+    "0e62d253297f455ba627639db25c9d86": [
+        "个护化妆--香水彩妆--CC霜",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--CC_Cream"
+    ],
+    "625b933b9f5847cc808644d032b8fe28": [
+        "个护化妆--香水彩妆--香水",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Car_Perfumes"
+    ],
+    "2f8d8c44f21e475c85ba47d0aa022be8": [
+        "个护化妆--香水彩妆--遮瑕",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Concealer"
+    ],
+    "c611c9bac5114ad5abc9078deae39602": [
+        "个护化妆--香水彩妆--气垫BB",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Cushion_BB"
+    ],
+    "0154f9fee18341f097284386d7a18ad1": [
+        "个护化妆--香水彩妆--眼影",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Eye_Shadow"
+    ],
+    "0121522f54f742fc93c4978a570379a1": [
+        "个护化妆--香水彩妆--眉笔",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Eyebrow_Pencils"
+    ],
+    "84ef993d20b94e4aa21560c69a5c1106": [
+        "个护化妆--香水彩妆--眉粉",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Eyebrow_Powder"
+    ],
+    "acf723dd8dd74939a77abe5d475febf5": [
+        "个护化妆--香水彩妆--眼线笔",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Eyeliner_Pencils"
+    ],
+    "2969ca3e8481462ea3c0d2c4f3d5e695": [
+        "个护化妆--香水彩妆--粉底液",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Foundation"
+    ],
+    "9889491e368c44e0873805be21fd3bab": [
+        "个护化妆--香水彩妆--粉底膏",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Foundation_Cream"
+    ],
+    "77a713a25e904871b70ed45654677370": [
+        "个护化妆--香水彩妆--增长液",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Growth_Serum"
+    ],
+    "eb6281f9431c450fb44db2b5b5116e41": [
+        "个护化妆--香水彩妆--唇蜜",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Lip_Glaze"
+    ],
+    "cae379c94e5a40f99435ab8ea7e1668e": [
+        "个护化妆--香水彩妆--唇彩",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Lip_Gloss"
+    ],
+    "d15ead615c1e46f293b9461ac761a62b": [
+        "个护化妆--香水彩妆--唇线笔",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Lip_Liners"
+    ],
+    "e21fd93e1a484d91ae94cc1492877dfd": [
+        "个护化妆--香水彩妆--唇笔",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Lip_Pencils"
+    ],
+    "11f655eb5b48437a8f725511bbd5f1e7": [
+        "个护化妆--香水彩妆--唇釉",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Lip_Tint"
+    ],
+    "54551cc5f6754406b36f11010127ad21": [
+        "个护化妆--香水彩妆--口红",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Lipstick"
+    ],
+    "28a1b5edb6f748df987dae2d013fad63": [
+        "个护化妆--香水彩妆--蜜粉",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Loose_Powder"
+    ],
+    "d9ae645baada499f9030689b3656e5e5": [
+        "个护化妆--香水彩妆--妆前乳",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Makeup_Base"
+    ],
+    "c8e985d349a04096abb8178bc4d1f24c": [
+        "个护化妆--香水彩妆--彩妆套装",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Makeup_Sets"
+    ],
+    "945c754f85024899b1fc086c4e446350": [
+        "个护化妆--香水彩妆--男士彩妆",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Mens_Cosmetics"
+    ],
+    "c382cdd42f004fb6959dc0296487b8e5": [
+        "个护化妆--香水彩妆--美甲产品",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Nail_Products"
+    ],
+    "48aeef04da87484fa5dd26ac28433793": [
+        "个护化妆--香水彩妆--其它彩妆",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Other_Cosmetics"
+    ],
+    "2063a187101d43e4bee88eaf0041ba33": [
+        "个护化妆--香水彩妆--粉饼",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Pressed_Powder"
+    ],
+    "ec435ede5f944ea7a83c76e9045e3e70": [
+        "个护化妆--香水彩妆--隔离霜",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Primer"
+    ],
+    "8e94bf84be2548a99116d4cc7a1b3386": [
+        "个护化妆--香水彩妆--胭脂",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Rouge"
+    ],
+    "207122f41e2b496fb4018bfcd14f7c1c": [
+        "个护化妆--香水彩妆--散粉",
+        "Beauty_and_Personal_Care--Fragrances_and_Cosmetics--Setting_Powder"
+    ],
+    "f0c9126e81f24f9d88724bb29474b029": [
+        "个护化妆--美妆工具--化妆棉",
+        "Beauty_and_Personal_Care--Makeup_Tools--Cotton_Pads"
+    ],
+    "160a81590a0a442c9f1ba9b9644a7eec": [
+        "个护化妆--美妆工具--修眉刀",
+        "Beauty_and_Personal_Care--Makeup_Tools--Eyebrow_Trimmers"
+    ],
+    "baff3b25c5d04af8b6cf3934db8370de": [
+        "个护化妆--美妆工具--睫毛夹",
+        "Beauty_and_Personal_Care--Makeup_Tools--Eyelash_Curlers"
+    ],
+    "e71284ab90cc4c8680b2c61a25ef60d0": [
+        "个护化妆--美妆工具--双眼皮贴",
+        "Beauty_and_Personal_Care--Makeup_Tools--Eyelid_Tape"
+    ],
+    "3a255565f30d4b9293e4464e5e20eba9": [
+        "个护化妆--美妆工具--洗脸扑",
+        "Beauty_and_Personal_Care--Makeup_Tools--Facial_Sponges"
+    ],
+    "d439cacb54d14847b568527bd479ad1f": [
+        "个护化妆--美妆工具--假睫毛",
+        "Beauty_and_Personal_Care--Makeup_Tools--False_Eyelashes"
+    ],
+    "f47752c508b547fc9d611b4d91954149": [
+        "个护化妆--美妆工具--化妆刷",
+        "Beauty_and_Personal_Care--Makeup_Tools--Makeup_Brushes"
+    ],
+    "d3e4d978e2984d868cdf9a336e22c4e7": [
+        "个护化妆--美妆工具--美妆工具套装",
+        "Beauty_and_Personal_Care--Makeup_Tools--Makeup_Tool_Sets"
+    ],
+    "7d96b37aebf4447cac2fb5b13d9b0b6c": [
+        "个护化妆--美妆工具--美甲工具",
+        "Beauty_and_Personal_Care--Makeup_Tools--Nail_Tools"
+    ],
+    "1111cd7e04df49e5ad1773b4146f84f6": [
+        "个护化妆--美妆工具--其他美妆工具",
+        "Beauty_and_Personal_Care--Makeup_Tools--Other_Makeup_Tools"
+    ],
+    "7325f8f6107a43e096b01fa76ff417a7": [
+        "个护化妆--美妆工具--粉扑",
+        "Beauty_and_Personal_Care--Makeup_Tools--Powder_Puffs"
+    ],
+    "a95f6b225395432cb993c7cbcff03589": [
+        "个护化妆--男士面部护肤--礼盒",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Gift_Sets"
+    ],
+    "752c6670b2ac4734b2ee5f8e87c02821": [
+        "个护化妆--男士面部护肤--男士乳液",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Emulsion"
+    ],
+    "a44f428e7fa2408faa5c643c69b2e2cf": [
+        "个护化妆--男士面部护肤--男士眼霜",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Eye_Cream"
+    ],
+    "71bce05ad1d84924b8b7afc3ff482ffa": [
+        "个护化妆--男士面部护肤--男士眼部精华",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Eye_Serum"
+    ],
+    "4504d64fb17c46188c61f01d16ccf0db": [
+        "个护化妆--男士面部护肤--男士面霜",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Face_Cream"
+    ],
+    "64bed3aa846d4068aa89453d47c2516d": [
+        "个护化妆--男士面部护肤--男士面膜",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Face_Masks"
+    ],
+    "6ffc5c50df164d4f825d1898ee5fee5a": [
+        "个护化妆--男士面部护肤--男士洁面",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Facial_Cleanser"
+    ],
+    "f254432de15744fb965b94141f0fd549": [
+        "个护化妆--男士面部护肤--男士面部精华",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Facial_Serum"
+    ],
+    "20ca7252f7394b8dbd02a470c5310db3": [
+        "个护化妆--男士面部护肤--男士润唇膏",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Lip_Balm"
+    ],
+    "7cc981f7b5ee46db9485085ab5ab8112": [
+        "个护化妆--男士面部护肤--男士化妆水",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Lotion"
+    ],
+    "34d35ca3ebb14aecb72b8fd4e34a003d": [
+        "个护化妆--男士面部护肤--男士卸妆",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Makeup_Remover"
+    ],
+    "6590b6d940b54f1fbacac2b0150ddbfc": [
+        "个护化妆--男士面部护肤--男士防晒",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Sunscreen"
+    ],
+    "84c757dd63d44d4e9debcba84a23aa3a": [
+        "个护化妆--男士面部护肤--男士T区护理",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_T_Zone_Care"
+    ],
+    "072318f1a42a4c6c8d1cf140d11cb8b4": [
+        "个护化妆--男士面部护肤--男士爽肤水",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Mens_Toner"
+    ],
+    "be8f1d7847694c1b8c68f188f0f23ce4": [
+        "个护化妆--男士面部护肤--其它男士面部护肤",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Other_Mens_Skincare"
+    ],
+    "b8f4f7a4ebdf427e837d7b5d8a620823": [
+        "个护化妆--男士面部护肤--套装",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Sets"
+    ],
+    "92852cabb7b244dbbec33e89113daa67": [
+        "个护化妆--男士面部护肤--剃须",
+        "Beauty_and_Personal_Care--Mens_Skin_Care--Shaving"
+    ],
+    "639adfc921454aceb3590754a0752d5a": [
+        "图书、音像、电子书刊--音像--教育音像",
+        "Books,Media_and_EBooks--Audio_and_Video--Educational_Audio_and_Video"
+    ],
+    "1f6c27bf7a524b75a864dc15037e1e0e": [
+        "图书、音像、电子书刊--音像--影视",
+        "Books,Media_and_EBooks--Audio_and_Video--Movies_and_TV"
+    ],
+    "e2db61250b1c4c36bea6a55c0b3e3c26": [
+        "图书、音像、电子书刊--音像--音乐",
+        "Books,Media_and_EBooks--Audio_and_Video--Music"
+    ],
+    "48943d5331a248e28e98417d731c9c72": [
+        "图书、音像、电子书刊--经管励志--经济",
+        "Books,Media_and_EBooks--Business_and_Motivational--Economics"
+    ],
+    "22f2dd31c5c743ddad15526857916793": [
+        "图书、音像、电子书刊--经管励志--金融与投资",
+        "Books,Media_and_EBooks--Business_and_Motivational--Finance_and_Investment"
+    ],
+    "fe11e84f842a4aa9ab0803da52e4db0a": [
+        "图书、音像、电子书刊--经管励志--管理",
+        "Books,Media_and_EBooks--Business_and_Motivational--Management"
+    ],
+    "25fd49a30c814db2a54dd2fce4f1d440": [
+        "图书、音像、电子书刊--经管励志--励志与成功",
+        "Books,Media_and_EBooks--Business_and_Motivational--Motivational_and_Success"
+    ],
+    "9aacacfad9a0461ebd34ddba518bf586": [
+        "图书、音像、电子书刊--少儿--0-2岁",
+        "Books,Media_and_EBooks--Children's_Books--0-2years"
+    ],
+    "3b0381a021e84e818027790275a1383c": [
+        "图书、音像、电子书刊--少儿--11-14岁",
+        "Books,Media_and_EBooks--Children's_Books--11-14years"
+    ],
+    "cbb530b7f153427a834ce7df4c65a24c": [
+        "图书、音像、电子书刊--少儿--3-6岁",
+        "Books,Media_and_EBooks--Children's_Books--3-6years"
+    ],
+    "3570762aa38c428aab44545a9c2816e8": [
+        "图书、音像、电子书刊--少儿--7-10岁",
+        "Books,Media_and_EBooks--Children's_Books--7-10years"
+    ],
+    "d8422ee51bdc41f09225f63cd3f3bd62": [
+        "图书、音像、电子书刊--少儿--少儿（综合）",
+        "Books,Media_and_EBooks--Children's_Books--Children's_(General)"
+    ],
+    "7228cf435ef84703937d6c7f6e489a36": [
+        "图书、音像、电子书刊--教育--大中专教材",
+        "Books,Media_and_EBooks--Education--College_Textbooks"
+    ],
+    "e36d4921e3d940afa6103ae6c0761d25": [
+        "图书、音像、电子书刊--教育--教育与考试",
+        "Books,Media_and_EBooks--Education--Education_and_Exams"
+    ],
+    "a2ce054d946e44678fc75d2525428cdc": [
+        "图书、音像、电子书刊--教育--中小学教辅",
+        "Books,Media_and_EBooks--Education--K-12_Tutoring_Materials"
+    ],
+    "0b219ac25f5d4b34b44787494cb598a7": [
+        "图书、音像、电子书刊--英文原版--传记",
+        "Books,Media_and_EBooks--English_Originals--Biography"
+    ],
+    "22ca91ced67f48aea523578b45ccacb5": [
+        "图书、音像、电子书刊--英文原版--商务投资",
+        "Books,Media_and_EBooks--English_Originals--Business_and_Investment"
+    ],
+    "3e86328163c84a9ab62e5141e13e4604": [
+        "图书、音像、电子书刊--英文原版--少儿",
+        "Books,Media_and_EBooks--English_Originals--Children's_Books"
+    ],
+    "87c01cc6e46a4e239428b8273664dddd": [
+        "图书、音像、电子书刊--英文原版--英语学习与考试",
+        "Books,Media_and_EBooks--English_Originals--English_Learning_and_Exams"
+    ],
+    "b3a3c2cc9d774fd3990ed4ec39bba1d9": [
+        "图书、音像、电子书刊--英文原版--文学",
+        "Books,Media_and_EBooks--English_Originals--Literature"
+    ],
+    "7a9c85c177884c96a54b8914356b4f01": [
+        "图书、音像、电子书刊--英文原版--励志",
+        "Books,Media_and_EBooks--English_Originals--Motivational"
+    ],
+    "ab605649a617476fad2bffbbf9674432": [
+        "图书、音像、电子书刊--港台图书--学术",
+        "Books,Media_and_EBooks--Hong_Kong_and_Taiwan_Books--Academic"
+    ],
+    "4ee03713fbdc49c4b045bbe113dc454e": [
+        "图书、音像、电子书刊--港台图书--艺术",
+        "Books,Media_and_EBooks--Hong_Kong_and_Taiwan_Books--Arts"
+    ],
+    "4ef0452439d241d194df42a3ec7d2a23": [
+        "图书、音像、电子书刊--港台图书--少儿",
+        "Books,Media_and_EBooks--Hong_Kong_and_Taiwan_Books--Children's_Books"
+    ],
+    "f9b7be77810547fab3623b0ba6d4236f": [
+        "图书、音像、电子书刊--港台图书--收藏",
+        "Books,Media_and_EBooks--Hong_Kong_and_Taiwan_Books--Collection"
+    ],
+    "f706691a91c7466a87290e42203b3ce0": [
+        "图书、音像、电子书刊--港台图书--设计",
+        "Books,Media_and_EBooks--Hong_Kong_and_Taiwan_Books--Design"
+    ],
+    "20bd94e704b646aca562916344c34978": [
+        "图书、音像、电子书刊--港台图书--经济管理",
+        "Books,Media_and_EBooks--Hong_Kong_and_Taiwan_Books--Economics_and_Management"
+    ],
+    "3231c8c296a44644ba1534df7c3bd367": [
+        "图书、音像、电子书刊--人文社科--国学",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Chinese_Classics"
+    ],
+    "79b756291ae34b0b88d6e326d3ea5601": [
+        "图书、音像、电子书刊--人文社科--文化",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Culture"
+    ],
+    "08a790f71709464194a4e148778423bb": [
+        "图书、音像、电子书刊--人文社科--法律",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Law"
+    ],
+    "e9bea09a5fd94e269521bbdbae7a0da3": [
+        "图书、音像、电子书刊--人文社科--军事",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Military"
+    ],
+    "d3d89fe4e6e848f9beaa06bbee3fae97": [
+        "图书、音像、电子书刊--人文社科--哲学",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Philosophy"
+    ],
+    "88f2097a9f094f89aed1f0ecb6f96407": [
+        "图书、音像、电子书刊--人文社科--政治",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Politics"
+    ],
+    "cf02512817e643f69918cb772ef62e62": [
+        "图书、音像、电子书刊--人文社科--心理学",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Psychology"
+    ],
+    "0477cbc24f134a5b84dc6169d912d50b": [
+        "图书、音像、电子书刊--人文社科--社会科学",
+        "Books,Media_and_EBooks--Humanities_and_Social_Sciences--Social_Sciences"
+    ],
+    "cb5f784d1cf9435f853de09b97b6e181": [
+        "图书、音像、电子书刊--生活--家庭与育儿",
+        "Books,Media_and_EBooks--Lifestyle--Family_and_Parenting"
+    ],
+    "3f5856244e324cacbbe57642daa8d16d": [
+        "图书、音像、电子书刊--生活--健身与保健",
+        "Books,Media_and_EBooks--Lifestyle--Fitness_and_Health_Care"
+    ],
+    "e292f35519084ce8b638a5b6ac36b2d7": [
+        "图书、音像、电子书刊--生活--旅游",
+        "Books,Media_and_EBooks--Lifestyle--Travel"
+    ],
+    "d07e513735d8429e91e118d6845b9ddc": [
+        "图书、音像、电子书刊--文艺--艺术",
+        "Books,Media_and_EBooks--Literature_and_Arts--Arts"
+    ],
+    "0811e4b19a234f6eb5dd5db3546234b5": [
+        "图书、音像、电子书刊--文艺--传记",
+        "Books,Media_and_EBooks--Literature_and_Arts--Biography"
+    ],
+    "a4f1ed135ae94e74acd8bba740aacd85": [
+        "图书、音像、电子书刊--文艺--文学",
+        "Books,Media_and_EBooks--Literature_and_Arts--Literature"
+    ],
+    "3c887719554a4d2299dbbc91977824dd": [
+        "图书、音像、电子书刊--文艺--青春文学",
+        "Books,Media_and_EBooks--Literature_and_Arts--Youth_Literature"
+    ],
+    "71e60f5e170a40608de6ad281f684880": [
+        "图书、音像、电子书刊--其他--套装书",
+        "Books,Media_and_EBooks--Others--Book_Sets"
+    ],
+    "ee303539bb8540ecb94691749cc42edd": [
+        "图书、音像、电子书刊--其他--期刊",
+        "Books,Media_and_EBooks--Others--Journals"
+    ],
+    "c070d2a09b724cb79cdbe3869642db2f": [
+        "图书、音像、电子书刊--其他--杂志",
+        "Books,Media_and_EBooks--Others--Magazines"
+    ],
+    "50ac90859b5944a69b5b7d8a7f218d22": [
+        "图书、音像、电子书刊--其他--工具书",
+        "Books,Media_and_EBooks--Others--Reference_Books"
+    ],
+    "ca9b4a242df949c284003718648a6a62": [
+        "图书、音像、电子书刊--科技--建筑",
+        "Books,Media_and_EBooks--Science_and_Technology--Architecture"
+    ],
+    "0977472563574acdb0381bb0dd9196af": [
+        "图书、音像、电子书刊--科技--计算机与互联网",
+        "Books,Media_and_EBooks--Science_and_Technology--Computers_and_Internet"
+    ],
+    "45a70d6cd8ae49c6abfd5c8358b0de28": [
+        "图书、音像、电子书刊--科技--电子通信",
+        "Books,Media_and_EBooks--Science_and_Technology--Electronics_and_Communication"
+    ],
+    "47a16441a7524d368c110fdfba47c5e3": [
+        "图书、音像、电子书刊--科技--工业技术",
+        "Books,Media_and_EBooks--Science_and_Technology--Industrial_Technology"
+    ],
+    "7b5f79e2986241acab6cdcffd10b8e88": [
+        "图书、音像、电子书刊--科技--医学",
+        "Books,Media_and_EBooks--Science_and_Technology--Medicine"
+    ],
+    "597924368a174ede83acdc3163d6b524": [
+        "图书、音像、电子书刊--科技--科学与自然",
+        "Books,Media_and_EBooks--Science_and_Technology--Science_and_Nature"
+    ],
+    "1d1255eb86ba453ea49a319a82a96a35": [
+        "电脑、办公--电脑整机--一体机",
+        "Computer_and_Office--Complete_Computers--All-in-One_Computers"
+    ],
+    "b30da773040f445c93d4c5eb041ae3a1": [
+        "电脑、办公--电脑整机--台式机",
+        "Computer_and_Office--Complete_Computers--Desktop_Computers"
+    ],
+    "a6cfdebc814a4bc89b5606e6af636ee1": [
+        "电脑、办公--电脑整机--游戏本",
+        "Computer_and_Office--Complete_Computers--Gaming_Laptops"
+    ],
+    "3f7530db84d647118cad5a18a766137a": [
+        "电脑、办公--电脑整机--笔记本配件",
+        "Computer_and_Office--Complete_Computers--Laptop_Accessories"
+    ],
+    "68f3bafa808b4c8093e606a8d8d9e661": [
+        "电脑、办公--电脑整机--笔记本",
+        "Computer_and_Office--Complete_Computers--Laptops"
+    ],
+    "84a12b7f99944dec892b819c949e6460": [
+        "电脑、办公--电脑整机--服务器",
+        "Computer_and_Office--Complete_Computers--Servers"
+    ],
+    "e22808abb5684a9fa5ec1d59e68ed352": [
+        "电脑、办公--电脑整机--平板电脑配件",
+        "Computer_and_Office--Complete_Computers--Tablet_Accessories"
+    ],
+    "9ae8efc554204a7790d05f0aec62957b": [
+        "电脑、办公--电脑整机--平板电脑",
+        "Computer_and_Office--Complete_Computers--Tablets"
+    ],
+    "2d9a6872aa23421a83d2f4923fad7511": [
+        "电脑、办公--电脑整机--工作站",
+        "Computer_and_Office--Complete_Computers--Workstations"
+    ],
+    "7cc4cb41df6e4a19a2ccec73e0a7c1be": [
+        "电脑、办公--电脑组件--CPU",
+        "Computer_and_Office--Computer_Components--CPUs"
+    ],
+    "4044917c865749b58e416014999f4d7a": [
+        "电脑、办公--电脑组件--机箱",
+        "Computer_and_Office--Computer_Components--Computer_Cases"
+    ],
+    "56d573785f994b0192d10e2f5f2f1f31": [
+        "电脑、办公--电脑组件--散热器",
+        "Computer_and_Office--Computer_Components--Coolers"
+    ],
+    "3b30f0b177ca41008dea0a4034a07ebc": [
+        "电脑、办公--电脑组件--组装电脑",
+        "Computer_and_Office--Computer_Components--Custom-built_PCs"
+    ],
+    "3b1455b94d404164a9f5fc2a1518fd47": [
+        "电脑、办公--电脑组件--刻录机",
+        "Computer_and_Office--Computer_Components--Disc_Burners"
+    ],
+    "b83092272ce2402f8d4a4a47ada2a2cb": [
+        "电脑、办公--电脑组件--扩展卡",
+        "Computer_and_Office--Computer_Components--Expansion_Cards"
+    ],
+    "535d5aa29a0743f089ba17c35d0d6b82": [
+        "电脑、办公--电脑组件--硬盘",
+        "Computer_and_Office--Computer_Components--Hard_Drives"
+    ],
+    "c0adee92c37343ea9cc7a17704405084": [
+        "电脑、办公--电脑组件--显示器支架",
+        "Computer_and_Office--Computer_Components--Monitor_Stands"
+    ],
+    "166b1d74d2384b669b27356a495791ff": [
+        "电脑、办公--电脑组件--显示器",
+        "Computer_and_Office--Computer_Components--Monitors"
+    ],
+    "af6ddb33cca1438199d1bef0c3d887da": [
+        "电脑、办公--电脑组件--主板CPU套装",
+        "Computer_and_Office--Computer_Components--Motherboard_and_CPU_Bundles"
+    ],
+    "8a2a348f5525461298200b4bee998d58": [
+        "电脑、办公--电脑组件--主板",
+        "Computer_and_Office--Computer_Components--Motherboards"
+    ],
+    "04efd8575c7f463b8ab6eedd707913f9": [
+        "电脑、办公--电脑组件--光驱",
+        "Computer_and_Office--Computer_Components--Optical_Drives"
+    ],
+    "e87ae7cd385a4e989857f7ea7cf07e83": [
+        "电脑、办公--电脑组件--装机配件",
+        "Computer_and_Office--Computer_Components--PC_Building_Accessories"
+    ],
+    "e85a7ac6eeef43539ec1abfabefeb7b7": [
+        "电脑、办公--电脑组件--电源",
+        "Computer_and_Office--Computer_Components--Power_Supplies"
+    ],
+    "363b8525a4e3475bb7f6e4cc7759f443": [
+        "电脑、办公--电脑组件--内存",
+        "Computer_and_Office--Computer_Components--RAM"
+    ],
+    "9413fa33ac1b4dd6a28a63cb0fd70590": [
+        "电脑、办公--电脑组件--SSD固态硬盘",
+        "Computer_and_Office--Computer_Components--SSDs"
+    ],
+    "427d28c8f849479d8abf1c29459d8b39": [
+        "电脑、办公--游戏设备--游戏周边",
+        "Computer_and_Office--Gaming_Devices--Gaming_Accessories"
+    ],
+    "8dc821d06f154e5d8bc4e15f17d9a8d6": [
+        "电脑、办公--游戏设备--游戏耳机",
+        "Computer_and_Office--Gaming_Devices--Gaming_Headsets"
+    ],
+    "e929f9c71f8c418f801bcdc8117b441f": [
+        "电脑、办公--游戏设备--游戏软件",
+        "Computer_and_Office--Gaming_Devices--Gaming_Software"
+    ],
+    "b0618b57f5fa4ce49f9d33a98e16de56": [
+        "电脑、办公--游戏设备--方向盘",
+        "Computer_and_Office--Gaming_Devices--Racing_Wheels"
+    ],
+    "a8c97f6943c6459b87ad06d241f543e4": [
+        "电脑、办公--网络产品--4G上网",
+        "Computer_and_Office--Networking_Products--4G_Internet"
+    ],
+    "e612f29944a3495485fa18cd2b2b0f1a": [
+        "电脑、办公--网络产品--5G上网",
+        "Computer_and_Office--Networking_Products--5G_Internet"
+    ],
+    "df77d5c4ce8e48a8952ebbd38243f37e": [
+        "电脑、办公--网络产品--网络盒子",
+        "Computer_and_Office--Networking_Products--Network_Boxes"
+    ],
+    "f066f9cb405d42248becf2f2ead82735": [
+        "电脑、办公--网络产品--网卡",
+        "Computer_and_Office--Networking_Products--Network_Cards"
+    ],
+    "6f6b8308d7964f75ad9a906d8328a391": [
+        "电脑、办公--网络产品--网络存储",
+        "Computer_and_Office--Networking_Products--Network_Storage"
+    ],
+    "a6e772ccba1842238ac9b716332d08a2": [
+        "电脑、办公--网络产品--网络配件",
+        "Computer_and_Office--Networking_Products--Networking_Accessories"
+    ],
+    "32ad79d006514833b22c04c87d963b2c": [
+        "电脑、办公--网络产品--路由器",
+        "Computer_and_Office--Networking_Products--Routers"
+    ],
+    "59e8ce32e7264a539d07c2283bf5500c": [
+        "电脑、办公--网络产品--交换机",
+        "Computer_and_Office--Networking_Products--Switches"
+    ],
+    "8d2cf59d2c5249699beea4e0e174d3c9": [
+        "电脑、办公--办公设备--条码扫描",
+        "Computer_and_Office--Office_Equipment--Barcode_Scanners"
+    ],
+    "7d5c2702a10f40328804b6f49dca4943": [
+        "电脑、办公--办公设备--装订机",
+        "Computer_and_Office--Office_Equipment--Binding_Machines"
+    ],
+    "faa9a6b32a684f90aea77a20f5ee58c8": [
+        "电脑、办公--办公设备--收银机",
+        "Computer_and_Office--Office_Equipment--Cash_Registers"
+    ],
+    "71540d38090545048894371b56142720": [
+        "电脑、办公--办公设备--会议音频视频",
+        "Computer_and_Office--Office_Equipment--Conference_Audio_and_Video"
+    ],
+    "8d015a1e538f43f9ae5beaf11c994a3a": [
+        "电脑、办公--办公设备--复合机",
+        "Computer_and_Office--Office_Equipment--Copy_Machines"
+    ],
+    "60964f304799422784c3c5b3b5ea1931": [
+        "电脑、办公--办公设备--传真设备",
+        "Computer_and_Office--Office_Equipment--Fax_Machines"
+    ],
+    "7b11e500d080479586135275fe618b70": [
+        "电脑、办公--办公设备--工业安防监控",
+        "Computer_and_Office--Office_Equipment--Industrial_Security_Monitoring"
+    ],
+    "40a2c1a8f54f4abe97fec36493ca05a8": [
+        "电脑、办公--办公设备--封装机",
+        "Computer_and_Office--Office_Equipment--Laminating_Machines"
+    ],
+    "1d80444552844e84bf031d31e33e949a": [
+        "电脑、办公--办公设备--点钞机",
+        "Computer_and_Office--Office_Equipment--Money_Counters"
+    ],
+    "8d959199027e409ab21afb4859c34e9d": [
+        "电脑、办公--办公设备--验钞机",
+        "Computer_and_Office--Office_Equipment--Money_Detectors"
+    ],
+    "24042610737e4923bb7cd1687643b476": [
+        "电脑、办公--办公设备--打印机",
+        "Computer_and_Office--Office_Equipment--Printers"
+    ],
+    "ab27df709225458b9ef70d282cc2ad5c": [
+        "电脑、办公--办公设备--投影配件",
+        "Computer_and_Office--Office_Equipment--Projector_Accessories"
+    ],
+    "85b24a2e4a95484da84b1ba70322ce12": [
+        "电脑、办公--办公设备--投影机",
+        "Computer_and_Office--Office_Equipment--Projectors"
+    ],
+    "a91666cb88cc47b99b49cb3a7abc434c": [
+        "电脑、办公--办公设备--保险柜",
+        "Computer_and_Office--Office_Equipment--Safes"
+    ],
+    "ddad65dc74a0405b973ee437f3dfb03c": [
+        "电脑、办公--办公设备--保险箱",
+        "Computer_and_Office--Office_Equipment--Safety_Boxes"
+    ],
+    "80e06b8f4b764d0a84fc23c1cf99940d": [
+        "电脑、办公--办公设备--扫描仪",
+        "Computer_and_Office--Office_Equipment--Scanners"
+    ],
+    "103c7255efd34a7c8820bb55506440b1": [
+        "电脑、办公--办公设备--碎纸机",
+        "Computer_and_Office--Office_Equipment--Shredders"
+    ],
+    "b1c556c71f98482ba281405664a3d62a": [
+        "电脑、办公--办公设备--考勤机",
+        "Computer_and_Office--Office_Equipment--Time_Attendance_Systems"
+    ],
+    "8be77525548c464f953d4abd4e137e88": [
+        "电脑、办公--办公设备--白板",
+        "Computer_and_Office--Office_Equipment--Whiteboards"
+    ],
+    "1351babeb39441148de0175de1ce6f05": [
+        "电脑、办公--办公耗材--硒鼓",
+        "Computer_and_Office--Office_Supplies--Drum_Units"
+    ],
+    "f122413edc0744a9bcf0d0ae44f1c8f5": [
+        "电脑、办公--办公耗材--墨盒",
+        "Computer_and_Office--Office_Supplies--Ink_Cartridges"
+    ],
+    "660da1d28d7345a0b42ff99d8a15c100": [
+        "电脑、办公--办公耗材--纸类",
+        "Computer_and_Office--Office_Supplies--Paper_Products"
+    ],
+    "9092971dcac441d8b1835f42ce1c7c2d": [
+        "电脑、办公--办公耗材--刻录碟片",
+        "Computer_and_Office--Office_Supplies--Recordable_Discs"
+    ],
+    "a8bb7701287f4cfa8533d12e449cb08f": [
+        "电脑、办公--办公耗材--色带",
+        "Computer_and_Office--Office_Supplies--Ribbons"
+    ],
+    "ffd349bdeac14e4fb53f04ef9ef3b48f": [
+        "电脑、办公--外设产品--线缆",
+        "Computer_and_Office--Peripherals--Cables"
+    ],
+    "000c5e51ca3b410f83bb3a3d9efdf50a": [
+        "电脑、办公--外设产品--游戏设备",
+        "Computer_and_Office--Peripherals--Gaming_Devices"
+    ],
+    "f00fac7c74564c36a4c583a9e0d384c5": [
+        "电脑、办公--外设产品--手写板",
+        "Computer_and_Office--Peripherals--Graphics_Tablets"
+    ],
+    "5c36082adb3c4d08baa36d95a755a68a": [
+        "电脑、办公--外设产品--硬盘盒",
+        "Computer_and_Office--Peripherals--Hard_Drive_Enclosures"
+    ],
+    "f153339d43894ca4a58de2302f019570": [
+        "电脑、办公--外设产品--键盘",
+        "Computer_and_Office--Peripherals--Keyboards"
+    ],
+    "ded9a13652d44b138955b29fd41501ed": [
+        "电脑、办公--外设产品--鼠标",
+        "Computer_and_Office--Peripherals--Mice"
+    ],
+    "70e5f0d810254d659071c5b73fb363fa": [
+        "电脑、办公--外设产品--鼠标垫",
+        "Computer_and_Office--Peripherals--Mouse_Pads"
+    ],
+    "90eb16e3593645a29d79d3dd3acc7dca": [
+        "电脑、办公--外设产品--网络仪表仪器",
+        "Computer_and_Office--Peripherals--Network_Testing_Equipment"
+    ],
+    "280bcec71c5248dca1c2b5dba502fa54": [
+        "电脑、办公--外设产品--电脑工具",
+        "Computer_and_Office--Peripherals--PC_Tools"
+    ],
+    "7487340199cc4ca8960b6dd79c7580b6": [
+        "电脑、办公--外设产品--移动硬盘",
+        "Computer_and_Office--Peripherals--Portable_Hard_Drives"
+    ],
+    "4593517480804691831e1c87cd264892": [
+        "电脑、办公--外设产品--插座",
+        "Computer_and_Office--Peripherals--Power_Strips"
+    ],
+    "55deffa171204ebca674aea2af335002": [
+        "电脑、办公--外设产品--UPS电源",
+        "Computer_and_Office--Peripherals--UPS_Power_Supplies"
+    ],
+    "034c84ea6a974e588ea72c179314a1f8": [
+        "电脑、办公--外设产品--U盘",
+        "Computer_and_Office--Peripherals--USB_Flash_Drives"
+    ],
+    "1a4450f543174defab530c1256f67be6": [
+        "电脑、办公--外设产品--摄像头",
+        "Computer_and_Office--Peripherals--Webcams"
+    ],
+    "eca9006f22274613bdd65a8b904ef180": [
+        "电脑、办公--文具--财会用品",
+        "Computer_and_Office--Stationery--Accounting_Supplies"
+    ],
+    "11dc2a85ffd24678ba9639c3755327f5": [
+        "电脑、办公--文具--计算器",
+        "Computer_and_Office--Stationery--Calculators"
+    ],
+    "1a9eddd06aaa420ba1df4958c4225752": [
+        "电脑、办公--文具--文件管理",
+        "Computer_and_Office--Stationery--File_Management"
+    ],
+    "a712ee56506d4b32926f741fcc7a5c6e": [
+        "电脑、办公--文具--本册",
+        "Computer_and_Office--Stationery--Notebooks"
+    ],
+    "4f66354ef8a244718ffa4c12c3f0c1d0": [
+        "电脑、办公--文具--办公文具",
+        "Computer_and_Office--Stationery--Office_Stationery"
+    ],
+    "64b6a89a02524cc5804131c843bb066c": [
+        "电脑、办公--文具--笔类",
+        "Computer_and_Office--Stationery--Pens"
+    ],
+    "5949733cbac84fe18f919354671d0219": [
+        "电脑、办公--文具--便签",
+        "Computer_and_Office--Stationery--Sticky_Notes"
+    ],
+    "c2bb54701f3646b4945cbdcd0036397a": [
+        "电脑、办公--文具--学生文具",
+        "Computer_and_Office--Stationery--Student_Stationery"
+    ],
+    "3f38f0b5ebf64ee7b45b171afe07c533": [
+        "电脑、办公--文具--文房四宝",
+        "Computer_and_Office--Stationery--Traditional_Writing_Materials"
+    ],
+    "57c56af609ae4e2693796ebb7c65c366": [
+        "数码--影音娱乐--苹果配件",
+        "Electronics--Audio_and_Entertainment--Apple_Accessories"
+    ],
+    "5ca36b5fec4e44fabc4e1a49f7901c1f": [
+        "数码--影音娱乐--耳机",
+        "Electronics--Audio_and_Entertainment--Headphones"
+    ],
+    "0f50a8dfa3054e8aa053702c6362d00e": [
+        "数码--影音娱乐--耳麦",
+        "Electronics--Audio_and_Entertainment--Headsets"
+    ],
+    "fe1c73ec02654c14b1c51404cfe6c6e5": [
+        "数码--影音娱乐--MP3",
+        "Electronics--Audio_and_Entertainment--MP3_Players"
+    ],
+    "49429e648019448185894e7132e4e423": [
+        "数码--影音娱乐--MP4",
+        "Electronics--Audio_and_Entertainment--MP4_Players"
+    ],
+    "38ab89f30b55428cbd51c2eabce3db07": [
+        "数码--影音娱乐--麦克风",
+        "Electronics--Audio_and_Entertainment--Microphones"
+    ],
+    "ade757a9f5e148f994141a28eba04b91": [
+        "数码--影音娱乐--专业音频",
+        "Electronics--Audio_and_Entertainment--Professional_Audio"
+    ],
+    "cb11649b41fb4d2b9d7ce499c1a08369": [
+        "数码--影音娱乐--收音机",
+        "Electronics--Audio_and_Entertainment--Radios"
+    ],
+    "ce9d96512d8e45f18f839b9baaa829fc": [
+        "数码--影音娱乐--音响",
+        "Electronics--Audio_and_Entertainment--Sound_Systems"
+    ],
+    "2d16107b9661405eb3657956ee57feeb": [
+        "数码--影音娱乐--音箱",
+        "Electronics--Audio_and_Entertainment--Speakers"
+    ],
+    "7bc81bf07c0e46218fc54444f9370bbd": [
+        "数码--数码配件--电池",
+        "Electronics--Digital_Accessories--Batteries"
+    ],
+    "11460b5af1bd4a52895c4b0d47b3f6b3": [
+        "数码--数码配件--机身附件",
+        "Electronics--Digital_Accessories--Body_Accessories"
+    ],
+    "273ca5e2cabc48a0b7cd64338037535b": [
+        "数码--数码配件--相机包",
+        "Electronics--Digital_Accessories--Camera_Bags"
+    ],
+    "516d545aa23e4f0b936cc8459bd40b14": [
+        "数码--数码配件--相机清洁",
+        "Electronics--Digital_Accessories--Camera_Cleaning"
+    ],
+    "e40743ee048d4d2b84d686c00cd084b4": [
+        "数码--数码配件--相机贴膜",
+        "Electronics--Digital_Accessories--Camera_Screen_Protectors"
+    ],
+    "a13180a256b84b82a78005b7f95c8efb": [
+        "数码--数码配件--读卡器",
+        "Electronics--Digital_Accessories--Card_Readers"
+    ],
+    "ab79d578263542aabba2afafa7ea5b03": [
+        "数码--数码配件--充电器",
+        "Electronics--Digital_Accessories--Chargers"
+    ],
+    "179da32ed0244e7cbc8573ba8386623e": [
+        "数码--数码配件--数码支架",
+        "Electronics--Digital_Accessories--Digital_Stands"
+    ],
+    "c9662f7a48e2441c97ad1b0ab7adb2b0": [
+        "数码--数码配件--滤镜",
+        "Electronics--Digital_Accessories--Filters"
+    ],
+    "be09808a6740473a87ccd598ea35ec8b": [
+        "数码--数码配件--闪光灯",
+        "Electronics--Digital_Accessories--Flash_Units"
+    ],
+    "bf4896b60a6444dfb1bec77429e025a4": [
+        "数码--数码配件--云台",
+        "Electronics--Digital_Accessories--Gimbals"
+    ],
+    "383df36d1e2645a69d8072333a593e69": [
+        "数码--数码配件--手柄",
+        "Electronics--Digital_Accessories--Grips"
+    ],
+    "a21be455bc9343d9be584181546e8345": [
+        "数码--数码配件--镜头附件",
+        "Electronics--Digital_Accessories--Lens_Accessories"
+    ],
+    "b927a66edef1402a818ef584be988887": [
+        "数码--数码配件--存储卡",
+        "Electronics--Digital_Accessories--Memory_Cards"
+    ],
+    "a4eebc1a48e0435c8691e6b4204f145e": [
+        "数码--数码配件--三脚架",
+        "Electronics--Digital_Accessories--Tripods"
+    ],
+    "0579cf6e22ec4b5c82060ac30b3cab89": [
+        "数码--电子教育--电纸书",
+        "Electronics--Electronic_Education--E-readers"
+    ],
+    "391291dc159340b98dde78f1119baba7": [
+        "数码--电子教育--早教益智",
+        "Electronics--Electronic_Education--Early_Education"
+    ],
+    "e8265fa846194f36847c8f409d27e846": [
+        "数码--电子教育--电子词典",
+        "Electronics--Electronic_Education--Electronic_Dictionaries"
+    ],
+    "f8a404e6fdf542e4bb7176618bcde853": [
+        "数码--电子教育--点读笔",
+        "Electronics--Electronic_Education--Point-and-Read_Pens"
+    ],
+    "fac95f11a94e452988cf82c64bdc2c4c": [
+        "数码--电子教育--点读机",
+        "Electronics--Electronic_Education--Reading_Pens"
+    ],
+    "cf477b73600840eaa9a6de45bd992d83": [
+        "数码--电子教育--复读机",
+        "Electronics--Electronic_Education--Repeaters"
+    ],
+    "cdadb89be51b4eb79594e834b505c936": [
+        "数码--电子教育--学生平板",
+        "Electronics--Electronic_Education--Student_Tablets"
+    ],
+    "89404261aa9e4472b0183a2e7b65f9d7": [
+        "数码--电子教育--翻译机",
+        "Electronics--Electronic_Education--Translation_Devices"
+    ],
+    "ab39b64855fa4c88a99a11eee3dcf15f": [
+        "数码--电子教育--录音笔",
+        "Electronics--Electronic_Education--Voice_Recorders"
+    ],
+    "2436968c06714992adb8f75decc247ca": [
+        "数码--摄影摄像--运动相机",
+        "Electronics--Photography_and_Videography--Action_Cameras"
+    ],
+    "ecab61915b4c424285504b2e7d407da4": [
+        "数码--摄影摄像--摄像机",
+        "Electronics--Photography_and_Videography--Camcorders"
+    ],
+    "b12b9a9e4e8748d08460cf78edc44089": [
+        "数码--摄影摄像--单反相机",
+        "Electronics--Photography_and_Videography--DSLR_Cameras"
+    ],
+    "3f34d1807af84e1db91da6b06e3ea8af": [
+        "数码--摄影摄像--数码相机",
+        "Electronics--Photography_and_Videography--Digital_Cameras"
+    ],
+    "7a17ce731d614c95b5f54879cbf6901c": [
+        "数码--摄影摄像--数码相框",
+        "Electronics--Photography_and_Videography--Digital_Photo_Frames"
+    ],
+    "b218f11250af4c808e9b1cf152345e2f": [
+        "数码--摄影摄像--镜头",
+        "Electronics--Photography_and_Videography--Lenses"
+    ],
+    "a7d1fcbb24ac45feaa507e653b34ac5d": [
+        "数码--摄影摄像--微单相机",
+        "Electronics--Photography_and_Videography--Mirrorless_Cameras"
+    ],
+    "a8de7eb737d9476a8d72e54e08bef874": [
+        "数码--摄影摄像--户外器材",
+        "Electronics--Photography_and_Videography--Outdoor_Equipment"
+    ],
+    "18f9951417104d95955d7f6b43a61c8e": [
+        "数码--摄影摄像--冲印服务",
+        "Electronics--Photography_and_Videography--Photo_Printing_Services"
+    ],
+    "74d2ad52f9f44a588d8b3fad869a2b7e": [
+        "数码--摄影摄像--影棚器材",
+        "Electronics--Photography_and_Videography--Studio_Equipment"
+    ],
+    "1c1d52cdb0cb4f36ada16aab433f0f66": [
+        "数码--智能设备--无人机",
+        "Electronics--Smart_Devices--Drones"
+    ],
+    "13216f4de2d44cdbadf3c1e35af30e05": [
+        "数码--智能设备--运动跟踪器",
+        "Electronics--Smart_Devices--Fitness_Trackers"
+    ],
+    "505966ff6cb842749afbc3f3d156a86d": [
+        "数码--智能设备--健康监测",
+        "Electronics--Smart_Devices--Health_Monitors"
+    ],
+    "f8003d0b1afa4a17a15bf349d7aad1fa": [
+        "数码--智能设备--其他配件",
+        "Electronics--Smart_Devices--Other_Accessories"
+    ],
+    "12f9258be01a453c91e737f6fbddac19": [
+        "数码--智能设备--体感车",
+        "Electronics--Smart_Devices--Self-balancing_Scooters"
+    ],
+    "7a816f342c234ade88a7a6246e9b7ff5": [
+        "数码--智能设备--智能配饰",
+        "Electronics--Smart_Devices--Smart_Accessories"
+    ],
+    "7b1dcc43909547e5a6c83dae1629acf3": [
+        "数码--智能设备--智能手环",
+        "Electronics--Smart_Devices--Smart_Bands"
+    ],
+    "56c205b8fcb54c2eb7894cd5aeb22171": [
+        "数码--智能设备--智能家居",
+        "Electronics--Smart_Devices--Smart_Home"
+    ],
+    "299fd03cd2eb4726a23455fc9e939402": [
+        "数码--智能设备--智能机器人",
+        "Electronics--Smart_Devices--Smart_Robots"
+    ],
+    "b1fa86acc34147f0905d4e011282eb48": [
+        "数码--智能设备--智能手表",
+        "Electronics--Smart_Devices--Smartwatches"
+    ],
+    "b379f95101804854866200472cbd49fc": [
+        "数码--智能设备--VR眼镜",
+        "Electronics--Smart_Devices--VR_Headsets"
+    ],
+    "58c5b1d0f54a46c1b5b7648f4f25d532": [
+        "食品饮料、保健食品--酒类--白酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Baijiu"
+    ],
+    "eb5f808b86fd4fd4ac5422b1097707da": [
+        "食品饮料、保健食品--酒类--啤酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Beer"
+    ],
+    "916760ea6e1445caafcc3aea3566eb3a": [
+        "食品饮料、保健食品--酒类--收藏酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Collectible_Wine"
+    ],
+    "5e3455ac13d149699a400df8f77d0256": [
+        "食品饮料、保健食品--酒类--养生酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Health_Wine"
+    ],
+    "565873c99f614f48841521a6c1faf06b": [
+        "食品饮料、保健食品--酒类--黄酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Huangjiu"
+    ],
+    "b0b0378c459c4bb2874048c819922f4c": [
+        "食品饮料、保健食品--酒类--洋酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Imported_Spirits"
+    ],
+    "64570458d40e43d0bd46f4d4d07e10c2": [
+        "食品饮料、保健食品--酒类--葡萄酒",
+        "Food,Beverages_and_Health_Supplements--Alcoholic_Beverages--Wine"
+    ],
+    "81af80d0ce8f4f4e8f8d28399b296acd": [
+        "食品饮料、保健食品--生鲜--蛋类",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Eggs"
+    ],
+    "3a40821d68904b56b8fdab583ba1b60f": [
+        "食品饮料、保健食品--生鲜--冷冻食品",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Frozen_Food"
+    ],
+    "e296cd3ff9c948df84488896efa09877": [
+        "食品饮料、保健食品--生鲜--水果",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Fruits"
+    ],
+    "b936ccd0e20345cdb71d6f4231c5cf73": [
+        "食品饮料、保健食品--生鲜--猪牛羊肉",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Pork,Beef_and_Lamb"
+    ],
+    "739fcf4d4e8f4d8e914097335d1b7eff": [
+        "食品饮料、保健食品--生鲜--禽类",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Poultry"
+    ],
+    "3bd6f1557a694d22bfc1fa11ff60928d": [
+        "食品饮料、保健食品--生鲜--速食菜肴",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Ready-to-eat_Meals"
+    ],
+    "3c9b96d4732d43229e6dfc96315d47a8": [
+        "食品饮料、保健食品--生鲜--海鲜水产",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Seafood_and_Aquatic_Products"
+    ],
+    "5e8f7ba15d544f3cbebc968c6de0c4bf": [
+        "食品饮料、保健食品--生鲜--半成品菜",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Semi-prepared_Dishes"
+    ],
+    "ac7bd754386c4389868c4469cd14ea23": [
+        "食品饮料、保健食品--生鲜--蔬菜",
+        "Food,Beverages_and_Health_Supplements--Fresh_Food--Vegetables"
+    ],
+    "af1561080dbc44e8941244aaedfdba07": [
+        "食品饮料、保健食品--粮油调味--食用油",
+        "Food,Beverages_and_Health_Supplements--Grains,Oils_and_Condiments--Cooking_Oil"
+    ],
+    "95b98b2edbf1497d8c68c12267373c42": [
+        "食品饮料、保健食品--粮油调味--南北干货",
+        "Food,Beverages_and_Health_Supplements--Grains,Oils_and_Condiments--Dried_Foods"
+    ],
+    "3d3044980d5645f6ab3d9ca43c191612": [
+        "食品饮料、保健食品--粮油调味--方便食品",
+        "Food,Beverages_and_Health_Supplements--Grains,Oils_and_Condiments--Instant_Foods"
+    ],
+    "3aa3bfef00754b918d5044b37b17a9fc": [
+        "食品饮料、保健食品--粮油调味--有机食品",
+        "Food,Beverages_and_Health_Supplements--Grains,Oils_and_Condiments--Organic_Foods"
+    ],
+    "2d12ec025f8e488fad3a438a7d2e555f": [
+        "食品饮料、保健食品--粮油调味--米面杂粮",
+        "Food,Beverages_and_Health_Supplements--Grains,Oils_and_Condiments--Rice,Flour_and_Grains"
+    ],
+    "ff7c976016ad461f8d7898453c59e4d9": [
+        "食品饮料、保健食品--粮油调味--调味品",
+        "Food,Beverages_and_Health_Supplements--Grains,Oils_and_Condiments--Seasonings"
+    ],
+    "502fca14cc6f4a81af0d1bc398311453": [
+        "食品饮料、保健食品--保健食品--成人营养品",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Adult_Nutritional_Supplements"
+    ],
+    "f66be581edd6459d8245e54315382bdb": [
+        "食品饮料、保健食品--保健食品--氨基酸",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Amino_Acids"
+    ],
+    "85e85a11e4cb4a38b1674ce3a33c587a": [
+        "食品饮料、保健食品--保健食品--钙铁锌硒",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Calcium,Iron,Zinc_and_Selenium"
+    ],
+    "4425b2c2f4d444969244d626f65b3fc8": [
+        "食品饮料、保健食品--保健食品--鱼肝油",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Cod_Liver_Oil"
+    ],
+    "addaa8d387cb49e3823d4dd7232b700d": [
+        "食品饮料、保健食品--保健食品--胶原蛋白",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Collagen"
+    ],
+    "967bee216b0b4c0a8c10e299961c7486": [
+        "食品饮料、保健食品--保健食品--膳食纤维",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Dietary_Fiber"
+    ],
+    "e27f744f06ae44378f8046b1d36513d0": [
+        "食品饮料、保健食品--保健食品--酵素",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Enzymes"
+    ],
+    "72eb5e91e5d0486ba6466bfde8ec4423": [
+        "食品饮料、保健食品--保健食品--鱼油",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Fish_Oil"
+    ],
+    "e88cf8c752bf4ea68cd2eebf7885a0f0": [
+        "食品饮料、保健食品--保健食品--叶酸",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Folic_Acid"
+    ],
+    "b6e7e615c18c45f787bbd282c11753e4": [
+        "食品饮料、保健食品--保健食品--葡萄籽",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Grape_Seed_Extract"
+    ],
+    "eb8f816f87b34292a4dfb3a292b5b52b": [
+        "食品饮料、保健食品--保健食品--养生茶饮",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Health_Tea_Drinks"
+    ],
+    "2e6a284794e5413ca4262f3dc2a94bb6": [
+        "食品饮料、保健食品--保健食品--益生菌",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Probiotics"
+    ],
+    "41f6c854607645e1ab5da37b887a0ac9": [
+        "食品饮料、保健食品--保健食品--蛋白粉",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Protein_Powder"
+    ],
+    "4d1fcbf14ef94bf8932fa4ba232e69ac": [
+        "食品饮料、保健食品--保健食品--传统滋补品",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Traditional_Tonics"
+    ],
+    "70067de3842a415aa2faf359083e1be2": [
+        "食品饮料、保健食品--保健食品--维生素",
+        "Food,Beverages_and_Health_Supplements--Health_Food--Vitamins"
+    ],
+    "1b4a215d8e1f4bf09e9ad2accab8e026": [
+        "食品饮料、保健食品--进口食品--饮料",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Beverages"
+    ],
+    "6166b72972714106969838df79bc2730": [
+        "食品饮料、保健食品--进口食品--糖果",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Candies"
+    ],
+    "bc9f2bbbc145470d852304efa4c15073": [
+        "食品饮料、保健食品--进口食品--休闲零食",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Casual_Snacks"
+    ],
+    "f9523cc3d8e0463c9247a184ee4e47f9": [
+        "食品饮料、保健食品--进口食品--巧克力",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Chocolate"
+    ],
+    "42652187368f4f7a8f0b66d9bd05a4cb": [
+        "食品饮料、保健食品--进口食品--咖啡",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Coffee"
+    ],
+    "3e4561b47e784b8da25208ad0dc4db07": [
+        "食品饮料、保健食品--进口食品--饼干蛋糕",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Cookies_and_Cakes"
+    ],
+    "e328730be5d64372bede0c930ac7dea0": [
+        "食品饮料、保健食品--进口食品--米面调味",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Grains_and_Seasonings"
+    ],
+    "9b85beb370784bc5b13c54db140c987a": [
+        "食品饮料、保健食品--进口食品--冲调品",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Instant_Drinks"
+    ],
+    "abef350104d94e8a9b3eb2a09038ede6": [
+        "食品饮料、保健食品--进口食品--牛奶乳品",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Milk_and_Dairy_Products"
+    ],
+    "d29e0affd1014b5091ac896331250aea": [
+        "食品饮料、保健食品--进口食品--油",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Oil"
+    ],
+    "910c3978bc4b4f25878feac06a12e196": [
+        "食品饮料、保健食品--进口食品--水",
+        "Food,Beverages_and_Health_Supplements--Imported_Food--Water"
+    ],
+    "ad54096d51684395b3eac77714956572": [
+        "食品饮料、保健食品--冲调饮品--成人奶粉",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Adult_Milk_Powder"
+    ],
+    "fa9e6d00541c4f12a3e3d03b3ddb6cb4": [
+        "食品饮料、保健食品--冲调饮品--饮料",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Beverages"
+    ],
+    "fb3b264fba984b91978350ca2f37e8ce": [
+        "食品饮料、保健食品--冲调饮品--谷物",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Cereals"
+    ],
+    "7620a586dc5943fe9ca13e3219fb2c9e": [
+        "食品饮料、保健食品--冲调饮品--咖啡",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Coffee"
+    ],
+    "433da84a12f44ebaa876c98e0d263b9c": [
+        "食品饮料、保健食品--冲调饮品--蜂蜜",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Honey"
+    ],
+    "fa6eb3185b3c4ec397083af193d77442": [
+        "食品饮料、保健食品--冲调饮品--藕粉",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Lotus_Root_Starch"
+    ],
+    "153a0c3cf9424c39a1d57918fdbee95e": [
+        "食品饮料、保健食品--冲调饮品--麦片",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Oatmeal"
+    ],
+    "faa154f6e35a4811890773a8f349d451": [
+        "食品饮料、保健食品--冲调饮品--芝麻糊",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Sesame_Paste"
+    ],
+    "33fadd55078b47909d5def17fcaec04c": [
+        "食品饮料、保健食品--冲调饮品--柚子茶",
+        "Food,Beverages_and_Health_Supplements--Instant_Drinks--Yuzu_Tea"
+    ],
+    "7984be5240eb4ecc9bfb2c44d1365607": [
+        "食品饮料、保健食品--地方特产--北京",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Beijing"
+    ],
+    "4da2acab1b5041469bc7456434a8a43a": [
+        "食品饮料、保健食品--地方特产--福建",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Fujian"
+    ],
+    "8729cb67b6a549cab5540c24aea91e98": [
+        "食品饮料、保健食品--地方特产--广东",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Guangdong"
+    ],
+    "537a5147820e439a8bfe2c80ec386b2c": [
+        "食品饮料、保健食品--地方特产--湖南",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Hunan"
+    ],
+    "7427fb37b39c48c387c5cee6b8078fc5": [
+        "食品饮料、保健食品--地方特产--江浙",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Jiangsu_and_Zhejiang"
+    ],
+    "c379bc58b58d4574953d7eb7d808278b": [
+        "食品饮料、保健食品--地方特产--东北",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Northeast_China"
+    ],
+    "8b031d437a06432b91222e53a6235d1d": [
+        "食品饮料、保健食品--地方特产--山东",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Shandong"
+    ],
+    "1d1b4294f38949778e19643c9b7e679e": [
+        "食品饮料、保健食品--地方特产--上海",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Shanghai"
+    ],
+    "7e042c7750f645048e35d7a083a21396": [
+        "食品饮料、保健食品--地方特产--山西",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Shanxi"
+    ],
+    "529a9d996be44c14bfa24499fc61dc26": [
+        "食品饮料、保健食品--地方特产--四川",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Sichuan"
+    ],
+    "54b483e722a646fe90b930d112b20ebf": [
+        "食品饮料、保健食品--地方特产--新疆",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Xinjiang"
+    ],
+    "588f8600a0de47f196793a036f7de431": [
+        "食品饮料、保健食品--地方特产--云南",
+        "Food,Beverages_and_Health_Supplements--Local_Specialties--Yunnan"
+    ],
+    "acfdcd2d0a02412f8e642051734a469f": [
+        "食品饮料、保健食品--牛奶乳品--成人奶粉",
+        "Food,Beverages_and_Health_Supplements--Milk_and_Dairy_Products--Adult_Milk_Powder"
+    ],
+    "dd9fd0fa574840debccebdcb071119f9": [
+        "食品饮料、保健食品--牛奶乳品--奶酪黄油",
+        "Food,Beverages_and_Health_Supplements--Milk_and_Dairy_Products--Cheese_and_Butter"
+    ],
+    "7827c9504f4841648001501967f1ee99": [
+        "食品饮料、保健食品--牛奶乳品--牛奶",
+        "Food,Beverages_and_Health_Supplements--Milk_and_Dairy_Products--Milk"
+    ],
+    "5030e6b08ec34bf3b99a4671a2bf2f45": [
+        "食品饮料、保健食品--牛奶乳品--酸奶",
+        "Food,Beverages_and_Health_Supplements--Milk_and_Dairy_Products--Yogurt"
+    ],
+    "67634492c42f435f98c023744f0ddd50": [
+        "食品饮料、保健食品--休闲食品--糖果",
+        "Food,Beverages_and_Health_Supplements--Snacks--Candies"
+    ],
+    "6435a80dbfbd424f83a009dccd7b55dd": [
+        "食品饮料、保健食品--休闲食品--休闲零食",
+        "Food,Beverages_and_Health_Supplements--Snacks--Casual_Snacks"
+    ],
+    "f509465712294583972799aae496a87a": [
+        "食品饮料、保健食品--休闲食品--巧克力",
+        "Food,Beverages_and_Health_Supplements--Snacks--Chocolate"
+    ],
+    "edc806b0a66b4ceabd02567fcdd86a8b": [
+        "食品饮料、保健食品--休闲食品--饼干蛋糕",
+        "Food,Beverages_and_Health_Supplements--Snacks--Cookies_and_Cakes"
+    ],
+    "8e33fd95cb7445fea2500fd7b0080967": [
+        "食品饮料、保健食品--休闲食品--肉干豆干",
+        "Food,Beverages_and_Health_Supplements--Snacks--Dried_Meat_and_Tofu"
+    ],
+    "bcfe0bce3faa46498c70753ed770388c": [
+        "食品饮料、保健食品--休闲食品--坚果炒货",
+        "Food,Beverages_and_Health_Supplements--Snacks--Nuts_and_Roasted_Seeds"
+    ],
+    "60fb3b1e30c84ec5a8b417ee8f41bee8": [
+        "食品饮料、保健食品--休闲食品--蜜饯果干",
+        "Food,Beverages_and_Health_Supplements--Snacks--Preserved_and_Dried_Fruits"
+    ],
+    "3cba41a12bdf438eb50f36d6d82374e8": [
+        "食品饮料、保健食品--休闲食品--膨化食品",
+        "Food,Beverages_and_Health_Supplements--Snacks--Puffed_Snacks"
+    ],
+    "6e4e478f0fe741f888f64fc747d6cf13": [
+        "食品饮料、保健食品--茗茶--红茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Black_Tea"
+    ],
+    "c816a4915ccb48958f3b6de0884cf90a": [
+        "食品饮料、保健食品--茗茶--黑茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Dark_Tea"
+    ],
+    "bc7e2b983e6d4a53a3a15141d75de190": [
+        "食品饮料、保健食品--茗茶--花果茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Flower_and_Fruit_Tea"
+    ],
+    "c2aaf660942f419bb9149a7e065c51e8": [
+        "食品饮料、保健食品--茗茶--绿茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Green_Tea"
+    ],
+    "d3fe7dcf2734411baabcf933aef6792f": [
+        "食品饮料、保健食品--茗茶--养生茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Health_Tea"
+    ],
+    "d1aa71bf34f747c5a5f183e29ed94388": [
+        "食品饮料、保健食品--茗茶--花草茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Herbal_Tea"
+    ],
+    "8722fe71d092475c997709ca1780588f": [
+        "食品饮料、保健食品--茗茶--茉莉花茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Jasmine_Tea"
+    ],
+    "8db6b32229f3456bb41733375e8c35d3": [
+        "食品饮料、保健食品--茗茶--龙井",
+        "Food,Beverages_and_Health_Supplements--Tea--Longjing_Tea"
+    ],
+    "5364d75a7d0d4d7c8387e110935dfc92": [
+        "食品饮料、保健食品--茗茶--乌龙茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Oolong_Tea"
+    ],
+    "6ee07c83682e4aff8955063f82785fed": [
+        "食品饮料、保健食品--茗茶--其它茶",
+        "Food,Beverages_and_Health_Supplements--Tea--Other_Teas"
+    ],
+    "e10b322fd1b44b2e84244d02f4c97457": [
+        "食品饮料、保健食品--茗茶--普洱",
+        "Food,Beverages_and_Health_Supplements--Tea--Pu-erh_Tea"
+    ],
+    "8bbce7fd23bd45ad9997648efd7f105f": [
+        "食品饮料、保健食品--茗茶--白茶",
+        "Food,Beverages_and_Health_Supplements--Tea--White_Tea"
+    ],
+    "b78542f6f7264c1d88ffe15d926f686f": [
+        "生鲜--速冻食品--面点",
+        "Fresh_Food--Frozen_Food--Dim_Sum"
+    ],
+    "fae3f6fdc742483ab21c614e8ec54725": [
+        "生鲜--速冻食品--水饺",
+        "Fresh_Food--Frozen_Food--Dumplings"
+    ],
+    "3857bf8d26fa4339b9da3b2dd67679ce": [
+        "生鲜--速冻食品--速冻半成品",
+        "Fresh_Food--Frozen_Food--Semi-prepared_Frozen_Foods"
+    ],
+    "00f0933111c14f269cfcec46316c180d": [
+        "生鲜--速冻食品--汤圆",
+        "Fresh_Food--Frozen_Food--Tang_Yuan"
+    ],
+    "c4ce9ab0f5374188a92011fb76bc5fad": [
+        "生鲜--速冻食品--馄饨",
+        "Fresh_Food--Frozen_Food--Wontons"
+    ],
+    "8b1abd0a36ac4e49be88e7f8881f9515": [
+        "生鲜--速冻食品--元宵",
+        "Fresh_Food--Frozen_Food--Yuan_Xiao"
+    ],
+    "883d25e08f9d4a77b767891a2c89e890": [
+        "生鲜--水果--国产水果",
+        "Fresh_Food--Fruits--Domestic_Fruits"
+    ],
+    "0daac255eaee4b80af2c3b71f066000b": [
+        "生鲜--水果--进口水果",
+        "Fresh_Food--Fruits--Imported_Fruits"
+    ],
+    "7598d3a6eb8b41fdb1acb915335e8dbc": [
+        "生鲜--水果--时令水果",
+        "Fresh_Food--Fruits--Seasonal_Fruits"
+    ],
+    "3e2b79ae65d44b7e98dd9db1f01ebc4f": [
+        "生鲜--肉禽蛋品--牛羊肉",
+        "Fresh_Food--Meat,Poultry_and_Eggs--Beef_and_Lamb"
+    ],
+    "84b70d489df849e4b0e0adc8d7e80328": [
+        "生鲜--肉禽蛋品--蛋类",
+        "Fresh_Food--Meat,Poultry_and_Eggs--Eggs"
+    ],
+    "0272080084ef4192b2f7832cffc7261b": [
+        "生鲜--肉禽蛋品--猪肉",
+        "Fresh_Food--Meat,Poultry_and_Eggs--Pork"
+    ],
+    "672e75bb04184287a0eba9f56cbbc29b": [
+        "生鲜--肉禽蛋品--禽类",
+        "Fresh_Food--Meat,Poultry_and_Eggs--Poultry"
+    ],
+    "5bc7cd52530649e0ac30787e868260fd": [
+        "生鲜--海鲜水产--河鲜",
+        "Fresh_Food--Seafood_and_Aquatic_Products--Freshwater_Products"
+    ],
+    "d2140db28a07402fa43f8a6c1a6d9e66": [
+        "生鲜--海鲜水产--海鲜",
+        "Fresh_Food--Seafood_and_Aquatic_Products--Seafood"
+    ],
+    "4f6a4a80f9844da981b0814e7aade957": [
+        "生鲜--海鲜水产--贝类",
+        "Fresh_Food--Seafood_and_Aquatic_Products--Shellfish"
+    ],
+    "99e808d869e24308b931bfdc5ef92149": [
+        "生鲜--海鲜水产--虾类",
+        "Fresh_Food--Seafood_and_Aquatic_Products--Shrimp"
+    ],
+    "029708514bfa4b7eafbe1f72cc65c5c5": [
+        "生鲜--蔬菜--新鲜蔬菜",
+        "Fresh_Food--Vegetables--Fresh_Vegetables"
+    ],
+    "7cdaa956472d4cdc9e7af7b3983816ad": [
+        "生鲜--蔬菜--有机蔬菜",
+        "Fresh_Food--Vegetables--Organic_Vegetables"
+    ],
+    "4bb8cdf7d225430cb8a826cbf33733ff": [
+        "生鲜--蔬菜--时令蔬菜",
+        "Fresh_Food--Vegetables--Seasonal_Vegetables"
+    ],
+    "5848f8a03b564dd5bbbc17530d1420c8": [
+        "家居家装--生活日用--浴室用品",
+        "Furniture--Daily_Necessities--Bathroom_Supplies"
+    ],
+    "b147651aea37457e8da89dd5f00dcdf4": [
+        "家居家装--生活日用--上门除醛",
+        "Furniture--Daily_Necessities--Home_Formaldehyde_Removal_Service"
+    ],
+    "6f94a928c3de405f83809c1daae3a743": [
+        "家居家装--生活日用--针织材料",
+        "Furniture--Daily_Necessities--Knitting_Materials"
+    ],
+    "d877de48e9644ebf98b7651f1aec3d11": [
+        "家居家装--生活日用--净化除味",
+        "Furniture--Daily_Necessities--Purification_and_Deodorization"
+    ],
+    "0941e88624434b198a5384948867f911": [
+        "家居家装--生活日用--缝纫机",
+        "Furniture--Daily_Necessities--Sewing_Machines"
+    ],
+    "9680a97473f241efafeee06270f26e69": [
+        "家居家装--生活日用--缝纫材料",
+        "Furniture--Daily_Necessities--Sewing_Materials"
+    ],
+    "41112590e94b4305a748709aa357d593": [
+        "家居家装--生活日用--雨伞雨具",
+        "Furniture--Daily_Necessities--Umbrellas_and_Rain_Gear"
+    ],
+    "0f5930b00e7949df916854d7811acd4f": [
+        "家居家装--生活日用--保暖防护",
+        "Furniture--Daily_Necessities--Warmth_and_Protection"
+    ],
+    "25f98524139e49da86d4a868ebfd99ed": [
+        "家居家装--生活日用--洗晒",
+        "Furniture--Daily_Necessities--Washing_and_Drying"
+    ],
+    "784bdb75c4b3482b85563b0d74637ab3": [
+        "家居家装--家装软饰--香薰蜡烛",
+        "Furniture--Home_Decoration--Aromatherapy_Candles"
+    ],
+    "b71e2c8656fd4c7ca60344f13483b5b9": [
+        "家居家装--家装软饰--钟饰",
+        "Furniture--Home_Decoration--Clocks_and_Decorations"
+    ],
+    "0ac38197c7fd48eca10de5447433a695": [
+        "家居家装--家装软饰--创意家居",
+        "Furniture--Home_Decoration--Creative_Home_Products"
+    ],
+    "40acb26235fe48f198b7ebb7a7543ed1": [
+        "家居家装--家装软饰--十字绣",
+        "Furniture--Home_Decoration--Cross_Stitch"
+    ],
+    "36e1970b2133408a97eb1ef2955520bb": [
+        "家居家装--家装软饰--帘艺隔断",
+        "Furniture--Home_Decoration--Curtains_and_Partitions"
+    ],
+    "d46bc972da7a486dbe559864e7ad7d04": [
+        "家居家装--家装软饰--装饰字画",
+        "Furniture--Home_Decoration--Decorative_Calligraphy_and_Paintings"
+    ],
+    "5c60d550a3e8492f92182fb135ea84ff": [
+        "家居家装--家装软饰--装饰摆件",
+        "Furniture--Home_Decoration--Decorative_Ornaments"
+    ],
+    "4659264d84af406f9a520ba1ccc4bf1a": [
+        "家居家装--家装软饰--装饰贴",
+        "Furniture--Home_Decoration--Decorative_Stickers"
+    ],
+    "472ea6d836f94e11adc2837e799638d0": [
+        "家居家装--家装软饰--手工",
+        "Furniture--Home_Decoration--Handicrafts"
+    ],
+    "607d68e349f64fafbecd26c129b8e71b": [
+        "家居家装--家装软饰--节庆饰品",
+        "Furniture--Home_Decoration--Holiday_Decorations"
+    ],
+    "b414ba6ddcf6485d8f17198ea781fdee": [
+        "家居家装--家装软饰--相框",
+        "Furniture--Home_Decoration--Photo_Frames"
+    ],
+    "3dfc7b67b6924382b39afe5729618855": [
+        "家居家装--家装软饰--照片墙",
+        "Furniture--Home_Decoration--Photo_Walls"
+    ],
+    "a1979c3ea7074d5f9838d13117261a8d": [
+        "家居家装--家装软饰--花瓶花艺",
+        "Furniture--Home_Decoration--Vases_and_Floral_Arrangements"
+    ],
+    "f7899d4b8a1543eb99bc5ce3e645776f": [
+        "家居家装--家装软饰--壁饰",
+        "Furniture--Home_Decoration--Wall_Decorations"
+    ],
+    "ff98aabe134e4991a13a2c41c645c786": [
+        "家居家装--家装软饰--墙贴",
+        "Furniture--Home_Decoration--Wall_Stickers"
+    ],
+    "5d8895106386420fb978551d0913fb01": [
+        "家居家装--宠物生活--猫狗玩具",
+        "Furniture--Pet_Supplies--Cat_and_Dog_Toys"
+    ],
+    "717fdf2154844ef6b2bbd959893a9b93": [
+        "家居家装--宠物生活--洗护美容",
+        "Furniture--Pet_Supplies--Grooming_and_Beauty"
+    ],
+    "d9b5d37d4d604ec6aa7f7a37fad4d8d5": [
+        "家居家装--宠物生活--宠物主粮",
+        "Furniture--Pet_Supplies--Pet_Food"
+    ],
+    "a8013d274f8640519d8f26e6b6c7a9d6": [
+        "家居家装--宠物生活--家居日用",
+        "Furniture--Pet_Supplies--Pet_Home_Supplies"
+    ],
+    "7e449eb518a548de8a50e91c7604b032": [
+        "家居家装--宠物生活--宠物零食",
+        "Furniture--Pet_Supplies--Pet_Treats"
+    ],
+    "49c1a6536f2d4f93839572adf2721872": [
+        "家居家装--宠物生活--出行装备",
+        "Furniture--Pet_Supplies--Travel_Gear"
+    ],
+    "663ff8267b18425b8616701a8cae0628": [
+        "家居家装--收纳用品--分隔收纳",
+        "Furniture--Storage_and_Organization--Dividers_and_Organizers"
+    ],
+    "492aba2a7d234969aec0b21c1f99afdf": [
+        "家居家装--收纳用品--防尘罩",
+        "Furniture--Storage_and_Organization--Dust_Covers"
+    ],
+    "f5e6349739694d89bd6c6d34e41d467b": [
+        "家居家装--收纳用品--收纳袋",
+        "Furniture--Storage_and_Organization--Storage_Bags"
+    ],
+    "80c9c9763cbd4c7e94f8646d6d753e4e": [
+        "家居家装--收纳用品--收纳篮",
+        "Furniture--Storage_and_Organization--Storage_Baskets"
+    ],
+    "5eebeb44403c4e00abf34e3f25fb8799": [
+        "家居家装--收纳用品--收纳箱",
+        "Furniture--Storage_and_Organization--Storage_Boxes"
+    ],
+    "2f1b9577dd3b4408a5562a95a6e99331": [
+        "家居家装--收纳用品--收纳柜",
+        "Furniture--Storage_and_Organization--Storage_Cabinets"
+    ],
+    "afaad078875a42f485c0a7446e4c35b4": [
+        "家居家装--收纳用品--收纳盒",
+        "Furniture--Storage_and_Organization--Storage_Containers"
+    ],
+    "28d52a4325114c7584ec3d5bd299599b": [
+        "家居家装--收纳用品--收纳包",
+        "Furniture--Storage_and_Organization--Storage_Pouches"
+    ],
+    "ab9f8650ba584baf9e4a1ea2325870cb": [
+        "家居家装--收纳用品--收纳架",
+        "Furniture--Storage_and_Organization--Storage_Racks"
+    ],
+    "7806aca459954deb9cf00f832d86ed61": [
+        "礼品箱包--箱包--双肩包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Backpacks"
+    ],
+    "e5c0ee5238884a3bae297d8513a791a8": [
+        "礼品箱包--箱包--卡包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Card_Holders"
+    ],
+    "c744f2de7ac740118987c9c8d1b9a1d6": [
+        "礼品箱包--箱包--零钱包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Coin_Purses"
+    ],
+    "91ebb71e9dff45039202ace4992fac23": [
+        "礼品箱包--箱包--斜挎包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Crossbody_Bags"
+    ],
+    "23e9a332f0fe4063a0c8856d188bd9f2": [
+        "礼品箱包--箱包--妈咪包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Diaper_Bags"
+    ],
+    "161175f1211b4919b8c9663be5a1d4c7": [
+        "礼品箱包--箱包--功能箱包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Functional_Bags"
+    ],
+    "fbe8ddac08e74a7da2debc2cc7d33f7a": [
+        "礼品箱包--箱包--手提包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Handbags"
+    ],
+    "8aa9326aac7f40428a3a8be4b5214932": [
+        "礼品箱包--箱包--钥匙包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Key_Cases"
+    ],
+    "c8073ca5f497470ca64475251ed21550": [
+        "礼品箱包--箱包--男包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Men's_Bags"
+    ],
+    "179649a12f1d401bb4dd3093d55362b2": [
+        "礼品箱包--箱包--男士钱包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Men's_Wallets"
+    ],
+    "7625d02a00cc49b984d01fd7ac88a8ca": [
+        "礼品箱包--箱包--单肩包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Shoulder_Bags"
+    ],
+    "27bb100ed1584be8817255bf2ca836b7": [
+        "礼品箱包--箱包--拉杆箱",
+        "Gifts_and_Luggage--Bags_and_Luggage--Suitcases"
+    ],
+    "f569b2aa3c114b02b1277f7a67b14d0c": [
+        "礼品箱包--箱包--旅行配件",
+        "Gifts_and_Luggage--Bags_and_Luggage--Travel_Accessories"
+    ],
+    "afab88f0e0124d37bb2fca1690350cad": [
+        "礼品箱包--箱包--旅行包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Travel_Bags"
+    ],
+    "0876f04c9ea24054a22d380e739e5bee": [
+        "礼品箱包--箱包--钱包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Wallets"
+    ],
+    "6d6dd904faa144c6a755f3a89ea070fd": [
+        "礼品箱包--箱包--女包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Women's_Bags"
+    ],
+    "8e6ee473c5dc4a7ba6a76b54a7b7def1": [
+        "礼品箱包--箱包--女士钱包",
+        "Gifts_and_Luggage--Bags_and_Luggage--Women's_Wallets"
+    ],
+    "cb38ddbfe7be487ca8a6d7622c0aeddd": [
+        "礼品箱包--礼品--古董文玩",
+        "Gifts_and_Luggage--Gifts--Antiques_and_Collectibles"
+    ],
+    "fb69085ef8f4479fb37e929a6dd94132": [
+        "礼品箱包--礼品--美妆礼品",
+        "Gifts_and_Luggage--Gifts--Beauty_Gifts"
+    ],
+    "9d491861b0f945b582227017ce4947f4": [
+        "礼品箱包--礼品--工艺礼品",
+        "Gifts_and_Luggage--Gifts--Craft_Gifts"
+    ],
+    "02534fe88c02406ea58ac6faa5675c81": [
+        "礼品箱包--礼品--创意礼品",
+        "Gifts_and_Luggage--Gifts--Creative_Gifts"
+    ],
+    "821b6a9971d94d53a6ba3cf2d3216009": [
+        "礼品箱包--礼品--礼品定制",
+        "Gifts_and_Luggage--Gifts--Customized_Gifts"
+    ],
+    "56c4cbea7d464887a22b28aa4be5d380": [
+        "礼品箱包--礼品--电子礼品",
+        "Gifts_and_Luggage--Gifts--Electronic_Gifts"
+    ],
+    "96f97cfe62e5450a86fd9a9e318f6a3e": [
+        "礼品箱包--礼品--礼盒礼券",
+        "Gifts_and_Luggage--Gifts--Gift_Boxes_and_Vouchers"
+    ],
+    "f8014b2514704348a7eeb636ac5ed573": [
+        "礼品箱包--礼品--熏香",
+        "Gifts_and_Luggage--Gifts--Incense"
+    ],
+    "242dda4295554be5971130ecc4723c44": [
+        "礼品箱包--礼品--京东福气卡",
+        "Gifts_and_Luggage--Gifts--JD_Fortune_Cards"
+    ],
+    "4b2a958b562b4ab28b9d923f4777289b": [
+        "礼品箱包--礼品--京东卡",
+        "Gifts_and_Luggage--Gifts--JD_Gift_Cards"
+    ],
+    "910f69d21e984fe4ab29d317cdf819b9": [
+        "礼品箱包--礼品--宗教用品",
+        "Gifts_and_Luggage--Gifts--Religious_Supplies"
+    ],
+    "b7a3884cf1a446bd8e257d23597ce565": [
+        "礼品箱包--礼品--婚庆节庆",
+        "Gifts_and_Luggage--Gifts--Wedding_and_Festival_Supplies"
+    ],
+    "7ba5783cf38f496c9778fbfd74f86c28": [
+        "家用电器--家电配件--空调配件",
+        "Home_Appliances--Appliance_Accessories--Air_Conditioner_Accessories"
+    ],
+    "d2def0c4e49249f0a19daaee88d1199e": [
+        "家用电器--家电配件--生活电器配件",
+        "Home_Appliances--Appliance_Accessories--Household_Appliance_Accessories"
+    ],
+    "d539aa80ab714c5c94a49394c5014db5": [
+        "家用电器--家电配件--个护健康配件",
+        "Home_Appliances--Appliance_Accessories--Personal_Care_and_Health_Accessories"
+    ],
+    "df943685b41f432287edd24621b148d9": [
+        "家用电器--家电配件--烟机灶具配件",
+        "Home_Appliances--Appliance_Accessories--Range_Hood_and_Stove_Accessories"
+    ],
+    "414445f5a5d049f09d897dd03ed27fab": [
+        "家用电器--家电配件--冰箱配件",
+        "Home_Appliances--Appliance_Accessories--Refrigerator_Accessories"
+    ],
+    "34cd1cd0af15469796ce491f7630e9f6": [
+        "家用电器--家电配件--厨房小电配件",
+        "Home_Appliances--Appliance_Accessories--Small_Kitchen_Appliance_Accessories"
+    ],
+    "fb8513c80a9341fea6158f8551560e97": [
+        "家用电器--家电配件--电视配件",
+        "Home_Appliances--Appliance_Accessories--TV_Accessories"
+    ],
+    "e670fd140132499c972f8bd29dee6d52": [
+        "家用电器--家电配件--洗衣机配件",
+        "Home_Appliances--Appliance_Accessories--Washing_Machine_Accessories"
+    ],
+    "6fdaeb7db1e34d44a3202f107fd59503": [
+        "家用电器--视听影音--功放",
+        "Home_Appliances--Audio_and_Video_Equipment--Amplifiers"
+    ],
+    "94c3917095014c6781a98d369028e0d8": [
+        "家用电器--视听影音--DVD",
+        "Home_Appliances--Audio_and_Video_Equipment--DVD"
+    ],
+    "26bd16e4f339441d8d058595829eba8a": [
+        "家用电器--视听影音--HIFI专区",
+        "Home_Appliances--Audio_and_Video_Equipment--HIFI_Zone"
+    ],
+    "21288a5c2db0485caea23fc3c2193081": [
+        "家用电器--视听影音--KTV音响",
+        "Home_Appliances--Audio_and_Video_Equipment--KTV_Sound_Systems"
+    ],
+    "f7b41e98a7724170ac21ff3d6d3b2e36": [
+        "家用电器--视听影音--麦克风",
+        "Home_Appliances--Audio_and_Video_Equipment--Microphones"
+    ],
+    "bdf46ff3186646a7b6d3241d067fa08e": [
+        "家用电器--视听影音--迷你音响",
+        "Home_Appliances--Audio_and_Video_Equipment--Mini_Speakers"
+    ],
+    "d6218b4315374669a6d08ad679ded6b1": [
+        "家用电器--视听影音--播放器",
+        "Home_Appliances--Audio_and_Video_Equipment--Players"
+    ],
+    "82bab3d0e22e45b58d6898b77c641c21": [
+        "家用电器--视听影音--Soundbar",
+        "Home_Appliances--Audio_and_Video_Equipment--Soundbar"
+    ],
+    "100af91a5a1645759049e79dbc598345": [
+        "家用电器--视听影音--回音壁",
+        "Home_Appliances--Audio_and_Video_Equipment--Soundbars"
+    ],
+    "c1b1c511d8854c909a401fe44f61159f": [
+        "家用电器--商用电器--饮料机",
+        "Home_Appliances--Commercial_Appliances--Beverage_Dispensers"
+    ],
+    "3385ad85eb54409ba4ff9f03688508bc": [
+        "家用电器--商用电器--商用电器配件",
+        "Home_Appliances--Commercial_Appliances--Commercial_Appliance_Accessories"
+    ],
+    "30153ef3321c49b6a85996485e3de09c": [
+        "家用电器--商用电器--商用咖啡机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Coffee_Machines"
+    ],
+    "05793a9d809745a68164034bdb456559": [
+        "家用电器--商用电器--商用消毒柜",
+        "Home_Appliances--Commercial_Appliances--Commercial_Disinfection_Cabinets"
+    ],
+    "956c1446fb154b7baf6edfe9224178b6": [
+        "家用电器--商用电器--商用和面机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Dough_Mixers"
+    ],
+    "693bcb77a96144bb9477f248458c0e74": [
+        "家用电器--商用电器--商用压面机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Dough_Presses"
+    ],
+    "96b2584dd18d4a21aef9cc528935984a": [
+        "家用电器--商用电器--商用打蛋机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Egg_Beaters"
+    ],
+    "8d7efa8946f043c69cf32a2505e12e80": [
+        "家用电器--商用电器--商用电饼铛",
+        "Home_Appliances--Commercial_Appliances--Commercial_Electric_Griddles"
+    ],
+    "a1b3a909f0154529995a735950765f30": [
+        "家用电器--商用电器--商用冰柜",
+        "Home_Appliances--Commercial_Appliances--Commercial_Freezers"
+    ],
+    "7ee53bfa06174f9185e652831fc5a534": [
+        "家用电器--商用电器--商用磨浆机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Grinders"
+    ],
+    "a7815ea5bd314e65a2f670688e0ecf41": [
+        "家用电器--商用电器--商用电磁炉",
+        "Home_Appliances--Commercial_Appliances--Commercial_Induction_Cookers"
+    ],
+    "5e32307fa3a9487c8c31d46be403eeb4": [
+        "家用电器--商用电器--商用绞肉机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Meat_Grinders"
+    ],
+    "dde885db4331445b91fabc05acc5bb45": [
+        "家用电器--商用电器--商用切肉机",
+        "Home_Appliances--Commercial_Appliances--Commercial_Meat_Slicers"
+    ],
+    "7fb7f36387a944dda5be732205e81a06": [
+        "家用电器--商用电器--商用烤箱",
+        "Home_Appliances--Commercial_Appliances--Commercial_Ovens"
+    ],
+    "8c3e13e1d7c84e92802f1a34472891a5": [
+        "家用电器--商用电器--商用冰箱",
+        "Home_Appliances--Commercial_Appliances--Commercial_Refrigerators"
+    ],
+    "00913321ca754e93ba21b2cca41e1687": [
+        "家用电器--商用电器--商用电饭煲",
+        "Home_Appliances--Commercial_Appliances--Commercial_Rice_Cookers"
+    ],
+    "7d0644bcb58e4167b173b49f8dce4c43": [
+        "家用电器--商用电器--商用吸尘器",
+        "Home_Appliances--Commercial_Appliances--Commercial_Vacuum_Cleaners"
+    ],
+    "1f79f102d5c04064bbd08077dbfac1a9": [
+        "家用电器--商用电器--商用开水器",
+        "Home_Appliances--Commercial_Appliances--Commercial_Water_Boilers"
+    ],
+    "957c24be4cfe497090c4f04689080bda": [
+        "家用电器--商用电器--商用净水设备",
+        "Home_Appliances--Commercial_Appliances--Commercial_Water_Purification_Equipment"
+    ],
+    "06ed2a07906b4a7a83a59fe9f7abaffc": [
+        "家用电器--商用电器--棉花糖机",
+        "Home_Appliances--Commercial_Appliances--Cotton_Candy_Machines"
+    ],
+    "68e0a1e092f343e0be13b6fdb9c72069": [
+        "家用电器--商用电器--封杯机",
+        "Home_Appliances--Commercial_Appliances--Cup_Sealing_Machines"
+    ],
+    "bfb6ea1d27b041ec88300a9e95191891": [
+        "家用电器--商用电器--展示柜",
+        "Home_Appliances--Commercial_Appliances--Display_Cabinets"
+    ],
+    "47d68d0257024f8c9696c81920db3d45": [
+        "家用电器--商用电器--电炸炉",
+        "Home_Appliances--Commercial_Appliances--Electric_Deep_Fryers"
+    ],
+    "22d7d2be1a4f4a0393bb97c69eded08b": [
+        "家用电器--商用电器--电动餐车",
+        "Home_Appliances--Commercial_Appliances--Electric_Food_Carts"
+    ],
+    "d984f78f167b4e239af7980bfb04b202": [
+        "家用电器--商用电器--工程电器",
+        "Home_Appliances--Commercial_Appliances--Engineering_Appliances"
+    ],
+    "2cc08730a8e647bd8250c5bd7ae6d0be": [
+        "家用电器--商用电器--食品烘干机",
+        "Home_Appliances--Commercial_Appliances--Food_Dehydrators"
+    ],
+    "0a35f5ae43df4cf8a36e4a4d6238ac1d": [
+        "家用电器--商用电器--保鲜工作台",
+        "Home_Appliances--Commercial_Appliances--Fresh-keeping_Work_Tables"
+    ],
+    "31028d81db304c6d8c31e96c8a616c07": [
+        "家用电器--商用电器--果糖机",
+        "Home_Appliances--Commercial_Appliances--Fructose_Dispensers"
+    ],
+    "605b4629e9c847acbacda848a768d3bd": [
+        "家用电器--商用电器--油烟净化器",
+        "Home_Appliances--Commercial_Appliances--Fume_Purifiers"
+    ],
+    "1c6c83c556574c7fb20400316f925fd2": [
+        "家用电器--商用电器--扒炉",
+        "Home_Appliances--Commercial_Appliances--Griddles"
+    ],
+    "0da7d0c26b7740fc9d7fdd86f780eaf3": [
+        "家用电器--商用电器--保温售饭台",
+        "Home_Appliances--Commercial_Appliances--Heated_Food_Display_Cases"
+    ],
+    "59c3f9566d8d489abb2973cc11b0be02": [
+        "家用电器--商用电器--热狗机",
+        "Home_Appliances--Commercial_Appliances--Hot_Dog_Machines"
+    ],
+    "e92f65f67e504608a5bbbe4ac1c58044": [
+        "家用电器--商用电器--冰淇淋机",
+        "Home_Appliances--Commercial_Appliances--Ice_Cream_Machines"
+    ],
+    "913f0922deca43fcb108238cfb35a27d": [
+        "家用电器--商用电器--制冰机",
+        "Home_Appliances--Commercial_Appliances--Ice_Makers"
+    ],
+    "c4ebe36b474f45768de0da7eb45ef8d6": [
+        "家用电器--商用电器--煮面桶",
+        "Home_Appliances--Commercial_Appliances--Noodle_Cookers"
+    ],
+    "4caf2ab5e77541a0b1984f5e6e1c848d": [
+        "家用电器--商用电器--关东煮机",
+        "Home_Appliances--Commercial_Appliances--Oden_Cookers"
+    ],
+    "0da405c662f74c0eb35a66185ba75be2": [
+        "家用电器--商用电器--其它商用电器",
+        "Home_Appliances--Commercial_Appliances--Other_Commercial_Appliances"
+    ],
+    "a427a35bbe9246d59365606ec9be7c0d": [
+        "家用电器--商用电器--爆米花机",
+        "Home_Appliances--Commercial_Appliances--Popcorn_Machines"
+    ],
+    "3f1d5870fc964aaeb5f109dddda42211": [
+        "家用电器--商用电器--醒发箱",
+        "Home_Appliances--Commercial_Appliances--Proofing_Boxes"
+    ],
+    "9d3df046ccdf40eeb33115ef70bec417": [
+        "家用电器--商用电器--肠粉机",
+        "Home_Appliances--Commercial_Appliances--Rice_Noodle_Roll_Makers"
+    ],
+    "4b1e9615b70b447ea22fb7cfed79342b": [
+        "家用电器--商用电器--香肠机",
+        "Home_Appliances--Commercial_Appliances--Sausage_Makers"
+    ],
+    "995dbd6286504c4890e0738e8da0d41b": [
+        "家用电器--商用电器--封口机",
+        "Home_Appliances--Commercial_Appliances--Sealing_Machines"
+    ],
+    "4edf27fe5fc74671b21fd09307d15403": [
+        "家用电器--商用电器--刨冰机",
+        "Home_Appliances--Commercial_Appliances--Shaved_Ice_Machines"
+    ],
+    "39fc64e00dec477e91c865a47e894751": [
+        "家用电器--商用电器--沙冰机",
+        "Home_Appliances--Commercial_Appliances--Smoothie_Makers"
+    ],
+    "fff8530d2f5a4023b6be95a922b011af": [
+        "家用电器--商用电器--解决方案",
+        "Home_Appliances--Commercial_Appliances--Solutions"
+    ],
+    "f07b59522c8342e6a1631a0bac9fe48b": [
+        "家用电器--商用电器--蒸柜",
+        "Home_Appliances--Commercial_Appliances--Steam_Cabinets"
+    ],
+    "39df0cbea4d244419f0060fa2a1ef249": [
+        "家用电器--商用电器--章鱼丸机",
+        "Home_Appliances--Commercial_Appliances--Takoyaki_Makers"
+    ],
+    "9db598da75474c2a8682ebd99d90f56d": [
+        "家用电器--商用电器--自动售货机",
+        "Home_Appliances--Commercial_Appliances--Vending_Machines"
+    ],
+    "913cec6d00924e45966c68be80829b03": [
+        "家用电器--生活电器--空气净化器",
+        "Home_Appliances--Household_Appliances--Air_Purifiers"
+    ],
+    "e6ac3ef63a5144039dde58026ce55f88": [
+        "家用电器--生活电器--清洁机",
+        "Home_Appliances--Household_Appliances--Cleaning_Machines"
+    ],
+    "8c5ab8c919884b62a00bab3abacdc91a": [
+        "家用电器--生活电器--干衣机",
+        "Home_Appliances--Household_Appliances--Clothes_Dryers"
+    ],
+    "12bd543eeba64384b18d66be06ffd23f": [
+        "家用电器--生活电器--除湿机",
+        "Home_Appliances--Household_Appliances--Dehumidifiers"
+    ],
+    "aa6ab7824baa4dca80db584836d137ca": [
+        "家用电器--生活电器--电风扇",
+        "Home_Appliances--Household_Appliances--Electric_Fans"
+    ],
+    "94d22795be574eb2895422cb742e87a4": [
+        "家用电器--生活电器--电暖桌",
+        "Home_Appliances--Household_Appliances--Electric_Heating_Tables"
+    ],
+    "2982638d8326419b8da77cb1390e4bf6": [
+        "家用电器--生活电器--冷风扇",
+        "Home_Appliances--Household_Appliances--Evaporative_Air_Coolers"
+    ],
+    "9850841d72984fe4b116d1f69022855a": [
+        "家用电器--生活电器--新风系统",
+        "Home_Appliances--Household_Appliances--Fresh_Air_Systems"
+    ],
+    "52af3d4f5e994251b923d0fcc8235f10": [
+        "家用电器--生活电器--挂烫机",
+        "Home_Appliances--Household_Appliances--Garment_Steamers"
+    ],
+    "28ccf962a3ca426893e38d5e4348315a": [
+        "家用电器--生活电器--取暖电器",
+        "Home_Appliances--Household_Appliances--Heating_Appliances"
+    ],
+    "0a44b95b43cb4127a8c44a65642916cb": [
+        "家用电器--生活电器--加湿器",
+        "Home_Appliances--Household_Appliances--Humidifiers"
+    ],
+    "6de9e55fe66747e78a0402f3d807ef37": [
+        "家用电器--生活电器--熨斗",
+        "Home_Appliances--Household_Appliances--Irons"
+    ],
+    "d98355e10b7b4b359fce69a3c9a6016d": [
+        "家用电器--生活电器--毛球修剪器",
+        "Home_Appliances--Household_Appliances--Lint_Removers"
+    ],
+    "3eac43503b3e4961a9f7b3429df80fa3": [
+        "家用电器--生活电器--除螨仪",
+        "Home_Appliances--Household_Appliances--Mite_Removers"
+    ],
+    "8a73d7fb7a324e519e3a701b82db9cba": [
+        "家用电器--生活电器--其它生活电器",
+        "Home_Appliances--Household_Appliances--Other_Household_Appliances"
+    ],
+    "876fc062400340be9d4828a850254d66": [
+        "家用电器--生活电器--扫地机器人",
+        "Home_Appliances--Household_Appliances--Robot_Vacuum_Cleaners"
+    ],
+    "dfff94b444584b1aa64ab4c38cb346a2": [
+        "家用电器--生活电器--电话机",
+        "Home_Appliances--Household_Appliances--Telephones"
+    ],
+    "c711a14ef50f4087a7775a266893b1a0": [
+        "家用电器--生活电器--吸尘器",
+        "Home_Appliances--Household_Appliances--Vacuum_Cleaners"
+    ],
+    "2fc057f84c484c87a092b30a2416922d": [
+        "家用电器--生活电器--饮水机",
+        "Home_Appliances--Household_Appliances--Water_Dispensers"
+    ],
+    "3788462c6fb24056bc5cfd5d0a521256": [
+        "家用电器--生活电器--净水器",
+        "Home_Appliances--Household_Appliances--Water_Purifiers"
+    ],
+    "63764c238df74e62a7c5fab5a48b7c80": [
+        "家用电器--厨卫大电--空气能热水器",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Air_Source_Heat_Pump_Water_Heaters"
+    ],
+    "f4bd39e16f9a4f05bfd46fe7eb9c7f8d": [
+        "家用电器--厨卫大电--嵌入式微蒸烤",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Built-in_Microwave_Steamers_and_Ovens"
+    ],
+    "8bdb2f596a9948f9bdd753fc2aa0832f": [
+        "家用电器--厨卫大电--洗碗机",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Dishwashers"
+    ],
+    "b9f051d2f83144efbfd179367e8ac262": [
+        "家用电器--厨卫大电--消毒柜",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Disinfection_Cabinets"
+    ],
+    "376833ab7a454038ae95486e190df9fb": [
+        "家用电器--厨卫大电--电热水器",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Electric_Water_Heaters"
+    ],
+    "e54d1e6b97db4554be3d4576f40a70f8": [
+        "家用电器--厨卫大电--燃气灶",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Gas_Stoves"
+    ],
+    "18010f3c4b2e42088340fc9e540b1528": [
+        "家用电器--厨卫大电--燃气热水器",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Gas_Water_Heaters"
+    ],
+    "d8678ddf132c4f3c9bc33866c1e12e0a": [
+        "家用电器--厨卫大电--集成灶",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Integrated_Cookers"
+    ],
+    "c9a98d07cc704a44b5a1dc8f2f595395": [
+        "家用电器--厨卫大电--油烟机",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Range_Hoods"
+    ],
+    "d91aa33d26134fe29c4c5fd9d42bae7c": [
+        "家用电器--厨卫大电--太阳能热水器",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Solar_Water_Heaters"
+    ],
+    "54480356e61f4ce9add1d07c10e56cce": [
+        "家用电器--厨卫大电--蒸箱",
+        "Home_Appliances--Kitchen_and_Bathroom_Appliances--Steamers"
+    ],
+    "824b64fd9afa42868a0c84e2096bab11": [
+        "家用电器--大家电--空调",
+        "Home_Appliances--Major_Appliances--Air_Conditioners"
+    ],
+    "0e16bfacc2a04ecb8ec7969ffe67802c": [
+        "家用电器--大家电--中央空调",
+        "Home_Appliances--Major_Appliances--Central_Air_Conditioning"
+    ],
+    "c32d8b14765c418c981bfa953a5c3fd3": [
+        "家用电器--大家电--烘干机",
+        "Home_Appliances--Major_Appliances--Dryers"
+    ],
+    "3f8117a9eece4ca98e4df76caf6977a3": [
+        "家用电器--大家电--平板电视",
+        "Home_Appliances--Major_Appliances--Flat-screen_TVs"
+    ],
+    "9c5454b5daa148a6a2eb04bce5f17dc9": [
+        "家用电器--大家电--冷柜",
+        "Home_Appliances--Major_Appliances--Freezers"
+    ],
+    "3cb2d701f4f140338bb4fc3456fc187d": [
+        "家用电器--大家电--移动空调",
+        "Home_Appliances--Major_Appliances--Portable_Air_Conditioners"
+    ],
+    "107d7bc946eb411ebf6726349a4f6687": [
+        "家用电器--大家电--冰箱",
+        "Home_Appliances--Major_Appliances--Refrigerators"
+    ],
+    "b91fbfe692764f3499247523ea524a3b": [
+        "家用电器--大家电--洗烘套装",
+        "Home_Appliances--Major_Appliances--Washer-Dryer_Combos"
+    ],
+    "bf14bc43e0b046b2a65a4ca5ca7727b9": [
+        "家用电器--大家电--洗衣机",
+        "Home_Appliances--Major_Appliances--Washing_Machines"
+    ],
+    "4ef0e00615ce44d7a9bdb70356e8b134": [
+        "家用电器--大家电--酒柜",
+        "Home_Appliances--Major_Appliances--Wine_Cabinets"
+    ],
+    "dbd94a8f57b849de9ee2b5c442864fe5": [
+        "家用电器--大家电--冰吧",
+        "Home_Appliances--Major_Appliances--Wine_Coolers"
+    ],
+    "c45430d2b7a54d548340fd5e349ab64a": [
+        "家用电器--个护健康--美容器",
+        "Home_Appliances--Personal_Care_and_Health--Beauty_Devices"
+    ],
+    "15177e034514446cbe5ae5093ff74196": [
+        "家用电器--个护健康--电动牙刷头",
+        "Home_Appliances--Personal_Care_and_Health--Electric_Toothbrush_Heads"
+    ],
+    "e6b1a8f8bb2649fa8f8227156c196ea9": [
+        "家用电器--个护健康--电动牙刷",
+        "Home_Appliances--Personal_Care_and_Health--Electric_Toothbrushes"
+    ],
+    "70a25afec3994752a92cb177fd854e36": [
+        "家用电器--个护健康--电子秤",
+        "Home_Appliances--Personal_Care_and_Health--Electronic_Scales"
+    ],
+    "2fe3f686a00543f58698b7be06272964": [
+        "家用电器--个护健康--眼部按摩仪",
+        "Home_Appliances--Personal_Care_and_Health--Eye_Massagers"
+    ],
+    "c4ddb1b33006425380125382556acedb": [
+        "家用电器--个护健康--洁面仪",
+        "Home_Appliances--Personal_Care_and_Health--Facial_Cleansing_Devices"
+    ],
+    "1b9944fea650409ba8d3dfcf9ec0a5c8": [
+        "家用电器--个护健康--足浴盆",
+        "Home_Appliances--Personal_Care_and_Health--Foot_Baths"
+    ],
+    "628bfe6923dd451b98ff12a394f6614a": [
+        "家用电器--个护健康--足疗机",
+        "Home_Appliances--Personal_Care_and_Health--Foot_Massagers"
+    ],
+    "a5e9d7d4570949719667a8e829549f6e": [
+        "家用电器--个护健康--理发器",
+        "Home_Appliances--Personal_Care_and_Health--Hair_Clippers"
+    ],
+    "9b8f2ef5e53f4b79a5d2e1560e1e9cea": [
+        "家用电器--个护健康--卷发器",
+        "Home_Appliances--Personal_Care_and_Health--Hair_Curlers"
+    ],
+    "fb41dbabebed437086df8ddc4110f50f": [
+        "家用电器--个护健康--电吹风",
+        "Home_Appliances--Personal_Care_and_Health--Hair_Dryers"
+    ],
+    "86526ac4e893464fb65504bfb1cbda80": [
+        "家用电器--个护健康--脱毛器",
+        "Home_Appliances--Personal_Care_and_Health--Hair_Removers"
+    ],
+    "e96d987b3e684319ae35335bc85d076d": [
+        "家用电器--个护健康--直发器",
+        "Home_Appliances--Personal_Care_and_Health--Hair_Straighteners"
+    ],
+    "76c1977bb8834c929a0dba68b7078240": [
+        "家用电器--个护健康--剃毛器",
+        "Home_Appliances--Personal_Care_and_Health--Hair_Trimmers"
+    ],
+    "924a7cd98a1b4bf8b30434d2dee7844f": [
+        "家用电器--个护健康--按摩椅",
+        "Home_Appliances--Personal_Care_and_Health--Massage_Chairs"
+    ],
+    "1f0088d5cfcb4d809fe2ec348d4239d2": [
+        "家用电器--个护健康--按摩器",
+        "Home_Appliances--Personal_Care_and_Health--Massagers"
+    ],
+    "2d78dd2caf994dc5a05f27accf5d2798": [
+        "家用电器--个护健康--其它健康电器",
+        "Home_Appliances--Personal_Care_and_Health--Other_Health_Appliances"
+    ],
+    "d1937d10b9dd412283062644453ba33f": [
+        "家用电器--个护健康--剃须刀",
+        "Home_Appliances--Personal_Care_and_Health--Shavers"
+    ],
+    "151e100abdef42e988e8c10253c7489b": [
+        "家用电器--个护健康--潮流护理电器",
+        "Home_Appliances--Personal_Care_and_Health--Trending_Care_Appliances"
+    ],
+    "7447ecf1744c41ecb979f207dfc74a87": [
+        "家用电器--个护健康--冲牙器",
+        "Home_Appliances--Personal_Care_and_Health--Water_Flossers"
+    ],
+    "afe8189befad4f3a9b3df0841f0a9765": [
+        "家用电器--厨房小电--空气炸锅",
+        "Home_Appliances--Small_Kitchen_Appliances--Air_Fryers"
+    ],
+    "b445bad7560642c987cd0f61658c65a7": [
+        "家用电器--厨房小电--面包机",
+        "Home_Appliances--Small_Kitchen_Appliances--Bread_Makers"
+    ],
+    "4158bbe8d115414f8f24bfffa5127aa4": [
+        "家用电器--厨房小电--咖啡机",
+        "Home_Appliances--Small_Kitchen_Appliances--Coffee_Makers"
+    ],
+    "1d1fbdc595c442e18981525c72181d6a": [
+        "家用电器--厨房小电--和面机",
+        "Home_Appliances--Small_Kitchen_Appliances--Dough_Mixers"
+    ],
+    "fe8acd2f9e434735a702848a37b05e45": [
+        "家用电器--厨房小电--打蛋器",
+        "Home_Appliances--Small_Kitchen_Appliances--Egg_Beaters"
+    ],
+    "37c6bb63384446dd9d5747af14e32950": [
+        "家用电器--厨房小电--煮蛋器",
+        "Home_Appliances--Small_Kitchen_Appliances--Egg_Cookers"
+    ],
+    "ac90b172ad4f4b739deff4a484ee7102": [
+        "家用电器--厨房小电--电陶炉",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Ceramic_Cookers"
+    ],
+    "97f5259ec5334e88b31292121c9fd812": [
+        "家用电器--厨房小电--电饼铛",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Griddles"
+    ],
+    "706c924dafa44e39aaca8d083472a305": [
+        "家用电器--厨房小电--电烧烤炉",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Grills"
+    ],
+    "6ec820550a774f92ab3da21b5ad825b0": [
+        "家用电器--厨房小电--电水壶",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Kettles"
+    ],
+    "7637cd43054544db8d6c76a026014d1a": [
+        "家用电器--厨房小电--电热饭盒",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Lunch_Boxes"
+    ],
+    "3be898daa1ed4ab59e3b59a5f43622be": [
+        "家用电器--厨房小电--电烤箱",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Ovens"
+    ],
+    "0682b976d2fe461891a0feab60fa7053": [
+        "家用电器--厨房小电--电压力锅",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Pressure_Cookers"
+    ],
+    "8662b74261b24895a449def7a176da06": [
+        "家用电器--厨房小电--电炖锅",
+        "Home_Appliances--Small_Kitchen_Appliances--Electric_Stew_Pots"
+    ],
+    "1218f08972ac4f35b54e46ae14790172": [
+        "家用电器--厨房小电--料理机",
+        "Home_Appliances--Small_Kitchen_Appliances--Food_Processors"
+    ],
+    "83c759097664497f9310e567c41ab1e2": [
+        "家用电器--厨房小电--果蔬解毒机",
+        "Home_Appliances--Small_Kitchen_Appliances--Fruit_and_Vegetable_Purifiers"
+    ],
+    "e080cba9c13749fb91997d670340dcbc": [
+        "家用电器--厨房小电--养生壶",
+        "Home_Appliances--Small_Kitchen_Appliances--Health_Pots"
+    ],
+    "a5ed9943b7cb428e8d2dcaa8dc72a8b1": [
+        "家用电器--厨房小电--煎药壶",
+        "Home_Appliances--Small_Kitchen_Appliances--Herbal_Medicine_Pots"
+    ],
+    "e33cc1b3d1484b88b9d41f39854e919d": [
+        "家用电器--厨房小电--破壁机",
+        "Home_Appliances--Small_Kitchen_Appliances--High-speed_Blenders"
+    ],
+    "466bdd31bfe44e7ea2734ea0692a75c1": [
+        "家用电器--厨房小电--电磁炉",
+        "Home_Appliances--Small_Kitchen_Appliances--Induction_Cookers"
+    ],
+    "5bda859471804ac6907deff8bd13794f": [
+        "家用电器--厨房小电--榨汁机",
+        "Home_Appliances--Small_Kitchen_Appliances--Juicers"
+    ],
+    "abc69cd8726049ee80fae3deba381307": [
+        "家用电器--厨房小电--绞肉机",
+        "Home_Appliances--Small_Kitchen_Appliances--Meat_Grinders"
+    ],
+    "d6eb8c788e0f4eb0949ab06da1256040": [
+        "家用电器--厨房小电--微波炉",
+        "Home_Appliances--Small_Kitchen_Appliances--Microwave_Ovens"
+    ],
+    "b868b353dcd1424499de98e91f005346": [
+        "家用电器--厨房小电--多用途锅",
+        "Home_Appliances--Small_Kitchen_Appliances--Multi-purpose_Cookers"
+    ],
+    "1dca90bc428d40a3b044712e91c47267": [
+        "家用电器--厨房小电--面条机",
+        "Home_Appliances--Small_Kitchen_Appliances--Noodle_Makers"
+    ],
+    "cb07e2e75f024623a14a849eb71d2af4": [
+        "家用电器--厨房小电--其它厨房电器",
+        "Home_Appliances--Small_Kitchen_Appliances--Other_Kitchen_Appliances"
+    ],
+    "76f0877266474b7fab76e86cb54f72c2": [
+        "家用电器--厨房小电--电饭煲",
+        "Home_Appliances--Small_Kitchen_Appliances--Rice_Cookers"
+    ],
+    "cbdfa74a0e85481da4a8da8973ee64cb": [
+        "家用电器--厨房小电--原汁机",
+        "Home_Appliances--Small_Kitchen_Appliances--Slow_Juicers"
+    ],
+    "73e29fcf289641dfa27a7a70efeb36d1": [
+        "家用电器--厨房小电--豆浆机",
+        "Home_Appliances--Small_Kitchen_Appliances--Soymilk_Makers"
+    ],
+    "9668e18736dd462390ac24adb5977f01": [
+        "家用电器--厨房小电--厨师机",
+        "Home_Appliances--Small_Kitchen_Appliances--Stand_Mixers"
+    ],
+    "4fa1bb4dea2e4541b908465c8b381af5": [
+        "家用电器--厨房小电--热水瓶",
+        "Home_Appliances--Small_Kitchen_Appliances--Thermos_Bottles"
+    ],
+    "d4e9b9ea1f0047b3bc148115144c11a4": [
+        "家用电器--厨房小电--酸奶机",
+        "Home_Appliances--Small_Kitchen_Appliances--Yogurt_Makers"
+    ],
+    "03e3dd2c7f814b68a3ee77fb8c661f02": [
+        "珠宝--彩宝--水晶",
+        "Jewelry--Colored_Gemstones--Crystal"
+    ],
+    "56de1023244546f19b7d56613fce3f79": [
+        "珠宝--彩宝--祖母绿",
+        "Jewelry--Colored_Gemstones--Emerald"
+    ],
+    "5d62908c83bb47a3a3e1f9df4472e230": [
+        "珠宝--彩宝--石榴石",
+        "Jewelry--Colored_Gemstones--Garnet"
+    ],
+    "709efe454aad47a8b13b37a4c0c6dc03": [
+        "珠宝--彩宝--欧泊",
+        "Jewelry--Colored_Gemstones--Opal"
+    ],
+    "9a0bc0b934544475ad57911e8440753d": [
+        "珠宝--彩宝--其他宝石",
+        "Jewelry--Colored_Gemstones--Other_Gemstones"
+    ],
+    "04bcbb036d3f457a96c5e372ac8cf480": [
+        "珠宝--彩宝--红蓝宝石",
+        "Jewelry--Colored_Gemstones--Ruby_and_Sapphire"
+    ],
+    "0ee20b0700e643cfa3ebe403e48941ba": [
+        "珠宝--彩宝--坦桑石",
+        "Jewelry--Colored_Gemstones--Tanzanite"
+    ],
+    "f58daa2797dc44e6b045148d14cf3f22": [
+        "珠宝--彩宝--碧玺",
+        "Jewelry--Colored_Gemstones--Tourmaline"
+    ],
+    "f1a22a78519447488a622a84b007955e": [
+        "珠宝--钻石--钻石手镯",
+        "Jewelry--Diamond--Diamond_Bangles"
+    ],
+    "3db4f9c698ee463d93795f09d67ce915": [
+        "珠宝--钻石--钻石手链",
+        "Jewelry--Diamond--Diamond_Bracelets"
+    ],
+    "c96c91a4cbea42858862682c41ee9910": [
+        "珠宝--钻石--钻石耳饰",
+        "Jewelry--Diamond--Diamond_Earrings"
+    ],
+    "ac3abb76aac54e018eceb6fbb4d8db41": [
+        "珠宝--钻石--钻石项链",
+        "Jewelry--Diamond--Diamond_Necklaces"
+    ],
+    "1256d26fe6814ce3b592c5bb822eacaf": [
+        "珠宝--钻石--钻石吊坠",
+        "Jewelry--Diamond--Diamond_Pendants"
+    ],
+    "5c5991588a7344028b7e0c972f889983": [
+        "珠宝--钻石--钻戒",
+        "Jewelry--Diamond--Diamond_Rings"
+    ],
+    "b588ada1245c4e0d8b22e949b4c79f61": [
+        "珠宝--钻石--裸钻",
+        "Jewelry--Diamond--Loose_Diamonds"
+    ],
+    "752edb3025b1493d89f504e226710184": [
+        "珠宝--时尚饰品--脚链",
+        "Jewelry--Fashion_Accessories--Anklets"
+    ],
+    "2a0dc9748a0f40cda717a16b43bb5346": [
+        "珠宝--时尚饰品--手链",
+        "Jewelry--Fashion_Accessories--Bracelets"
+    ],
+    "c9b0d5350a0d49a6be2da225f2d6b5ff": [
+        "珠宝--时尚饰品--胸针",
+        "Jewelry--Fashion_Accessories--Brooches"
+    ],
+    "836760cae2f04f2ba18c940c41780c5d": [
+        "珠宝--时尚饰品--耳饰",
+        "Jewelry--Fashion_Accessories--Earrings"
+    ],
+    "87c832199d1a4bf3b5eb03097d0dd571": [
+        "珠宝--时尚饰品--头饰",
+        "Jewelry--Fashion_Accessories--Hair_Accessories"
+    ],
+    "f3fb21a9a4194ff48cbd0322e2f33523": [
+        "珠宝--时尚饰品--饰品配件",
+        "Jewelry--Fashion_Accessories--Jewelry_Accessories"
+    ],
+    "3b4e12b13d324c558eabf542fd778a08": [
+        "珠宝--时尚饰品--项链",
+        "Jewelry--Fashion_Accessories--Necklaces"
+    ],
+    "467538d826ef4275887965d24ca44485": [
+        "珠宝--时尚饰品--戒指",
+        "Jewelry--Fashion_Accessories--Rings"
+    ],
+    "5b41522a2e534e768ee8ec7f2a288b23": [
+        "珠宝--黄金--黄金脚链",
+        "Jewelry--Gold--Gold_Anklets"
+    ],
+    "0fd953212d9e4c6ab0c3b6e04208ed32": [
+        "珠宝--黄金--黄金手镯",
+        "Jewelry--Gold--Gold_Bangles"
+    ],
+    "1f72e0aaf99d4af99ab23588da350509": [
+        "珠宝--黄金--黄金手链",
+        "Jewelry--Gold--Gold_Bracelets"
+    ],
+    "ae8e8a50668c485882da4a44b05ada7e": [
+        "珠宝--黄金--黄金耳饰",
+        "Jewelry--Gold--Gold_Earrings"
+    ],
+    "babc8a9670bc4591a05a93d0637399cd": [
+        "珠宝--黄金--黄金转运珠",
+        "Jewelry--Gold--Gold_Lucky_Beads"
+    ],
+    "e13677ded4724daa8113aaba044a701a": [
+        "珠宝--黄金--黄金项链",
+        "Jewelry--Gold--Gold_Necklaces"
+    ],
+    "74517387ecab40fbaadf502b9705e9d9": [
+        "珠宝--黄金--黄金吊坠",
+        "Jewelry--Gold--Gold_Pendants"
+    ],
+    "4e1b5eec00224412983d5b4a5bd10bf9": [
+        "珠宝--黄金--黄金戒指",
+        "Jewelry--Gold--Gold_Rings"
+    ],
+    "8cda7708f80c49ffb3315f776b14d15a": [
+        "珠宝--翡翠玉石--玛瑙",
+        "Jewelry--Jade_and_Gemstone--Agate"
+    ],
+    "a5d4a46b4c1e49a3af250313ebeaa1c4": [
+        "珠宝--翡翠玉石--琥珀",
+        "Jewelry--Jade_and_Gemstone--Amber"
+    ],
+    "6980c21525a345708865c12f93f6355c": [
+        "珠宝--翡翠玉石--水晶",
+        "Jewelry--Jade_and_Gemstone--Crystal"
+    ],
+    "7b9bee73cf9d418fb428ee0d4eee4d27": [
+        "珠宝--翡翠玉石--和田玉",
+        "Jewelry--Jade_and_Gemstone--Hetian_Jade"
+    ],
+    "7531cd8287074914a383c3383f274de5": [
+        "珠宝--翡翠玉石--翡翠",
+        "Jewelry--Jade_and_Gemstone--Jadeite"
+    ],
+    "1953d36b6bc849d1a145935001517133": [
+        "珠宝--翡翠玉石--南红",
+        "Jewelry--Jade_and_Gemstone--Nanhong_Agate"
+    ],
+    "d470f97918a54cb9becd4b48abe8964b": [
+        "珠宝--翡翠玉石--其他天然玉石",
+        "Jewelry--Jade_and_Gemstone--Other_Natural_Gemstones"
+    ],
+    "dfd39f5a26f245fc952b40808d8a8fb0": [
+        "珠宝--翡翠玉石--碧玺",
+        "Jewelry--Jade_and_Gemstone--Tourmaline"
+    ],
+    "c7798bcbf4834a4ca89f3b44d3c6885a": [
+        "珠宝--K金--K金手镯",
+        "Jewelry--K_Gold--K_Gold_Bangles"
+    ],
+    "497e8d5a8d4c4379a4791fbf9a1bdfee": [
+        "珠宝--K金--K金手链",
+        "Jewelry--K_Gold--K_Gold_Bracelets"
+    ],
+    "0095669caaf44569b90b0ca4f8fbbe88": [
+        "珠宝--K金--K金耳饰",
+        "Jewelry--K_Gold--K_Gold_Earrings"
+    ],
+    "e7acee0c3cec4d23906200178e45e49d": [
+        "珠宝--K金--K金项链",
+        "Jewelry--K_Gold--K_Gold_Necklaces"
+    ],
+    "53d4a54ba8a74f8dae4364b46da76cfb": [
+        "珠宝--K金--K金吊坠",
+        "Jewelry--K_Gold--K_Gold_Pendants"
+    ],
+    "9ecce9a1e25b4d248ae4d6d1d3f3679f": [
+        "珠宝--K金--K金戒指",
+        "Jewelry--K_Gold--K_Gold_Rings"
+    ],
+    "14dc327dd87e43cd9d2eafca1f2fe22d": [
+        "珠宝--珍珠--珍珠手链",
+        "Jewelry--Pearl--Pearl_Bracelets"
+    ],
+    "e3419029a9664701a613cef90eca320e": [
+        "珠宝--珍珠--珍珠耳饰",
+        "Jewelry--Pearl--Pearl_Earrings"
+    ],
+    "eec79b00786f423d9b1f38ddd1f8737d": [
+        "珠宝--珍珠--珍珠项链",
+        "Jewelry--Pearl--Pearl_Necklaces"
+    ],
+    "802e4c84216549cc887920fea9fd4292": [
+        "珠宝--珍珠--珍珠吊坠",
+        "Jewelry--Pearl--Pearl_Pendants"
+    ],
+    "b10ce1737b5047c6be3fc86be24ff1e1": [
+        "珠宝--珍珠--珍珠戒指",
+        "Jewelry--Pearl--Pearl_Rings"
+    ],
+    "589863f17b0b4e7093436d5f58d1b405": [
+        "珠宝--铂金--铂金手镯",
+        "Jewelry--Platinum--Platinum_Bangles"
+    ],
+    "02e993c425554045849adba27a4fffba": [
+        "珠宝--铂金--铂金手链",
+        "Jewelry--Platinum--Platinum_Bracelets"
+    ],
+    "a3dbd81e7d984d79b457a686e3bc9b18": [
+        "珠宝--铂金--铂金耳饰",
+        "Jewelry--Platinum--Platinum_Earrings"
+    ],
+    "14e7c14e02204d3299b85417675f295a": [
+        "珠宝--铂金--铂金项链",
+        "Jewelry--Platinum--Platinum_Necklaces"
+    ],
+    "171879d888ef4c63bcc80ffcfb20f29f": [
+        "珠宝--铂金--铂金吊坠",
+        "Jewelry--Platinum--Platinum_Pendants"
+    ],
+    "33a4887f3c154bca9249b24b59688d20": [
+        "珠宝--铂金--铂金戒指",
+        "Jewelry--Platinum--Platinum_Rings"
+    ],
+    "951650af16b34c10895e9f11a9b99816": [
+        "珠宝--银饰--银手镯",
+        "Jewelry--Silver_Jewelry--Silver_Bangles"
+    ],
+    "8a80d6df10bd40359ab9119332bf55ec": [
+        "珠宝--银饰--银手链",
+        "Jewelry--Silver_Jewelry--Silver_Bracelets"
+    ],
+    "3003369494a44220a62e677051d65074": [
+        "珠宝--银饰--银耳饰",
+        "Jewelry--Silver_Jewelry--Silver_Earrings"
+    ],
+    "3d70038a3c1a4fb1a56e8ca709188ef8": [
+        "珠宝--银饰--银项链",
+        "Jewelry--Silver_Jewelry--Silver_Necklaces"
+    ],
+    "c7712ad0e8374e1098a8baa666ebcf59": [
+        "珠宝--银饰--银吊坠",
+        "Jewelry--Silver_Jewelry--Silver_Pendants"
+    ],
+    "5c1a66d6d91045b8af3875a093844eb9": [
+        "珠宝--银饰--银戒指",
+        "Jewelry--Silver_Jewelry--Silver_Rings"
+    ],
+    "73b05e7196654c739daae8f36039dfdd": [
+        "厨具--咖啡具--咖啡具配件",
+        "Kitchenware--Coffee_Supplies--Coffee_Accessories"
+    ],
+    "51ea92978e384798bb9415ccb08c156a": [
+        "厨具--咖啡具--咖啡杯",
+        "Kitchenware--Coffee_Supplies--Coffee_Cups"
+    ],
+    "514654beee3f477dbd9026cdef9fe91f": [
+        "厨具--咖啡具--咖啡滤纸",
+        "Kitchenware--Coffee_Supplies--Coffee_Filters"
+    ],
+    "867f786779a24a8ca7eb61aa5cab1c53": [
+        "厨具--咖啡具--磨豆机",
+        "Kitchenware--Coffee_Supplies--Coffee_Grinders"
+    ],
+    "bf31cfcf6ea54091a87b902b81d519e9": [
+        "厨具--咖啡具--咖啡壶",
+        "Kitchenware--Coffee_Supplies--Coffee_Pots"
+    ],
+    "eba6ba4426c04817998b04acd67ea2e6": [
+        "厨具--咖啡具--咖啡具套装",
+        "Kitchenware--Coffee_Supplies--Coffee_Sets"
+    ],
+    "c4c160f1654f495f82bc27695e1708dd": [
+        "厨具--咖啡具--打奶器",
+        "Kitchenware--Coffee_Supplies--Milk_Frothers"
+    ],
+    "f9f15b7bd7a840918aae19da2a60d4e2": [
+        "厨具--烹饪锅具--砂锅",
+        "Kitchenware--Cookware--Casseroles"
+    ],
+    "b2394c43472846f9a1edb7b463bd0842": [
+        "厨具--烹饪锅具--锅具套装",
+        "Kitchenware--Cookware--Cookware_Sets"
+    ],
+    "0b6874d00c3f432b8fc1d55dd1e4ae4f": [
+        "厨具--烹饪锅具--平底锅",
+        "Kitchenware--Cookware--Flat_Pans"
+    ],
+    "eaf3991fcfd5477ab6831ab0ba7a4b45": [
+        "厨具--烹饪锅具--煎锅",
+        "Kitchenware--Cookware--Frying_Pans"
+    ],
+    "a9a808fc2d9843baba212f2d88461b04": [
+        "厨具--烹饪锅具--火锅",
+        "Kitchenware--Cookware--Hot_Pot"
+    ],
+    "91aa73e7717a4c079ab84a6116971446": [
+        "厨具--烹饪锅具--水壶",
+        "Kitchenware--Cookware--Kettles"
+    ],
+    "df697421ea724ca298af5b09cbf26b53": [
+        "厨具--烹饪锅具--奶锅",
+        "Kitchenware--Cookware--Milk_Pans"
+    ],
+    "ff213863908d438781d3387c718a3fef": [
+        "厨具--烹饪锅具--高压锅",
+        "Kitchenware--Cookware--Pressure_Cookers"
+    ],
+    "8ad954fbecf84a5d9c18db2c983d94c6": [
+        "厨具--烹饪锅具--蒸锅",
+        "Kitchenware--Cookware--Steamers"
+    ],
+    "7de8eec2faf64700a33c6c40ebe55787": [
+        "厨具--烹饪锅具--汤锅",
+        "Kitchenware--Cookware--Stock_Pots"
+    ],
+    "1b0a1d03cda3400a8eab46f963ae1c75": [
+        "厨具--烹饪锅具--炒锅",
+        "Kitchenware--Cookware--Woks"
+    ],
+    "c383ca99e4b644a0822a83590b5f795c": [
+        "厨具--餐具--碗",
+        "Kitchenware--Dinnerware--Bowls"
+    ],
+    "00bc4af4d50d4e29a3a22952e21857a8": [
+        "厨具--餐具--筷子",
+        "Kitchenware--Dinnerware--Chopsticks"
+    ],
+    "f6ed3c0717de452ea60fa32982680731": [
+        "厨具--餐具--餐具套装",
+        "Kitchenware--Dinnerware--Dinnerware_Sets"
+    ],
+    "d8265fad4d5d4f83b541c20d52a41c48": [
+        "厨具--餐具--碟",
+        "Kitchenware--Dinnerware--Dishes"
+    ],
+    "f9abb6a623e04b529b66f5b193488972": [
+        "厨具--餐具--一次性用品",
+        "Kitchenware--Dinnerware--Disposable_Items"
+    ],
+    "e6a329d382e54e2c87e573ebf84ec7c4": [
+        "厨具--餐具--叉",
+        "Kitchenware--Dinnerware--Forks"
+    ],
+    "e7fba59d4f274669ba763844fd99c3ad": [
+        "厨具--餐具--果篮",
+        "Kitchenware--Dinnerware--Fruit_Baskets"
+    ],
+    "bd34ebf038bd464287cd2962a4f8f15d": [
+        "厨具--餐具--果盘",
+        "Kitchenware--Dinnerware--Fruit_Plates"
+    ],
+    "c78c4af4e6354df4ad37949b8855c5ab": [
+        "厨具--餐具--刀",
+        "Kitchenware--Dinnerware--Knives"
+    ],
+    "788e3d65edfa427688970f022810ac05": [
+        "厨具--餐具--盘",
+        "Kitchenware--Dinnerware--Plates"
+    ],
+    "17f188f785884f37ae89223aaf6cf74f": [
+        "厨具--餐具--勺",
+        "Kitchenware--Dinnerware--Spoons"
+    ],
+    "c9811ea63a414de3af6fd495a5b68dd0": [
+        "厨具--水具酒具--酒具配件",
+        "Kitchenware--Drinkware--Bar_Accessories"
+    ],
+    "2fea61dc9a9a42f3a34f4e91708f027c": [
+        "厨具--水具酒具--酒具",
+        "Kitchenware--Drinkware--Bar_Tools"
+    ],
+    "4bf09506efaa4f57bcaf0a050c362a6f": [
+        "厨具--水具酒具--陶瓷杯",
+        "Kitchenware--Drinkware--Ceramic_Cups"
+    ],
+    "9ee183a2ee474077abb0ac239adf9ea1": [
+        "厨具--水具酒具--水具配件",
+        "Kitchenware--Drinkware--Drinkware_Accessories"
+    ],
+    "60f6e316a8fa40799769fdc91ad9cf4c": [
+        "厨具--水具酒具--杯具套装",
+        "Kitchenware--Drinkware--Drinkware_Sets"
+    ],
+    "cee550d77cf14fcf9f2f4bee0239c463": [
+        "厨具--水具酒具--玻璃杯",
+        "Kitchenware--Drinkware--Glass_Cups"
+    ],
+    "6c9959dc490746109caec569e54ff7b7": [
+        "厨具--水具酒具--保温杯",
+        "Kitchenware--Drinkware--Insulated_Cups"
+    ],
+    "48effc702137409f85915c5f887326b1": [
+        "厨具--水具酒具--马克杯",
+        "Kitchenware--Drinkware--Mugs"
+    ],
+    "bb039ac54454459e8294b678e458450f": [
+        "厨具--水具酒具--塑料杯",
+        "Kitchenware--Drinkware--Plastic_Cups"
+    ],
+    "fa29d874a24b4d31be8d8087e7935702": [
+        "厨具--水具酒具--运动水壶",
+        "Kitchenware--Drinkware--Sports_Water_Bottles"
+    ],
+    "34056e48bc434c4495b6593471fba5f0": [
+        "厨具--水具酒具--保温壶",
+        "Kitchenware--Drinkware--Thermal_Flasks"
+    ],
+    "eaa6148a2e504f00a0713310e460f2bc": [
+        "厨具--水具酒具--焖烧杯",
+        "Kitchenware--Drinkware--Thermal_Food_Jars"
+    ],
+    "3d3e079b94d1421884f9a760ddc42ad0": [
+        "厨具--水具酒具--酒杯",
+        "Kitchenware--Drinkware--Wine_Glasses"
+    ],
+    "5f260d5135584c3094fd78c33827bed8": [
+        "厨具--酒店用品--自助餐炉",
+        "Kitchenware--Hotel_Supplies--Buffet_Warmers"
+    ],
+    "d3cca48c0d3b407ea0bd41276886ff99": [
+        "厨具--酒店用品--酒店餐具",
+        "Kitchenware--Hotel_Supplies--Hotel_Dinnerware"
+    ],
+    "63d524fc59864d3ab9a9e27d307413c2": [
+        "厨具--酒店用品--酒店水具",
+        "Kitchenware--Hotel_Supplies--Hotel_Drinkware"
+    ],
+    "5bba0835cc264440964a1a5b7cbd095c": [
+        "厨具--厨房配件--烧烤",
+        "Kitchenware--Kitchen_Accessories--BBQ_Tools"
+    ],
+    "ca138cc731944c67a39c2e4873bbe423": [
+        "厨具--厨房配件--烘焙",
+        "Kitchenware--Kitchen_Accessories--Baking_Tools"
+    ],
+    "f5eb74ee4ae94e748e5ccde95c330b5a": [
+        "厨具--厨房配件--保鲜盒",
+        "Kitchenware--Kitchen_Accessories--Food_Storage_Containers"
+    ],
+    "c3056af37ae04ecb901a2107b25408fc": [
+        "厨具--厨房配件--厨房DIY",
+        "Kitchenware--Kitchen_Accessories--Kitchen_DIY"
+    ],
+    "f72676a1cc8247c4807f36299eb47f3f": [
+        "厨具--厨房配件--厨房小工具",
+        "Kitchenware--Kitchen_Accessories--Kitchen_Gadgets"
+    ],
+    "5843b4559f564558b1a0e6cb837b1229": [
+        "厨具--厨房配件--厨房秤",
+        "Kitchenware--Kitchen_Accessories--Kitchen_Scales"
+    ],
+    "c14aadaa92224e7580c6285b327d0f03": [
+        "厨具--厨房配件--厨房储物器皿",
+        "Kitchenware--Kitchen_Accessories--Kitchen_Storage_Containers"
+    ],
+    "33755486b0234676a59fdb194178d11c": [
+        "厨具--厨房配件--厨房置物架",
+        "Kitchenware--Kitchen_Accessories--Kitchen_Storage_Racks"
+    ],
+    "fb415342dea64082b5d5a2bef3050093": [
+        "厨具--厨房配件--饭盒",
+        "Kitchenware--Kitchen_Accessories--Lunch_Boxes"
+    ],
+    "9650c3e8087742ba85d986a04a2fdc1d": [
+        "厨具--厨房配件--调料器皿",
+        "Kitchenware--Kitchen_Accessories--Seasoning_Containers"
+    ],
+    "502fa89faea345f9a720dd06b7d84729": [
+        "厨具--厨房配件--提锅",
+        "Kitchenware--Kitchen_Accessories--Thermal_Food_Carriers"
+    ],
+    "da8736af3a6649e5b3a229e95f0d759e": [
+        "厨具--刀剪菜板--砧板",
+        "Kitchenware--Knives_and_Cutting_Boards--Cutting_Boards"
+    ],
+    "3b93cf5cac714490964e8aca7fb9b9e6": [
+        "厨具--刀剪菜板--瓜果刀",
+        "Kitchenware--Knives_and_Cutting_Boards--Fruit_Knives"
+    ],
+    "464e3fdd85e540af8876b7fae4e62164": [
+        "厨具--刀剪菜板--菜刀",
+        "Kitchenware--Knives_and_Cutting_Boards--Kitchen_Knives"
+    ],
+    "5351a8a1179640b09e014fe1bd240729": [
+        "厨具--刀剪菜板--刀具套装",
+        "Kitchenware--Knives_and_Cutting_Boards--Knife_Sets"
+    ],
+    "0296620041b544f8a36d7a43b5b0a054": [
+        "厨具--刀剪菜板--多功能刀",
+        "Kitchenware--Knives_and_Cutting_Boards--Multi_Purpose_Knives"
+    ],
+    "cce590b9c0a343f3be13891d3702da6a": [
+        "厨具--刀剪菜板--削皮刨",
+        "Kitchenware--Knives_and_Cutting_Boards--Peelers"
+    ],
+    "ecd6532cc356428c9843377ab00aa738": [
+        "厨具--刀剪菜板--剪刀",
+        "Kitchenware--Knives_and_Cutting_Boards--Scissors"
+    ],
+    "5606e7f83e374c2a897d93cddfe10b47": [
+        "厨具--茶具--盖碗",
+        "Kitchenware--Teaware--Gaiwan"
+    ],
+    "c900035152d64ac5a38ea9470449c213": [
+        "厨具--茶具--其他",
+        "Kitchenware--Teaware--Others"
+    ],
+    "7170f1647f7342699ee690b53b641859": [
+        "厨具--茶具--茶具配件",
+        "Kitchenware--Teaware--Tea_Accessories"
+    ],
+    "69626f9e2be84325b293499b8e58a445": [
+        "厨具--茶具--茶叶罐",
+        "Kitchenware--Teaware--Tea_Canisters"
+    ],
+    "fe3d804938d9489db2440952e4760760": [
+        "厨具--茶具--茶杯",
+        "Kitchenware--Teaware--Tea_Cups"
+    ],
+    "a193259c83bb45bb8786219daf338d86": [
+        "厨具--茶具--茶宠摆件",
+        "Kitchenware--Teaware--Tea_Pet_Ornaments"
+    ],
+    "b7b89019457147da803c2024cfe619d5": [
+        "厨具--茶具--整套茶具",
+        "Kitchenware--Teaware--Tea_Sets"
+    ],
+    "fad8cbe3d0eb4b0ebfe040ff608347b0": [
+        "厨具--茶具--茶盘茶托",
+        "Kitchenware--Teaware--Tea_Trays"
+    ],
+    "1dd48eb0088b4442a79cabc662ac38e5": [
+        "厨具--茶具--茶壶",
+        "Kitchenware--Teaware--Teapots"
+    ],
+    "5c37aadaa78c4a91864e108d878a4a3c": [
+        "厨具--茶具--旅行茶具",
+        "Kitchenware--Teaware--Travel_Tea_Sets"
+    ],
+    "9a05d3c4f1a34977a2533a6fa827795b": [
+        "手机--手机--手机（各品牌）",
+        "Mobile_Phones--Mobile_Phones--Mobile_Phones_(All_Brands)"
+    ],
+    "67c679d351fd493793940c291841c9be": [
+        "手机--手机配件--苹果周边",
+        "Mobile_Phones--Phone_Accessories--Apple_Accessories"
+    ],
+    "9b89bf74be5e48b8af3c742f3e86ee75": [
+        "手机--手机配件--蓝牙耳机",
+        "Mobile_Phones--Phone_Accessories--Bluetooth_Earphones"
+    ],
+    "a0970d32c537487d8b9e89241f302b24": [
+        "手机--手机配件--充电器",
+        "Mobile_Phones--Phone_Accessories--Chargers"
+    ],
+    "86757667132f4ceeb44a01f2a5dc9797": [
+        "手机--手机配件--创意配件",
+        "Mobile_Phones--Phone_Accessories--Creative_Accessories"
+    ],
+    "6ccafbf76bff4553b4c28ac5c3c12257": [
+        "手机--手机配件--数据线",
+        "Mobile_Phones--Phone_Accessories--Data_Cables"
+    ],
+    "f7a36e531e3844a1bcdc9b11533d4cea": [
+        "手机--手机配件--手机存储卡",
+        "Mobile_Phones--Phone_Accessories--Memory_Cards"
+    ],
+    "c088c1325f6a4c208d30b68938d2a1da": [
+        "手机--手机配件--手机电池",
+        "Mobile_Phones--Phone_Accessories--Phone_Batteries"
+    ],
+    "bff71454a64a491d9f9793139d44f815": [
+        "手机--手机配件--手机壳",
+        "Mobile_Phones--Phone_Accessories--Phone_Cases"
+    ],
+    "6e8c160399084c6aa6b5405546c22a7a": [
+        "手机--手机配件--手机饰品",
+        "Mobile_Phones--Phone_Accessories--Phone_Decorations"
+    ],
+    "4fb55996aca54b2c81eaef32abf2921d": [
+        "手机--手机配件--手机耳机",
+        "Mobile_Phones--Phone_Accessories--Phone_Earphones"
+    ],
+    "4199ae5a83024c0b95da9b78acd87963": [
+        "手机--手机配件--手机支架",
+        "Mobile_Phones--Phone_Accessories--Phone_Holders"
+    ],
+    "55202fdd03c346f5b9aa05c9e1cbf98c": [
+        "手机--手机配件--手机保护套",
+        "Mobile_Phones--Phone_Accessories--Phone_Protective_Cases"
+    ],
+    "b5b22ab76574402a9a8b6b03392ba7c6": [
+        "手机--手机配件--拍照配件",
+        "Mobile_Phones--Phone_Accessories--Photography_Accessories"
+    ],
+    "875ec7461e084731b9192f5cfa01dc2b": [
+        "手机--手机配件--便携音响",
+        "Mobile_Phones--Phone_Accessories--Portable_Speakers"
+    ],
+    "356448e2bf4b4f41a2d9fa63450f3b60": [
+        "手机--手机配件--移动电源",
+        "Mobile_Phones--Phone_Accessories--Power_Banks"
+    ],
+    "17fefca373154f31a4ec0b5b7395d365": [
+        "手机--手机配件--手机贴膜",
+        "Mobile_Phones--Phone_Accessories--Screen_Protectors"
+    ],
+    "b9fe123b6a124c40aaf3e8ee6f03484d": [
+        "手机--手机配件--手机信号增强器",
+        "Mobile_Phones--Phone_Accessories--Signal_Boosters"
+    ],
+    "fa5fd502fb014f4ea9f4222183081fde": [
+        "手机--手机配件--无线音响",
+        "Mobile_Phones--Phone_Accessories--Wireless_Speakers"
+    ],
+    "90e26b8bed424e24acecb8a1580ae1bc": [
+        "手机--对讲机--模拟对讲机",
+        "Mobile_Phones--Walkie_Talkies--Analog_Walkie_Talkies"
+    ],
+    "c22febd76afa4e878e16b398950c60db": [
+        "手机--对讲机--数字对讲机",
+        "Mobile_Phones--Walkie_Talkies--Digital_Walkie_Talkies"
+    ],
+    "70fa7597cefd4f55a9b660922539cab7": [
+        "手机--对讲机--公网对讲机",
+        "Mobile_Phones--Walkie_Talkies--Public_Network_Walkie_Talkies"
+    ],
+    "248edd54541347ffaf139e403cd433ec": [
+        "手机--对讲机--对讲机配件",
+        "Mobile_Phones--Walkie_Talkies--Walkie_Talkie_Accessories"
+    ],
+    "ccd53ce67dbe497dac939fbbac2a7af2": [
+        "母婴--营养辅食--辅食",
+        "Mother_and_Baby--Baby_Food--Baby_Food"
+    ],
+    "b3e6ccb233e24ca091b0eef397c83e03": [
+        "母婴--营养辅食--营养品",
+        "Mother_and_Baby--Baby_Food--Nutritional_Supplements"
+    ],
+    "b45b9a3b569d41b7944f80b1e9b82591": [
+        "母婴--营养辅食--零食",
+        "Mother_and_Baby--Baby_Food--Snacks"
+    ],
+    "eec1b1bc7d5848dca5b1ab58da0f1197": [
+        "母婴--寝居服饰--婴儿礼盒",
+        "Mother_and_Baby--Bedding_and_Loungewear--Baby_Gift_Sets"
+    ],
+    "45e51c8121b04041b2b2dd06d216bf3d": [
+        "母婴--寝居服饰--婴儿外出服",
+        "Mother_and_Baby--Bedding_and_Loungewear--Baby_Outerwear"
+    ],
+    "80f69f04634c4ae49b8ff5f56bfb9529": [
+        "母婴--寝居服饰--婴儿内衣",
+        "Mother_and_Baby--Bedding_and_Loungewear--Baby_Underwear"
+    ],
+    "c4a91d130c5148798248ff32c8da1408": [
+        "母婴--寝居服饰--浴巾",
+        "Mother_and_Baby--Bedding_and_Loungewear--Bath_Towels"
+    ],
+    "1bd8347adad04d12832f051b63f80d8f": [
+        "母婴--寝居服饰--床品套件",
+        "Mother_and_Baby--Bedding_and_Loungewear--Bedding_Sets"
+    ],
+    "da4d2a3c2c134a17b4903cc4885ad75d": [
+        "母婴--寝居服饰--儿童配饰",
+        "Mother_and_Baby--Bedding_and_Loungewear--Childrens_Accessories"
+    ],
+    "da8f535513904f7aacaba7360a7595a2": [
+        "母婴--寝居服饰--儿童外出服",
+        "Mother_and_Baby--Bedding_and_Loungewear--Childrens_Outerwear"
+    ],
+    "c39ee9c361e04658a0358396f5ad1638": [
+        "母婴--寝居服饰--儿童内衣",
+        "Mother_and_Baby--Bedding_and_Loungewear--Childrens_Underwear"
+    ],
+    "005e7198af1d4db8a5bb2df458c7470c": [
+        "母婴--寝居服饰--安全防护",
+        "Mother_and_Baby--Bedding_and_Loungewear--Safety_Protection"
+    ],
+    "c135011b6f55451294208f7a6ef9c130": [
+        "母婴--寝居服饰--睡袋",
+        "Mother_and_Baby--Bedding_and_Loungewear--Sleeping_Bags"
+    ],
+    "42ee37eb589e47899099397152cd0e06": [
+        "母婴--寝居服饰--抱被",
+        "Mother_and_Baby--Bedding_and_Loungewear--Swaddle_Blankets"
+    ],
+    "28d9d028882541bea2f789a2a7cbf911": [
+        "母婴--寝居服饰--毛巾",
+        "Mother_and_Baby--Bedding_and_Loungewear--Towels"
+    ],
+    "059077f165d0464a93b2a365bb4fa3bf": [
+        "母婴--寝居服饰--隔尿用品",
+        "Mother_and_Baby--Bedding_and_Loungewear--Waterproof_Products"
+    ],
+    "e31ee1493bf54669811aa472cbdcd721": [
+        "母婴--童装--配饰",
+        "Mother_and_Baby--Childrens_Clothing--Accessories"
+    ],
+    "5ff077bd65f8432cb309a8243f61f743": [
+        "母婴--童装--棉服",
+        "Mother_and_Baby--Childrens_Clothing--Cotton-padded_Clothes"
+    ],
+    "2e5ee9e378bb479f946bcda4e2d63350": [
+        "母婴--童装--羽绒服",
+        "Mother_and_Baby--Childrens_Clothing--Down_Jackets"
+    ],
+    "83ffe82f5fb541f682f6a024265ecc50": [
+        "母婴--童装--家居服",
+        "Mother_and_Baby--Childrens_Clothing--Loungewear"
+    ],
+    "a10b5b9f739c4fc0bcfd46d4031c4918": [
+        "母婴--童装--裤子",
+        "Mother_and_Baby--Childrens_Clothing--Pants"
+    ],
+    "3e5a0d5e92044cdab89aa4bd1196a2ce": [
+        "母婴--童装--亲子装",
+        "Mother_and_Baby--Childrens_Clothing--Parent_Child_Matching_Outfits"
+    ],
+    "63f2edd5b5444a86b5454024bcac0910": [
+        "母婴--童装--套装",
+        "Mother_and_Baby--Childrens_Clothing--Sets"
+    ],
+    "55646d5d0810416c9fc7ebdf41d9d519": [
+        "母婴--童装--裙子",
+        "Mother_and_Baby--Childrens_Clothing--Skirts"
+    ],
+    "651022bc5b5c473ea64c1725ef1736c4": [
+        "母婴--童装--上衣",
+        "Mother_and_Baby--Childrens_Clothing--Tops"
+    ],
+    "ca0e194d38da45c88eb7a766b57d2751": [
+        "母婴--童装--内衣",
+        "Mother_and_Baby--Childrens_Clothing--Underwear"
+    ],
+    "6a238d3c4e1743c3b4a2e470555987ab": [
+        "母婴--童鞋--婴儿鞋",
+        "Mother_and_Baby--Childrens_Shoes--Baby_Shoes"
+    ],
+    "343e0bf659334da5ba8a768039cf5127": [
+        "母婴--童鞋--靴子",
+        "Mother_and_Baby--Childrens_Shoes--Boots"
+    ],
+    "2b95cf75d0ac4eefa18b555d23786c5e": [
+        "母婴--童鞋--帆布鞋",
+        "Mother_and_Baby--Childrens_Shoes--Canvas_Shoes"
+    ],
+    "4aa341a5c91a49daae717e275e140767": [
+        "母婴--童鞋--功能鞋",
+        "Mother_and_Baby--Childrens_Shoes--Functional_Shoes"
+    ],
+    "01d5511b1c3e4fc2857f4d3009217fbb": [
+        "母婴--童鞋--皮鞋",
+        "Mother_and_Baby--Childrens_Shoes--Leather_Shoes"
+    ],
+    "bd1e7a65e83f40b19bc2df7fa89d9b63": [
+        "母婴--童鞋--凉鞋",
+        "Mother_and_Baby--Childrens_Shoes--Sandals"
+    ],
+    "57fa1bd3808146db898a1cd83fe12dd1": [
+        "母婴--童鞋--运动鞋",
+        "Mother_and_Baby--Childrens_Shoes--Sports_Shoes"
+    ],
+    "0d3f0de15664451aa9aa4d2f5a0b8345": [
+        "母婴--童鞋--学步鞋",
+        "Mother_and_Baby--Childrens_Shoes--Toddler_Shoes"
+    ],
+    "515ad1e3490242de99d8a0abd648636e": [
+        "母婴--喂养用品--奶瓶",
+        "Mother_and_Baby--Feeding_Supplies--Baby_Bottles"
+    ],
+    "3634b4d2dd2445a7a706cac086742694": [
+        "母婴--喂养用品--水杯",
+        "Mother_and_Baby--Feeding_Supplies--Baby_Cups"
+    ],
+    "61779cbef7db4b65af98c3eb06ad168d": [
+        "母婴--喂养用品--碗盘叉勺",
+        "Mother_and_Baby--Feeding_Supplies--Baby_Dinnerware"
+    ],
+    "34eccae28ac0441f98fce8e2d8fbadab": [
+        "母婴--喂养用品--辅食料理机",
+        "Mother_and_Baby--Feeding_Supplies--Baby_Food_Makers"
+    ],
+    "6107184b909147c8907bdd189d4ab894": [
+        "母婴--喂养用品--暖奶消毒",
+        "Mother_and_Baby--Feeding_Supplies--Bottle_Warmers_and_Sterilizers"
+    ],
+    "707c3cb880dd4273bde46856f910ea6a": [
+        "母婴--喂养用品--吸奶器",
+        "Mother_and_Baby--Feeding_Supplies--Breast_Pumps"
+    ],
+    "5051a08a0d8f4302b6615431d90ab3d9": [
+        "母婴--喂养用品--水壶",
+        "Mother_and_Baby--Feeding_Supplies--Kettles"
+    ],
+    "77ff2ea07c21486fa7531910794d04c8": [
+        "母婴--喂养用品--奶嘴",
+        "Mother_and_Baby--Feeding_Supplies--Nipples"
+    ],
+    "195d9674204f45a3898c504adc6a4909": [
+        "母婴--喂养用品--牙胶安抚",
+        "Mother_and_Baby--Feeding_Supplies--Teethers_and_Pacifiers"
+    ],
+    "64f9ce55759048489c91523a7627ac4f": [
+        "母婴--妈妈专区--防辐射服",
+        "Mother_and_Baby--Maternity_Zone--Anti_Radiation_Clothing"
+    ],
+    "609edeeedf0c4ceb8192eb1c78e018f0": [
+        "母婴--妈妈专区--背婴带",
+        "Mother_and_Baby--Maternity_Zone--Baby_Carriers"
+    ],
+    "4585f1fc26614a3f858d7b083a79ea7a": [
+        "母婴--妈妈专区--文胸",
+        "Mother_and_Baby--Maternity_Zone--Bras"
+    ],
+    "7770c3fa94634e13915f4495119ec6cf": [
+        "母婴--妈妈专区--吸奶器",
+        "Mother_and_Baby--Maternity_Zone--Breast_Pumps"
+    ],
+    "80b6ef988f8c4f7daa2ae3558b69c4b3": [
+        "母婴--妈妈专区--妈咪包",
+        "Mother_and_Baby--Maternity_Zone--Diaper_Bags"
+    ],
+    "ce28b13837004f378a3d1425f8f28db9": [
+        "母婴--妈妈专区--孕妇护肤",
+        "Mother_and_Baby--Maternity_Zone--Maternity_Skincare"
+    ],
+    "465b46d25bff48e392a6b694bdea4740": [
+        "母婴--妈妈专区--孕妈装",
+        "Mother_and_Baby--Maternity_Zone--Maternity_Wear"
+    ],
+    "795d54ec7ccc4c95850a6a25438db51f": [
+        "母婴--妈妈专区--新生",
+        "Mother_and_Baby--Maternity_Zone--Newborn"
+    ],
+    "f26f43e8231d45bb9e33dcc2069deec1": [
+        "母婴--妈妈专区--产后塑身",
+        "Mother_and_Baby--Maternity_Zone--Postpartum_Shapewear"
+    ],
+    "76f765e089ad4fe6a3319e239c790f30": [
+        "母婴--妈妈专区--待产",
+        "Mother_and_Baby--Maternity_Zone--Pre_Delivery"
+    ],
+    "0b23e7b370624fe9915f8754a28aa735": [
+        "母婴--妈妈专区--内裤",
+        "Mother_and_Baby--Maternity_Zone--Underwear"
+    ],
+    "70587e85f10e4bd0aeca5a21355eb7cd": [
+        "母婴--奶粉--成人奶粉",
+        "Mother_and_Baby--Milk_Powder--Adult_Milk_Powder"
+    ],
+    "dd85b3291b704961989ac6b04e5322d3": [
+        "母婴--奶粉--婴幼儿奶粉",
+        "Mother_and_Baby--Milk_Powder--Infant_Formula"
+    ],
+    "bf131c85b644474d905105a4687bd2c3": [
+        "母婴--奶粉--孕妇奶粉",
+        "Mother_and_Baby--Milk_Powder--Maternity_Milk_Powder"
+    ],
+    "7d8567924a004995b16df6fa669c390a": [
+        "母婴--洗护用品--洗发沐浴",
+        "Mother_and_Baby--Personal_Care_Products--Baby_Shampoo_and_Body_Wash"
+    ],
+    "6eea5580bfcd4da7abccbbb055404504": [
+        "母婴--洗护用品--宝宝护肤",
+        "Mother_and_Baby--Personal_Care_Products--Baby_Skincare"
+    ],
+    "9dc4ff8002b34980bd69d39e9195a489": [
+        "母婴--洗护用品--日常护理",
+        "Mother_and_Baby--Personal_Care_Products--Daily_Care"
+    ],
+    "99f8fd5ebc9c47dc96377da8666f219d": [
+        "母婴--洗护用品--理发器",
+        "Mother_and_Baby--Personal_Care_Products--Hair_Clippers"
+    ],
+    "fb427660d1a742ccb0b86b309a2d47cd": [
+        "母婴--童车童床--婴儿床",
+        "Mother_and_Baby--Strollers_and_Cribs--Baby_Cribs"
+    ],
+    "bb5346877e6a4755902a2ae96a41c25f": [
+        "母婴--童车童床--婴儿推车",
+        "Mother_and_Baby--Strollers_and_Cribs--Baby_Strollers"
+    ],
+    "1d3b03533cd14fc696f0ce3a4574c171": [
+        "母婴--童车童床--学步车",
+        "Mother_and_Baby--Strollers_and_Cribs--Baby_Walkers"
+    ],
+    "56ce2b9dbe3e47d693ce6b1638d9c411": [
+        "母婴--童车童床--自行车",
+        "Mother_and_Baby--Strollers_and_Cribs--Bicycles"
+    ],
+    "0710e9aba2f249aba076630191f08296": [
+        "母婴--童车童床--电动车",
+        "Mother_and_Baby--Strollers_and_Cribs--Electric_Bikes"
+    ],
+    "76ef8b00e1ed45f9b4a2520e423c434b": [
+        "母婴--童车童床--餐椅摇椅",
+        "Mother_and_Baby--Strollers_and_Cribs--High_Chairs_and_Rockers"
+    ],
+    "7e4de147e9f445a8a66944f96eb85e43": [
+        "母婴--童车童床--床垫",
+        "Mother_and_Baby--Strollers_and_Cribs--Mattresses"
+    ],
+    "2cc9fe83f5d14f02918d7386234f01ba": [
+        "母婴--童车童床--三轮车",
+        "Mother_and_Baby--Strollers_and_Cribs--Tricycles"
+    ],
+    "95dc59b1862d4e838f3ef6676fd977da": [
+        "母婴--尿裤湿巾--纸尿裤",
+        "Mother_and_Baby--Wet_Wipes--Diapers"
+    ],
+    "dd1b9cb8d0bd44268574718ec7d0449e": [
+        "母婴--尿裤湿巾--拉拉裤",
+        "Mother_and_Baby--Wet_Wipes--Pull_Up_Diapers"
+    ],
+    "fd67bda3fb754339a38b0a66232bf71f": [
+        "母婴--尿裤湿巾--湿巾",
+        "Mother_and_Baby--Wet_Wipes--Wet_Wipes"
+    ],
+    "c66b11a0cdfd4441bb762eee39fb021d": [
+        "鞋靴--流行男鞋--沙滩鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Beach_Shoes"
+    ],
+    "92b5b1cab9bb441d80a1063c1f90a177": [
+        "鞋靴--流行男鞋--商务休闲鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Business_Casual_Shoes"
+    ],
+    "58f70e7e37a14e3096f48f0d24204ec0": [
+        "鞋靴--流行男鞋--帆布鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Canvas_Shoes"
+    ],
+    "d9a656d458e142259f8669312c05a53d": [
+        "鞋靴--流行男鞋--休闲鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Casual_Shoes"
+    ],
+    "9e48806854c941d89deabbc08d43173b": [
+        "鞋靴--流行男鞋--定制鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Custom_Shoes"
+    ],
+    "ce06e87dd3fd465d9c44421e84cae5de": [
+        "鞋靴--流行男鞋--正装鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Dress_Shoes"
+    ],
+    "ef5bde03df734fd09913b64ff13384be": [
+        "鞋靴--流行男鞋--人字拖",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Flip_Flops"
+    ],
+    "a84c5370b0a54e45950970caba676587": [
+        "鞋靴--流行男鞋--功能鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Functional_Shoes"
+    ],
+    "d7686e460bd84ebc93950a5c60b41db6": [
+        "鞋靴--流行男鞋--增高鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Height_Increasing_Shoes"
+    ],
+    "f8c0c7e8284b4e2c8f28ddacf88a817c": [
+        "鞋靴--流行男鞋--男靴",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Mens_Boots"
+    ],
+    "9787cc2b1821446daa38752c7043c8cc": [
+        "鞋靴--流行男鞋--雨靴",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Rain_Boots"
+    ],
+    "9010e8facf85447ebbc9e8be19a4b706": [
+        "鞋靴--流行男鞋--雨鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Rain_Shoes"
+    ],
+    "4f2befd9042942519e40660430a3ee31": [
+        "鞋靴--流行男鞋--凉鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Sandals"
+    ],
+    "48313daf32ae42448d763aa778b54afc": [
+        "鞋靴--流行男鞋--鞋配件",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Shoe_Accessories"
+    ],
+    "c65d0ca80c2a4f84bff73efb691b93ec": [
+        "鞋靴--流行男鞋--拖鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Slippers"
+    ],
+    "21088322432a44faa436e42d753f84ab": [
+        "鞋靴--流行男鞋--传统布鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Traditional_Cloth_Shoes"
+    ],
+    "ce459309fe25403bac4e755a8843a2fc": [
+        "鞋靴--流行男鞋--工装鞋",
+        "Shoes_and_Boots--Mens_Fashion_Shoes--Work_Boots"
+    ],
+    "400a0bcc711f43e791f2acd833557a27": [
+        "鞋靴--时尚女鞋--踝靴",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Ankle_Boots"
+    ],
+    "e4ac4d4a3dea44bb9c9dbfbeb1e6c03b": [
+        "鞋靴--时尚女鞋--帆布鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Canvas_Shoes"
+    ],
+    "6f604d2b9bd346ceb0e4041c8907d438": [
+        "鞋靴--时尚女鞋--休闲鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Casual_Shoes"
+    ],
+    "c61a96c1842c41c59fd7251d03fed211": [
+        "鞋靴--时尚女鞋--布鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Cloth_Shoes"
+    ],
+    "9faa9a101cdf484998b7f64d34c7f113": [
+        "鞋靴--时尚女鞋--妈妈鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Comfort_Shoes"
+    ],
+    "ebeaf4c0ffc642d59ff1999256faaf2e": [
+        "鞋靴--时尚女鞋--绣花鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Embroidered_Shoes"
+    ],
+    "5fa2d3fd8c9940d5b091c9425e422607": [
+        "鞋靴--时尚女鞋--人字拖",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Flip_Flops"
+    ],
+    "0b3ab52eb8b54cc6b4296a997487db03": [
+        "鞋靴--时尚女鞋--内增高",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Hidden_Heels"
+    ],
+    "8e9e87c361d94e769728e47233db5789": [
+        "鞋靴--时尚女鞋--高跟鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--High_Heels"
+    ],
+    "b77285d6b496441c8e488f5a9f3840f3": [
+        "鞋靴--时尚女鞋--马丁靴",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Martin_Boots"
+    ],
+    "2242938f5270497cad946c8de2a4deee": [
+        "鞋靴--时尚女鞋--鱼嘴鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Peep_Toe_Shoes"
+    ],
+    "372d48581a22427096bf8101f01d0cc8": [
+        "鞋靴--时尚女鞋--松糕鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Platform_Shoes"
+    ],
+    "32a0433616314761aedca91cb1aa02d0": [
+        "鞋靴--时尚女鞋--单鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Pumps"
+    ],
+    "70a6dc13bd5249a2a811571e6a00f2f7": [
+        "鞋靴--时尚女鞋--雨靴",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Rain_Boots"
+    ],
+    "12fd397fc0104c4ea4253458e0ca8c4b": [
+        "鞋靴--时尚女鞋--雨鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Rain_Shoes"
+    ],
+    "030d8999375448e083442cce5dd2d8af": [
+        "鞋靴--时尚女鞋--凉鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Sandals"
+    ],
+    "26e1d689b70744c9adcd0cbf3cb20c27": [
+        "鞋靴--时尚女鞋--鞋配件",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Shoe_Accessories"
+    ],
+    "e2162158aaa04b2e93f2f259eafc0c3d": [
+        "鞋靴--时尚女鞋--拖鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Slippers"
+    ],
+    "ff80b7b7b0b14684ab12fd857f9a8345": [
+        "鞋靴--时尚女鞋--雪地靴",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Snow_Boots"
+    ],
+    "7a4143bfa9cb43c89349cde4d4c1d273": [
+        "鞋靴--时尚女鞋--特色鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Specialty_Shoes"
+    ],
+    "ebd0f4941e014b6fb9ffeba7d5a2befb": [
+        "鞋靴--时尚女鞋--防水台",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Waterproof_Platforms"
+    ],
+    "7db7407f8dbb4939a64cc26d72718196": [
+        "鞋靴--时尚女鞋--坡跟鞋",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Wedge_Shoes"
+    ],
+    "d90265c2d76149caacc2b496f80006b7": [
+        "鞋靴--时尚女鞋--女靴",
+        "Shoes_and_Boots--Womens_Fashion_Shoes--Womens_Boots"
+    ],
+    "55eac3358b234a31bc468b0b5fce3db2": [
+        "运动健康--骑行运动--平衡车",
+        "Sports_and_Fitness--Cycling_Sports--Balance_Bikes"
+    ],
+    "99be90e4459c415398100bffead9f257": [
+        "运动健康--骑行运动--骑行服",
+        "Sports_and_Fitness--Cycling_Sports--Cycling_Apparel"
+    ],
+    "c8d1b9a96cd948d79e13e0ab4df8c8ea": [
+        "运动健康--骑行运动--骑行装备",
+        "Sports_and_Fitness--Cycling_Sports--Cycling_Equipment"
+    ],
+    "5c8634d0e21041d8afa8e423c6f52971": [
+        "运动健康--骑行运动--电动车",
+        "Sports_and_Fitness--Cycling_Sports--Electric_Bikes"
+    ],
+    "de4e68dd53544b8d9131e71b4e4f1a21": [
+        "运动健康--骑行运动--折叠车",
+        "Sports_and_Fitness--Cycling_Sports--Folding_Bikes"
+    ],
+    "8ffa25fb321f4b17b9f3b211284ce309": [
+        "运动健康--骑行运动--山地车",
+        "Sports_and_Fitness--Cycling_Sports--Mountain_Bikes"
+    ],
+    "f5ff878f28b241aca2587cec1ec59ddd": [
+        "运动健康--骑行运动--其他整车",
+        "Sports_and_Fitness--Cycling_Sports--Other_Complete_Bikes"
+    ],
+    "90a1f305594d4ac487688b53e6dfdfad": [
+        "运动健康--骑行运动--公路车",
+        "Sports_and_Fitness--Cycling_Sports--Road_Bikes"
+    ],
+    "9da6a863bb524f44842261a5ce004808": [
+        "运动健康--垂钓用品--钓鱼配件",
+        "Sports_and_Fitness--Fishing_Supplies--Fishing_Accessories"
+    ],
+    "a581dca818e54c97b9d1d1cdfe0eca46": [
+        "运动健康--垂钓用品--鱼竿鱼线",
+        "Sports_and_Fitness--Fishing_Supplies--Fishing_Rods_and_Lines"
+    ],
+    "a16d45e0f0cf444f912a7c1801856f65": [
+        "运动健康--垂钓用品--钓鱼桌椅",
+        "Sports_and_Fitness--Fishing_Supplies--Fishing_Tables_and_Chairs"
+    ],
+    "a60e688284e04a31a0bd4123d1d3b19d": [
+        "运动健康--垂钓用品--浮漂鱼饵",
+        "Sports_and_Fitness--Fishing_Supplies--Floats_and_Baits"
+    ],
+    "bc54d3d13f464c2386d54bdd4a0c67bb": [
+        "运动健康--垂钓用品--其他",
+        "Sports_and_Fitness--Fishing_Supplies--Others"
+    ],
+    "6d8e9aed0b3e44e7afe188598529417d": [
+        "运动健康--垂钓用品--钓箱鱼包",
+        "Sports_and_Fitness--Fishing_Supplies--Tackle_Boxes_and_Bags"
+    ],
+    "fb42b483526647c8adf828fa88a90c3a": [
+        "运动健康--健身训练--臂力器",
+        "Sports_and_Fitness--Fitness_Training--Arm_Exercisers"
+    ],
+    "d1d11d9c21e64a7486d14f6a04c65a3e": [
+        "运动健康--健身训练--哑铃",
+        "Sports_and_Fitness--Fitness_Training--Dumbbells"
+    ],
+    "242439591f25453fbf33c660952d08f5": [
+        "运动健康--健身训练--健身车",
+        "Sports_and_Fitness--Fitness_Training--Exercise_Bikes"
+    ],
+    "20b760a596674dfea1743fea0c508cfd": [
+        "运动健康--健身训练--健身器材配件",
+        "Sports_and_Fitness--Fitness_Training--Fitness_Equipment_Accessories"
+    ],
+    "73a3efb176c24be7bd984938d8083a2e": [
+        "运动健康--健身训练--握力器",
+        "Sports_and_Fitness--Fitness_Training--Hand_Grippers"
+    ],
+    "73d5fa6d3ef94ea3a1ec25da24f66a00": [
+        "运动健康--健身训练--武术搏击",
+        "Sports_and_Fitness--Fitness_Training--Martial_Arts"
+    ],
+    "3eb6459d3e8b40be92df75bbceae5554": [
+        "运动健康--健身训练--综合训练器",
+        "Sports_and_Fitness--Fitness_Training--Multi-gym_Systems"
+    ],
+    "a1804d409033418f9c1ea618a824a05d": [
+        "运动健康--健身训练--其他中小型器材",
+        "Sports_and_Fitness--Fitness_Training--Other_Small_and_Medium_Equipment"
+    ],
+    "7c8844a3629c4b49ac896852d63149f8": [
+        "运动健康--健身训练--动感单车",
+        "Sports_and_Fitness--Fitness_Training--Spin_Bikes"
+    ],
+    "9fe52814a7cd4a0b96dc70881a82049c": [
+        "运动健康--健身训练--踏步机",
+        "Sports_and_Fitness--Fitness_Training--Steppers"
+    ],
+    "c13e8c808d254c919049006ac25e394a": [
+        "运动健康--健身训练--跑步机",
+        "Sports_and_Fitness--Fitness_Training--Treadmills"
+    ],
+    "948997f20fd249c2acc641204ed73bb4": [
+        "运动健康--健身训练--甩脂机",
+        "Sports_and_Fitness--Fitness_Training--Vibration_Machines"
+    ],
+    "5c346842bba34864b5986c97408dd013": [
+        "运动健康--健身训练--瑜伽舞蹈",
+        "Sports_and_Fitness--Fitness_Training--Yoga_and_Dance"
+    ],
+    "5bade662512448b097c5a20259ee0029": [
+        "运动健康--按摩器材--足浴盆",
+        "Sports_and_Fitness--Massage_Equipment--Foot_Baths"
+    ],
+    "cf595d530b2f403fb4a637e7d4d39efe": [
+        "运动健康--按摩器材--按摩椅",
+        "Sports_and_Fitness--Massage_Equipment--Massage_Chairs"
+    ],
+    "81c54235a627449bbe1652a58108dd97": [
+        "运动健康--按摩器材--按摩器",
+        "Sports_and_Fitness--Massage_Equipment--Massagers"
+    ],
+    "d5ccfa00a9ce49d5a45596fba2acc92e": [
+        "运动健康--营养健康--左旋肉碱",
+        "Sports_and_Fitness--Nutrition_and_Health--L-Carnitine"
+    ],
+    "dc14cec766874ff1ba5734a5aa803383": [
+        "运动健康--营养健康--增肌粉",
+        "Sports_and_Fitness--Nutrition_and_Health--Mass_Gainer"
+    ],
+    "670fe28c3d6b4963a775e959afeb66dc": [
+        "运动健康--营养健康--蛋白粉",
+        "Sports_and_Fitness--Nutrition_and_Health--Protein_Powder"
+    ],
+    "dfe1dfb4d3414524b3691903bdd3a5be": [
+        "运动健康--营养健康--运动饮料",
+        "Sports_and_Fitness--Nutrition_and_Health--Sports_Drinks"
+    ],
+    "5a78636e0d5b41fd9a2751675e9ae106": [
+        "运动健康--营养健康--减肥塑身",
+        "Sports_and_Fitness--Nutrition_and_Health--Weight_Loss_and_Body_Shaping"
+    ],
+    "80d1462591e04d81beb6731148ad448d": [
+        "运动健康--户外装备--背包",
+        "Sports_and_Fitness--Outdoor_Equipment--Backpacks"
+    ],
+    "4a0b718e6fd64d0d97796bf698a4aa5f": [
+        "运动健康--户外装备--望远镜",
+        "Sports_and_Fitness--Outdoor_Equipment--Binoculars"
+    ],
+    "4929ed9889b141ffb45c2d8ac6e21aab": [
+        "运动健康--户外装备--登山攀岩",
+        "Sports_and_Fitness--Outdoor_Equipment--Climbing_and_Mountaineering"
+    ],
+    "acb075c084b1405b942cb01134e86a36": [
+        "运动健康--户外装备--极限户外",
+        "Sports_and_Fitness--Outdoor_Equipment--Extreme_Outdoor"
+    ],
+    "badc8040365c4130935f089289a49713": [
+        "运动健康--户外装备--军迷用品",
+        "Sports_and_Fitness--Outdoor_Equipment--Military_Supplies"
+    ],
+    "2408d55c1d584e148236085eb10494f2": [
+        "运动健康--户外装备--户外照明",
+        "Sports_and_Fitness--Outdoor_Equipment--Outdoor_Lighting"
+    ],
+    "20dfd340e48d430e876d177c0b5eeab8": [
+        "运动健康--户外装备--户外工具",
+        "Sports_and_Fitness--Outdoor_Equipment--Outdoor_Tools"
+    ],
+    "0e58b07c95594d72b3d66027c793b29a": [
+        "运动健康--户外装备--野餐烧烤",
+        "Sports_and_Fitness--Outdoor_Equipment--Picnic_and_BBQ"
+    ],
+    "09392506d0d248348962f12fc7b1f367": [
+        "运动健康--户外装备--便携桌椅床",
+        "Sports_and_Fitness--Outdoor_Equipment--Portable_Tables,Chairs_and_Beds"
+    ],
+    "d7c6b60345724c52a78ec8551896fe00": [
+        "运动健康--户外装备--救援装备",
+        "Sports_and_Fitness--Outdoor_Equipment--Rescue_Equipment"
+    ],
+    "a0d62c72f8c542069a7cafdd87a0915c": [
+        "运动健康--户外装备--滑雪装备",
+        "Sports_and_Fitness--Outdoor_Equipment--Ski_Equipment"
+    ],
+    "28a02c81f6884e4cab8ccfa21e9a6110": [
+        "运动健康--户外装备--睡袋",
+        "Sports_and_Fitness--Outdoor_Equipment--Sleeping_Bags"
+    ],
+    "a88e6a0d2e5e47a99731aba81bd326c1": [
+        "运动健康--户外装备--冲浪潜水",
+        "Sports_and_Fitness--Outdoor_Equipment--Surfing_and_Diving"
+    ],
+    "f7cbc74c0e20411f88f174dc31e334aa": [
+        "运动健康--户外装备--帐篷",
+        "Sports_and_Fitness--Outdoor_Equipment--Tents"
+    ],
+    "c639bff6ca0f491faaef3d7054a374d3": [
+        "运动健康--户外装备--旅游用品",
+        "Sports_and_Fitness--Outdoor_Equipment--Travel_Supplies"
+    ],
+    "a7280243e0594f51bcc18e6a3e8660a8": [
+        "运动健康--户外鞋服--沙滩凉拖",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Beach_Sandals"
+    ],
+    "a5c471bce33c44de9741fdfbf25a6348": [
+        "运动健康--户外鞋服--休闲衣裤",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Casual_Apparel"
+    ],
+    "d4001ea24fee4c47b8542c01ce7937e8": [
+        "运动健康--户外鞋服--休闲鞋",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Casual_Shoes"
+    ],
+    "62608d4f18084675b0bea6d4ff810ca9": [
+        "运动健康--户外鞋服--棉服",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Cotton-padded_Clothes"
+    ],
+    "9079dbd0d39846069fdc1cb736800626": [
+        "运动健康--户外鞋服--羽绒服",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Down_Jackets"
+    ],
+    "5ea24588cda34944b5e4f9e5dbe60d5f": [
+        "运动健康--户外鞋服--抓绒衣裤",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Fleece_Apparel"
+    ],
+    "69bfeffe1bd34439a9b25dd8f747c9dc": [
+        "运动健康--户外鞋服--功能内衣",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Functional_Underwear"
+    ],
+    "98da9216dc154fb29c2b4179adfba1bd": [
+        "运动健康--户外鞋服--登山鞋",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Hiking_Boots"
+    ],
+    "9778b629ed3845c28a20584e3b938601": [
+        "运动健康--户外鞋服--冲锋衣",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Jackets"
+    ],
+    "4090bbc6319940ccace005f71a00ad8b": [
+        "运动健康--户外鞋服--军迷服饰",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Military-style_Apparel"
+    ],
+    "936a8bd5c6cf4a4ea1ec0d2016c571ba": [
+        "运动健康--户外鞋服--户外袜",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Outdoor_Socks"
+    ],
+    "47bee696e07540899180a89cfadaeab4": [
+        "运动健康--户外鞋服--户外风衣",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Outdoor_Windbreakers"
+    ],
+    "14205d02c1214155aec39b3f4358cb34": [
+        "运动健康--户外鞋服--速干衣裤",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Quick-dry_Apparel"
+    ],
+    "22fad2e89db24d5a8dbee4a1e4108386": [
+        "运动健康--户外鞋服--滑雪服",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Ski_Wear"
+    ],
+    "63974f51a6af42c9aa3cfddf905e693f": [
+        "运动健康--户外鞋服--雪地靴",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Snow_Boots"
+    ],
+    "9cd3ef44374247cdb9552070ab5b6918": [
+        "运动健康--户外鞋服--软壳衣裤",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Softshell_Apparel"
+    ],
+    "fbe351a6a30d407a847dfd79e7ca1a7e": [
+        "运动健康--户外鞋服--T恤",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--T-shirts"
+    ],
+    "d5359c2880904217af984574652d973e": [
+        "运动健康--户外鞋服--越野跑鞋",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Trail_Running_Shoes"
+    ],
+    "a01eb5b9f93f4b9393a571345ee7959c": [
+        "运动健康--户外鞋服--徒步鞋",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Trekking_Shoes"
+    ],
+    "8f91779c75124d8eaf0b457d31629a18": [
+        "运动健康--户外鞋服--溯溪鞋",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Water_Shoes"
+    ],
+    "c21c135d3dcb45a6b37b654ed5cf3893": [
+        "运动健康--户外鞋服--工装鞋",
+        "Sports_and_Fitness--Outdoor_Shoes_and_Apparel--Work_Boots"
+    ],
+    "b245ce88ed4b4cacba3cf8b5e9c05eb7": [
+        "运动健康--运动服饰--运动配饰",
+        "Sports_and_Fitness--Sports_Apparel--Sports_Accessories"
+    ],
+    "ec77800d42ea460aafbb82880f38683f": [
+        "运动健康--运动服饰--运动裤",
+        "Sports_and_Fitness--Sports_Apparel--Sports_Pants"
+    ],
+    "5381a2047e804eeaa5b5770ee218ba84": [
+        "运动健康--运动服饰--运动套装",
+        "Sports_and_Fitness--Sports_Apparel--Sports_Suits"
+    ],
+    "1d8cf45f13ee473ebefce1fa96ddab13": [
+        "运动健康--运动服饰--运动T恤",
+        "Sports_and_Fitness--Sports_Apparel--Sports_T-shirts"
+    ],
+    "879cb5bd2887418cbb5ebfb78c81d682": [
+        "运动健康--运动服饰--泳装",
+        "Sports_and_Fitness--Sports_Apparel--Swimwear"
+    ],
+    "d2d1f2d5308244a6abe05a5bf7d4fb21": [
+        "运动健康--体育用品--羽毛球",
+        "Sports_and_Fitness--Sports_Equipment--Badminton"
+    ],
+    "e770b80a2586422287cff7ed98ca8731": [
+        "运动健康--体育用品--篮球",
+        "Sports_and_Fitness--Sports_Equipment--Basketball"
+    ],
+    "f3e665afc8c54fbe9f502faaad10d936": [
+        "运动健康--体育用品--台球",
+        "Sports_and_Fitness--Sports_Equipment--Billiards"
+    ],
+    "8cc3a6504cf64188a6e5568347c42c74": [
+        "运动健康--体育用品--棋牌麻将",
+        "Sports_and_Fitness--Sports_Equipment--Chess,Cards_and_Mahjong"
+    ],
+    "d84665a0324d459ea37627fd825e6e01": [
+        "运动健康--体育用品--高尔夫",
+        "Sports_and_Fitness--Sports_Equipment--Golf"
+    ],
+    "92d7b8e4b08546ed972322679aed30a6": [
+        "运动健康--体育用品--其他",
+        "Sports_and_Fitness--Sports_Equipment--Others"
+    ],
+    "60dc97c6f663429289b3834dd2ee8c57": [
+        "运动健康--体育用品--轮滑滑板",
+        "Sports_and_Fitness--Sports_Equipment--Roller_Skating_and_Skateboarding"
+    ],
+    "caa5e2fe2d4d4d31b68bb8b60fc1bad8": [
+        "运动健康--体育用品--足球",
+        "Sports_and_Fitness--Sports_Equipment--Soccer"
+    ],
+    "5feebfc58efc4e6281643fa6d6a4024d": [
+        "运动健康--体育用品--乒乓球",
+        "Sports_and_Fitness--Sports_Equipment--Table_Tennis"
+    ],
+    "e22e0ddc8ae1477f9649cc2e83ff4611": [
+        "运动健康--体育用品--网球",
+        "Sports_and_Fitness--Sports_Equipment--Tennis"
+    ],
+    "8798cdc85cc84b498ebc5267000f4250": [
+        "运动健康--体育用品--排球",
+        "Sports_and_Fitness--Sports_Equipment--Volleyball"
+    ],
+    "9bccf056f5354aeb84420086a3c35507": [
+        "运动健康--运动鞋包--篮球鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Basketball_Shoes"
+    ],
+    "f969a77d86934e27a44fe621dd9f5366": [
+        "运动健康--运动鞋包--帆布鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Canvas_Shoes"
+    ],
+    "d2dab69daa5d4c03bfce25399d227c3d": [
+        "运动健康--运动鞋包--休闲鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Casual_Shoes"
+    ],
+    "2cd248b84aae4304bae01e0e6aa2cbbe": [
+        "运动健康--运动鞋包--跑步鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Running_Shoes"
+    ],
+    "d3a64081498a4f4cb0255b253e624f60": [
+        "运动健康--运动鞋包--板鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Skateboard_Shoes"
+    ],
+    "24a2068bbcbd4a6b805349288db79b19": [
+        "运动健康--运动鞋包--足球鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Soccer_Shoes"
+    ],
+    "ef18c4c3d9a04efb9c7b546ebf8b4193": [
+        "运动健康--运动鞋包--运动包",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Sports_Bags"
+    ],
+    "a6c82d55e19e49b495e9b859198dc992": [
+        "运动健康--运动鞋包--乒羽网鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Table_Tennis/Badminton/Tennis_Shoes"
+    ],
+    "9d1ffa738dcb4ae5b9bc480205a13c2e": [
+        "运动健康--运动鞋包--训练鞋",
+        "Sports_and_Fitness--Sports_Shoes_and_Bags--Training_Shoes"
+    ],
+    "d1d4a8ecf94a48ad8b9a00f96a668536": [
+        "运动健康--游泳用品--比基尼",
+        "Sports_and_Fitness--Swimming_Supplies--Bikinis"
+    ],
+    "b17544b24ed54a8594b2b061a530f461": [
+        "运动健康--游泳用品--男士泳衣",
+        "Sports_and_Fitness--Swimming_Supplies--Men's_Swimwear"
+    ],
+    "e41c59c169834311844043da6c0ffdd1": [
+        "运动健康--游泳用品--其他",
+        "Sports_and_Fitness--Swimming_Supplies--Others"
+    ],
+    "3d6fe96653d342ef9660405fd4788dac": [
+        "运动健康--游泳用品--游泳包防水包",
+        "Sports_and_Fitness--Swimming_Supplies--Swim_Bags_and_Waterproof_Bags"
+    ],
+    "54bd2bf405364069b49e7670047454f6": [
+        "运动健康--游泳用品--泳帽",
+        "Sports_and_Fitness--Swimming_Supplies--Swim_Caps"
+    ],
+    "d2fc699bf21f49a794e5503163457874": [
+        "运动健康--游泳用品--游泳镜",
+        "Sports_and_Fitness--Swimming_Supplies--Swimming_Goggles"
+    ],
+    "1a250f93a36e4065abf906ec3f4f3574": [
+        "运动健康--游泳用品--女士泳衣",
+        "Sports_and_Fitness--Swimming_Supplies--Women's_Swimwear"
+    ],
+    "d7e68644d7b04a0f87329a035286dda6": [
+        "玩具乐器--适用年龄--0-6个月",
+        "Toys_and_Musical_Instruments--Age_Range--0-6_Months"
+    ],
+    "80d8d1d7a40e4346a4bf04d7945ffc50": [
+        "玩具乐器--适用年龄--14岁以上",
+        "Toys_and_Musical_Instruments--Age_Range--14_Years_and_Above"
+    ],
+    "95f39c13e5184befb88414fa64b2631d": [
+        "玩具乐器--适用年龄--1-3岁",
+        "Toys_and_Musical_Instruments--Age_Range--1-3_Years"
+    ],
+    "8e1a67dfc969465ca9bc44e69c67190c": [
+        "玩具乐器--适用年龄--3-6岁",
+        "Toys_and_Musical_Instruments--Age_Range--3-6_Years"
+    ],
+    "ceb663113d4341339db0d0bcedc74232": [
+        "玩具乐器--适用年龄--6-12个月",
+        "Toys_and_Musical_Instruments--Age_Range--6-12_Months"
+    ],
+    "f6d2ae9472ee4455a11278f840ac7a9d": [
+        "玩具乐器--适用年龄--6-14岁",
+        "Toys_and_Musical_Instruments--Age_Range--6-14_Years"
+    ],
+    "a52725d09300497fa4f491d24e8b6e2d": [
+        "玩具乐器--动漫玩具--动漫玩偶",
+        "Toys_and_Musical_Instruments--Anime_Toys--Anime_Figures"
+    ],
+    "bfbb1d1172eb48869628959f0f70f952": [
+        "玩具乐器--动漫玩具--影视周边",
+        "Toys_and_Musical_Instruments--Anime_Toys--Movie_TV_Merchandise"
+    ],
+    "fc9497711616483a808f2cfee7742de5": [
+        "玩具乐器--积木拼插--积木",
+        "Toys_and_Musical_Instruments--Building_Blocks--Blocks"
+    ],
+    "672831769e7d40f9a7592f7254f017d7": [
+        "玩具乐器--积木拼插--磁力片",
+        "Toys_and_Musical_Instruments--Building_Blocks--Magnetic_Tiles"
+    ],
+    "81491f920be44f7b9ad10ee627c72a39": [
+        "玩具乐器--积木拼插--拼图",
+        "Toys_and_Musical_Instruments--Building_Blocks--Puzzles"
+    ],
+    "ad10c7bceaba48c3b1f8c1c6bb5b77e0": [
+        "玩具乐器--DIY玩具--串珠",
+        "Toys_and_Musical_Instruments--DIY_Toys--Beading"
+    ],
+    "f844f8666b534f94a35423a9334e4ee2": [
+        "玩具乐器--DIY玩具--彩泥",
+        "Toys_and_Musical_Instruments--DIY_Toys--Clay"
+    ],
+    "9ac3e3958ec64169952aa8b0f541a82c": [
+        "玩具乐器--DIY玩具--绘画工具",
+        "Toys_and_Musical_Instruments--DIY_Toys--Drawing_Tools"
+    ],
+    "fd6d8992829849f59e0e63c4f7f47466": [
+        "玩具乐器--DIY玩具--手工",
+        "Toys_and_Musical_Instruments--DIY_Toys--Handicrafts"
+    ],
+    "775edeb32ba6496a80dcc0e2fd4b6da4": [
+        "玩具乐器--DIY玩具--编织",
+        "Toys_and_Musical_Instruments--DIY_Toys--Weaving"
+    ],
+    "618a310b3d654d6894c221cdda0cccc3": [
+        "玩具乐器--娃娃玩具--芭比娃娃",
+        "Toys_and_Musical_Instruments--Dolls_and_Plush_Toys--Barbie_Dolls"
+    ],
+    "6631209375e442dab67842e247f3c0c0": [
+        "玩具乐器--娃娃玩具--卡通娃娃",
+        "Toys_and_Musical_Instruments--Dolls_and_Plush_Toys--Cartoon_Dolls"
+    ],
+    "3ff3179bd1964a6e881fa8048234f4bb": [
+        "玩具乐器--娃娃玩具--智能娃娃",
+        "Toys_and_Musical_Instruments--Dolls_and_Plush_Toys--Smart_Dolls"
+    ],
+    "29da80e7c203444291075114b02d8bdf": [
+        "玩具乐器--益智玩具--立体拼图",
+        "Toys_and_Musical_Instruments--Educational_Toys--3D_Puzzles"
+    ],
+    "042836a46f5c4ff8a974c58eeea8d31d": [
+        "玩具乐器--益智玩具--健身架",
+        "Toys_and_Musical_Instruments--Educational_Toys--Baby_Gyms"
+    ],
+    "5a53b27695494822a5c89740a138f0c8": [
+        "玩具乐器--益智玩具--积木拼插",
+        "Toys_and_Musical_Instruments--Educational_Toys--Building_Blocks"
+    ],
+    "a17fa3da540b419591a6bc0232ae66aa": [
+        "玩具乐器--益智玩具--床铃",
+        "Toys_and_Musical_Instruments--Educational_Toys--Crib_Mobiles"
+    ],
+    "540d6a7e359442ba99e07d30b72722d2": [
+        "玩具乐器--益智玩具--DIY玩具",
+        "Toys_and_Musical_Instruments--Educational_Toys--DIY_Toys"
+    ],
+    "ba29adf7eda84c09be8b80af2d9cc91c": [
+        "玩具乐器--益智玩具--早教启智",
+        "Toys_and_Musical_Instruments--Educational_Toys--Early_Education_Toys"
+    ],
+    "45137becb7d141e5a39c13c02585da13": [
+        "玩具乐器--益智玩具--磁力棒",
+        "Toys_and_Musical_Instruments--Educational_Toys--Magnetic_Rods"
+    ],
+    "324a8e6143a1410da9a723f4c99d573c": [
+        "玩具乐器--益智玩具--拖拉玩具",
+        "Toys_and_Musical_Instruments--Educational_Toys--Pull_Toys"
+    ],
+    "c0367537061e4b8eadef98f8a0d6a4ad": [
+        "玩具乐器--益智玩具--摇铃",
+        "Toys_and_Musical_Instruments--Educational_Toys--Rattles"
+    ],
+    "89a801e8d37c49e9868ef5f5d1a34e73": [
+        "玩具乐器--健身玩具--爬行毯",
+        "Toys_and_Musical_Instruments--Fitness_Toys--Crawling_Mats"
+    ],
+    "907547652863404abcc7ed11dcf1aa07": [
+        "玩具乐器--健身玩具--炫舞毯",
+        "Toys_and_Musical_Instruments--Fitness_Toys--Dance_Mats"
+    ],
+    "440b224a62fc459e9ae7a1765a70483d": [
+        "玩具乐器--健身玩具--爬行垫",
+        "Toys_and_Musical_Instruments--Fitness_Toys--Play_Mats"
+    ],
+    "bd5f6a0273464f5ab51e534c911e29b1": [
+        "玩具乐器--模型玩具--拼插模型",
+        "Toys_and_Musical_Instruments--Model_Toys--Building_Models"
+    ],
+    "eba37102d6984e1a8f58aca097dcb8cf": [
+        "玩具乐器--模型玩具--收藏爱好",
+        "Toys_and_Musical_Instruments--Model_Toys--Collectibles"
+    ],
+    "8003602b23ca40dca457e5728cc6b81a": [
+        "玩具乐器--模型玩具--仿真模型",
+        "Toys_and_Musical_Instruments--Model_Toys--Scale_Models"
+    ],
+    "9cf0a027433846bfac73039f52dab3cc": [
+        "玩具乐器--乐器--手风琴",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Accordions"
+    ],
+    "99a329018507481e8c70f41c2b98afd1": [
+        "玩具乐器--乐器--贝斯",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Bass_Guitars"
+    ],
+    "94a8ec6654fb46d2a5354191ec28cb5b": [
+        "玩具乐器--乐器--民族管弦乐器",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Chinese_Traditional_Instruments"
+    ],
+    "1a5f916a851d4cb1b4b49178701da018": [
+        "玩具乐器--乐器--工艺礼品乐器",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Decorative_Instruments"
+    ],
+    "c3ccd4a6caaf4f11ac4769d79ae8df08": [
+        "玩具乐器--乐器--电脑音乐",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Digital_Music"
+    ],
+    "036f835a681147e999e34381bab75e36": [
+        "玩具乐器--乐器--电子琴",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Electronic_Keyboards"
+    ],
+    "def5b540604e499b9205de68be990b12": [
+        "玩具乐器--乐器--吉他",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Guitars"
+    ],
+    "b11287cb76344b5b8bda96c08c9c8b95": [
+        "玩具乐器--乐器--口琴",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Harmonicas"
+    ],
+    "1eb143ca3eda43eca659e821457c0fb6": [
+        "玩具乐器--乐器--乐器配件",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Musical_Instrument_Accessories"
+    ],
+    "cf8368414631454eb207ada977ff4039": [
+        "玩具乐器--乐器--打击乐器",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Percussion_Instruments"
+    ],
+    "50b73cf954014027a63517a0861cd84b": [
+        "玩具乐器--乐器--钢琴",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Pianos"
+    ],
+    "0569be5f483040a6ac55cab3b45db2a5": [
+        "玩具乐器--乐器--西洋管弦乐",
+        "Toys_and_Musical_Instruments--Musical_Instruments--Western_Orchestra_Instruments"
+    ],
+    "a1b3fdde5b714ca5b78a77bbc01075a1": [
+        "玩具乐器--毛绒布艺--靠垫",
+        "Toys_and_Musical_Instruments--Plush_and_Fabric_Toys--Cushions"
+    ],
+    "9de946b952224e489c8eee189a40d9ea": [
+        "玩具乐器--毛绒布艺--布艺",
+        "Toys_and_Musical_Instruments--Plush_and_Fabric_Toys--Fabric_Toys"
+    ],
+    "5032d8f6a0d84865aef0595c011e6506": [
+        "玩具乐器--毛绒布艺--毛绒",
+        "Toys_and_Musical_Instruments--Plush_and_Fabric_Toys--Plush_Toys"
+    ],
+    "525ce0469b8445a3a89f09aa0a2100ba": [
+        "玩具乐器--毛绒布艺--抱枕",
+        "Toys_and_Musical_Instruments--Plush_and_Fabric_Toys--Throw_Pillows"
+    ],
+    "8f2774a0f3fe4fc1bcab89ee794bfe28": [
+        "玩具乐器--遥控电动--遥控船",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--RC_Boats"
+    ],
+    "585f91bafaf24c5aaedb6f0031dd01ed": [
+        "玩具乐器--遥控电动--遥控车",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--RC_Cars"
+    ],
+    "74d51be71ea94f6aa81235b16bed9582": [
+        "玩具乐器--遥控电动--遥控飞机",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--RC_Planes"
+    ],
+    "02ebc6337a254cb48ccd795ce3cbd66b": [
+        "玩具乐器--遥控电动--助力",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--Ride_On_Toys"
+    ],
+    "4387eba1aea349b197f8495bfdbeec00": [
+        "玩具乐器--遥控电动--机器人",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--Robots"
+    ],
+    "cbc568270cf248fa9bd0c9b727eeb56a": [
+        "玩具乐器--遥控电动--轨道",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--Train_Sets"
+    ],
+    "4c55f3b4cfca4874abea665824fb045b": [
+        "玩具乐器--遥控电动--变形",
+        "Toys_and_Musical_Instruments--Remote_Control_Electric--Transformers"
+    ],
+    "5d379b972a9542a2b73a6d18b0a6d7ff": [
+        "整车--MPV--MPV",
+        "Vehicles--MPV--MPV"
+    ],
+    "d38ff212f7f14e8a9e7fb7cceac88260": [
+        "整车--新能源--混合动力",
+        "Vehicles--New_Energy_Vehicles--Hybrid"
+    ],
+    "ef5fc46c500a4c57a91ede5f1ad8e768": [
+        "整车--新能源--纯电动",
+        "Vehicles--New_Energy_Vehicles--Pure_Electric"
+    ],
+    "d0ba8022aec74a10a3055f74acd0cf87": [
+        "整车--其他--微面",
+        "Vehicles--Others--Micro_Vans"
+    ],
+    "e8c782974e4648449bd3d88de15066f3": [
+        "整车--其他--皮卡",
+        "Vehicles--Others--Pickup_Trucks"
+    ],
+    "f5280edb544248f2954b3661a0c50e70": [
+        "整车--SUV--紧凑型SUV",
+        "Vehicles--SUV--Compact_SUV"
+    ],
+    "75f8ca34d7c34c40bedc89e02164c142": [
+        "整车--SUV--中大型SUV",
+        "Vehicles--SUV--Large_SUV"
+    ],
+    "04cb3462945c42c0817c37a17ad196e5": [
+        "整车--SUV--中型SUV",
+        "Vehicles--SUV--Mid-size_SUV"
+    ],
+    "219b6c39171545ee85b3bff5465f2be3": [
+        "整车--SUV--小型SUV",
+        "Vehicles--SUV--Small_SUV"
+    ],
+    "4f6e8607fa1d4d4fb7dfba15c780e91a": [
+        "整车--轿车--紧凑型车",
+        "Vehicles--Sedans--Compact_Cars"
+    ],
+    "60e92fc3bf464302b1097753083ce224": [
+        "整车--轿车--中大型车",
+        "Vehicles--Sedans--Large_Cars"
+    ],
+    "1910a9496cfd433a86fa8994756c4f57": [
+        "整车--轿车--豪华车",
+        "Vehicles--Sedans--Luxury_Cars"
+    ],
+    "863bfabc68be4c9ab9272345bd9acdf1": [
+        "整车--轿车--微型车",
+        "Vehicles--Sedans--Micro_Cars"
+    ],
+    "a0aea81d487f469ca2cf07774b67a9e8": [
+        "整车--轿车--中型车",
+        "Vehicles--Sedans--Mid-size_Cars"
+    ],
+    "3cea7445948f45cda87efbc5860ef906": [
+        "整车--轿车--小型车",
+        "Vehicles--Sedans--Small_Cars"
+    ],
+    "74ba0b7cf8e9402e9217efcb58bfea7d": [
+        "整车--跑车--跑车",
+        "Vehicles--Sports_Cars--Sports_Cars"
+    ],
+    "03a8d544646e4f0881b4c5eb88a49cdf": [
+        "钟表--时钟--闹钟",
+        "Watches_and_Clocks--Clocks--Alarm_Clocks"
+    ],
+    "45f084e8c4024691b19d4b72cc393e7d": [
+        "钟表--时钟--座钟",
+        "Watches_and_Clocks--Clocks--Desk_Clocks"
+    ],
+    "dfddbced001a41d5aa163181bd6af26d": [
+        "钟表--时钟--挂钟",
+        "Watches_and_Clocks--Clocks--Wall_Clocks"
+    ],
+    "12eee20d544c411e90672d742f7ef4d5": [
+        "钟表--钟表配件--钟表配件",
+        "Watches_and_Clocks--Watch_Accessories--Watch_Accessories"
+    ],
+    "c4aa6c31e3704515b34ff84d17bf4159": [
+        "钟表--腕表--国表",
+        "Watches_and_Clocks--Wristwatches--Chinese_Watches"
+    ],
+    "e91801024f26442da748e10653463197": [
+        "钟表--腕表--欧美表",
+        "Watches_and_Clocks--Wristwatches--European_American_Watches"
+    ],
+    "3c5fe85e911b45a09c198c24f7723da2": [
+        "钟表--腕表--德表",
+        "Watches_and_Clocks--Wristwatches--German_Watches"
+    ],
+    "a3a2683a419548dc99e00999e1827264": [
+        "钟表--腕表--日韩表",
+        "Watches_and_Clocks--Wristwatches--Japanese_Korean_Watches"
+    ],
+    "fda9e04c8cae4b069d5f13a9bb921a8c": [
+        "钟表--腕表--智能手表",
+        "Watches_and_Clocks--Wristwatches--Smartwatches"
+    ],
+    "7ad0f0f2204a409d84bd7b9b4eb0c3a4": [
+        "钟表--腕表--瑞表",
+        "Watches_and_Clocks--Wristwatches--Swiss_Watches"
+    ]
+}
