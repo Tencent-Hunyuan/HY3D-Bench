@@ -83,15 +83,16 @@ class FlashVDMCrossAttentionProcessor:
 
 
 class FlashVDMTopMCrossAttentionProcessor(FlashVDMCrossAttentionProcessor):
-    def select_topkv(self, q_chunk, k, v, topk):
-        q1 = q_chunk[:, :, ::30, :]
+    def select_topkv(self, q_chunk, k, v, topk, stride=30):
+        q1 = q_chunk[:, :, ::stride, :]
         sim = q1 @ k.transpose(-1, -2)
         # sim = sim.to(torch.float32)
         sim = sim.softmax(-1)
         sim = torch.mean(sim, 1)
         activated_token = torch.where(sim > 1e-6)[2]
         index = torch.unique(activated_token, return_counts=True)[0].unsqueeze(0).unsqueeze(0).unsqueeze(-1)
-        index = index.expand(-1, v.shape[1], -1, v.shape[-1])
+        # Merge active token indices, but gather each batch element's own K/V.
+        index = index.expand(v.shape[0], v.shape[1], -1, v.shape[-1])
         v0 = torch.gather(v, dim=-2, index=index)
         k0 = torch.gather(k, dim=-2, index=index)
         return k0, v0
