@@ -119,8 +119,10 @@ class MCSurfaceExtractor(SurfaceExtractor):
         vertices, faces, normals, _ = measure.marching_cubes(grid_logit.cpu().numpy(),
                                                              mc_level,
                                                              method="lewiner")
-        grid_size, bbox_min, bbox_size = self._compute_box_stat(bounds, octree_resolution)
-        vertices = vertices / grid_size * bbox_size + bbox_min
+        _, bbox_min, bbox_size = self._compute_box_stat(bounds, octree_resolution)
+        # Marching cubes returns sample indices; N samples span N - 1 intervals.
+        grid_intervals = np.asarray(grid_logit.shape) - 1
+        vertices = vertices / grid_intervals * bbox_size + bbox_min
         return vertices, faces
 
 
